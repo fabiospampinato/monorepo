@@ -1,0 +1,3 @@
+[submodule "tiny-colors"]
+	path = tiny-colors
+	url = https://github.com/fabiospampinato/tiny-colors.git

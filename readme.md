@@ -27,3 +27,5 @@ Repositories listed below are marked with some of the following badges.
 ## Repositories
 
 > Currently in the looong process of porting everything to ESM-only, this will take a while.
+
+- [`tiny-colors`](https://github.com/fabiospampinato/tiny-colors) `P-D-ISO`: A tiny library providing the basic ANSI colors for the terminal.
