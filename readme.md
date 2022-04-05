@@ -31,6 +31,7 @@ Repositories listed below are marked with some of the following badges.
 - [`base128-encoding`](https://github.com/fabiospampinato/base128-encoding) `PP-DDD-ISO`: Base128 encoding, the intersection of latin1 and utf-8, which is basically ASCII, the most memory-efficient string encoding that can be written to disk as utf-8 without ballooning in size.
 - [`base256-encoding`](https://github.com/fabiospampinato/base256-encoding) `PP-DDD-ISO`: Base256 encoding, a.k.a. latin1 encoding, the most memory-efficient encoding possible in JavaScript.
 - [`call-chainer`](https://github.com/fabiospampinato/call-chainer) `P-D-ISO`: Combine a regular function and a class so that methods of the class become chainable properties of the function that get called automatically.
+- [`crypto-pbkdf2-hmac`](https://github.com/fabiospampinato/crypto-pbkdf2-hmac) `PP-D-ISO`: Isomorphic wrapper for the PBKDF2-HMAC key derivation function.
 - [`crypto-random-bigint`](https://github.com/fabiospampinato/crypto-random-bigint) `PP-D-ISO`: Generate a cryptographically-random BigInt with the given number of bits of entropy.
 - [`crypto-random-hexadecimal`](https://github.com/fabiospampinato/crypto-random-hexadecimal) `PP-D-ISO`: Generate a cryptographically-random hexadecimal string with the given number of bytes of entropy.
 - [`crypto-random-in-range`](https://github.com/fabiospampinato/crypto-random-in-range) `PP-D-ISO`: Pick a cryptographically-random integer within a range.
