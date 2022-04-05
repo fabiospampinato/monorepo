@@ -1,3 +1,6 @@
 [submodule "tiny-colors"]
 	path = tiny-colors
 	url = https://github.com/fabiospampinato/tiny-colors.git
+[submodule "tiny-divider"]
+	path = tiny-divider
+	url = https://github.com/fabiospampinato/tiny-divider.git
