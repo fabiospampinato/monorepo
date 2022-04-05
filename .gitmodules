@@ -31,3 +31,6 @@
 [submodule "decode-base64"]
 	path = decode-base64
 	url = https://github.com/fabiospampinato/decode-base64.git
+[submodule "event-loop-yielder"]
+	path = event-loop-yielder
+	url = https://github.com/fabiospampinato/event-loop-yielder.git
