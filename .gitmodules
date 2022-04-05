@@ -7,3 +7,6 @@
 [submodule "is"]
 	path = is
 	url = https://github.com/fabiospampinato/is.git
+[submodule "string-from-charcodes"]
+	path = string-from-charcodes
+	url = https://github.com/fabiospampinato/string-from-charcodes.git
