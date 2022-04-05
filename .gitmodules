@@ -10,3 +10,6 @@
 [submodule "string-from-charcodes"]
 	path = string-from-charcodes
 	url = https://github.com/fabiospampinato/string-from-charcodes.git
+[submodule "uint8-encoding"]
+	path = uint8-encoding
+	url = https://github.com/fabiospampinato/uint8-encoding.git
