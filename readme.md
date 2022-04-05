@@ -45,4 +45,5 @@ Repositories listed below are marked with some of the following badges.
 - [`tiny-divider`](https://github.com/fabiospampinato/tiny-divider) `PP-D-ISO`: A tiny simple terminal divider that spans the entire width of the terminal.
 - [`tiny-webcrypto`](https://github.com/fabiospampinato/tiny-webcrypto) `P-DDD-ISO`: A tiny isomorphic WebCrypto object, it just gives you the native one the current platform provides.
 - [`uint8-encoding`](https://github.com/fabiospampinato/uint8-encoding) `P-DDD-ISO`: Uint8 encoding, a simple way to convert strings to Uint8Arrays and vice versa.
+- [`uint8-to-hex`](https://github.com/fabiospampinato/uint8-to-hex) `PP-DDD-ISO`: The fastest function to convert a Uint8Array to hexadecimal.
 - [`utf16le-encoding`](https://github.com/fabiospampinato/utf16le-encoding) `P-DDD-ISO`: UTF16-le encoding, a.k.a. UCS2 encoding, an encoding you probably should never use.
