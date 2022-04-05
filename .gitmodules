@@ -61,3 +61,6 @@
 [submodule "once"]
 	path = once
 	url = https://github.com/fabiospampinato/once.git
+[submodule "crypto-xxhash-64"]
+	path = crypto-xxhash-64
+	url = https://github.com/fabiospampinato/crypto-xxhash-64.git
