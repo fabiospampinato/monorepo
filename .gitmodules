@@ -25,3 +25,6 @@
 [submodule "base128-encoding"]
 	path = base128-encoding
 	url = https://github.com/fabiospampinato/base128-encoding.git
+[submodule "base256-encoding"]
+	path = base256-encoding
+	url = https://github.com/fabiospampinato/base256-encoding.git
