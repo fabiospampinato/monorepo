@@ -28,6 +28,7 @@ Repositories listed below are marked with some of the following badges.
 
 > Currently in the looong process of porting everything to ESM-only, this will take a while.
 
+- [`base128-encoding`](https://github.com/fabiospampinato/base128-encoding) `PP-DDD-ISO`: Base128 encoding, the intersection of latin1 and utf-8, which is basically ASCII, the most memory-efficient string encoding that can be written to disk as utf-8 without ballooning in size.
 - [`hex-encoding`](https://github.com/fabiospampinato/hex-encoding) `PP-DDD-ISO`: Hex encoding. An extremely fast and synchronous JS implementation.
 - [`is`](https://github.com/fabiospampinato/is) `P-D-ISO`: The definitive collection of is* functions for runtime type checking. Lodash-compatible, tree-shakable, with types.
 - [`radix-encoding`](https://github.com/fabiospampinato/radix-encoding) `PP-DDD-ISO`: Radix64 encoding, a.k.a. Base64 encoding. An extremely fast and synchronous JS implementation.

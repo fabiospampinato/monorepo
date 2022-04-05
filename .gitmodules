@@ -22,3 +22,6 @@
 [submodule "hex-encoding"]
 	path = hex-encoding
 	url = https://github.com/fabiospampinato/hex-encoding.git
+[submodule "base128-encoding"]
+	path = base128-encoding
+	url = https://github.com/fabiospampinato/base128-encoding.git
