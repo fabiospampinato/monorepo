@@ -37,3 +37,6 @@
 [submodule "call-chainer"]
 	path = call-chainer
 	url = https://github.com/fabiospampinato/call-chainer.git
+[submodule "tiny-webcrypto"]
+	path = tiny-webcrypto
+	url = https://github.com/fabiospampinato/tiny-webcrypto.git
