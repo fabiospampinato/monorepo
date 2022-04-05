@@ -33,3 +33,4 @@ Repositories listed below are marked with some of the following badges.
 - [`tiny-colors`](https://github.com/fabiospampinato/tiny-colors) `P-D-ISO`: A tiny library providing the basic ANSI colors for the terminal.
 - [`tiny-divider`](https://github.com/fabiospampinato/tiny-divider) `PP-D-ISO`: A tiny simple terminal divider that spans the entire width of the terminal.
 - [`uint8-encoding`](https://github.com/fabiospampinato/uint8-encoding) `P-DDD-ISO`: Uint8 encoding, a simple way to convert strings to Uint8Arrays and vice versa.
+- [`utf16le-encoding`](https://github.com/fabiospampinato/utf16le-encoding) `P-DDD-ISO`: UTF16-le encoding, a.k.a. UCS2 encoding, an encoding you probably should never use.

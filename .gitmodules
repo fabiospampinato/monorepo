@@ -13,3 +13,6 @@
 [submodule "uint8-encoding"]
 	path = uint8-encoding
 	url = https://github.com/fabiospampinato/uint8-encoding.git
+[submodule "utf16le-encoding"]
+	path = utf16le-encoding
+	url = https://github.com/fabiospampinato/utf16le-encoding.git
