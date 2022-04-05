@@ -40,3 +40,6 @@
 [submodule "tiny-webcrypto"]
 	path = tiny-webcrypto
 	url = https://github.com/fabiospampinato/tiny-webcrypto.git
+[submodule "crypto-random-bigint"]
+	path = crypto-random-bigint
+	url = https://github.com/fabiospampinato/crypto-random-bigint.git
