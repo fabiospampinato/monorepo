@@ -34,3 +34,6 @@
 [submodule "event-loop-yielder"]
 	path = event-loop-yielder
 	url = https://github.com/fabiospampinato/event-loop-yielder.git
+[submodule "call-chainer"]
+	path = call-chainer
+	url = https://github.com/fabiospampinato/call-chainer.git
