@@ -28,3 +28,6 @@
 [submodule "base256-encoding"]
 	path = base256-encoding
 	url = https://github.com/fabiospampinato/base256-encoding.git
+[submodule "decode-base64"]
+	path = decode-base64
+	url = https://github.com/fabiospampinato/decode-base64.git
