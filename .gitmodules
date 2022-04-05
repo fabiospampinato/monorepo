@@ -55,3 +55,6 @@
 [submodule "uint8-to-hex"]
 	path = uint8-to-hex
 	url = https://github.com/fabiospampinato/uint8-to-hex.git
+[submodule "crypto-sha"]
+	path = crypto-sha
+	url = https://github.com/fabiospampinato/crypto-sha.git
