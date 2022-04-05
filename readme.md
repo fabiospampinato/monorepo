@@ -32,6 +32,7 @@ Repositories listed below are marked with some of the following badges.
 - [`base256-encoding`](https://github.com/fabiospampinato/base256-encoding) `PP-DDD-ISO`: Base256 encoding, a.k.a. latin1 encoding, the most memory-efficient encoding possible in JavaScript.
 - [`call-chainer`](https://github.com/fabiospampinato/call-chainer) `P-D-ISO`: Combine a regular function and a class so that methods of the class become chainable properties of the function that get called automatically.
 - [`crypto-random-bigint`](https://github.com/fabiospampinato/crypto-random-bigint) `PP-D-ISO`: Generate a cryptographically-random BigInt with the given number of bits of entropy.
+- [`crypto-random-hexadecimal`](https://github.com/fabiospampinato/crypto-random-hexadecimal) `PP-D-ISO`: Generate a cryptographically-random hexadecimal string with the given number of bytes of entropy.
 - [`decode-base64`](https://github.com/fabiospampinato/decode-base64) `P-DDD-ISO`: A tiny function for decoding base64 strings into Uint8Arrays, useful for bundling and loading WASM modules.
 - [`event-loop-yielder`](https://github.com/fabiospampinato/event-loop-yielder) `P-D-ISO`: A collection of strategies for yielding to the event loop, to avoid blocking for too long.
 - [`hex-encoding`](https://github.com/fabiospampinato/hex-encoding) `PP-DDD-ISO`: Hex encoding. An extremely fast and synchronous JS implementation.
