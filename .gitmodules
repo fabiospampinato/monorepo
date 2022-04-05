@@ -46,3 +46,6 @@
 [submodule "crypto-random-hexadecimal"]
 	path = crypto-random-hexadecimal
 	url = https://github.com/fabiospampinato/crypto-random-hexadecimal.git
+[submodule "crypto-random-uint8"]
+	path = crypto-random-uint8
+	url = https://github.com/fabiospampinato/crypto-random-uint8.git
