@@ -4,3 +4,6 @@
 [submodule "tiny-divider"]
 	path = tiny-divider
 	url = https://github.com/fabiospampinato/tiny-divider.git
+[submodule "is"]
+	path = is
+	url = https://github.com/fabiospampinato/is.git
