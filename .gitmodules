@@ -67,3 +67,6 @@
 [submodule "crypto-pbkdf2-hmac"]
 	path = crypto-pbkdf2-hmac
 	url = https://github.com/fabiospampinato/crypto-pbkdf2-hmac.git
+[submodule "crypto-puzzle"]
+	path = crypto-puzzle
+	url = https://github.com/fabiospampinato/crypto-puzzle.git
