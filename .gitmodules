@@ -58,3 +58,6 @@
 [submodule "crypto-sha"]
 	path = crypto-sha
 	url = https://github.com/fabiospampinato/crypto-sha.git
+[submodule "once"]
+	path = once
+	url = https://github.com/fabiospampinato/once.git
