@@ -16,3 +16,6 @@
 [submodule "utf16le-encoding"]
 	path = utf16le-encoding
 	url = https://github.com/fabiospampinato/utf16le-encoding.git
+[submodule "radix64-encoding"]
+	path = radix64-encoding
+	url = https://github.com/fabiospampinato/radix64-encoding.git
