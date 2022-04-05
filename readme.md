@@ -33,6 +33,7 @@ Repositories listed below are marked with some of the following badges.
 - [`call-chainer`](https://github.com/fabiospampinato/call-chainer) `P-D-ISO`: Combine a regular function and a class so that methods of the class become chainable properties of the function that get called automatically.
 - [`crypto-random-bigint`](https://github.com/fabiospampinato/crypto-random-bigint) `PP-D-ISO`: Generate a cryptographically-random BigInt with the given number of bits of entropy.
 - [`crypto-random-hexadecimal`](https://github.com/fabiospampinato/crypto-random-hexadecimal) `PP-D-ISO`: Generate a cryptographically-random hexadecimal string with the given number of bytes of entropy.
+- [`crypto-random-in-range`](https://github.com/fabiospampinato/crypto-random-in-range) `PP-D-ISO`: Pick a cryptographically-random integer within a range.
 - [`crypto-random-uint8`](https://github.com/fabiospampinato/crypto-random-uint8) `PP-D-ISO`: Generate a cryptographically-random Uint8Array with the given number of bytes of entropy.
 - [`decode-base64`](https://github.com/fabiospampinato/decode-base64) `P-DDD-ISO`: A tiny function for decoding base64 strings into Uint8Arrays, useful for bundling and loading WASM modules.
 - [`event-loop-yielder`](https://github.com/fabiospampinato/event-loop-yielder) `P-D-ISO`: A collection of strategies for yielding to the event loop, to avoid blocking for too long.

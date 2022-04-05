@@ -49,3 +49,6 @@
 [submodule "crypto-random-uint8"]
 	path = crypto-random-uint8
 	url = https://github.com/fabiospampinato/crypto-random-uint8.git
+[submodule "crypto-random-in-range"]
+	path = crypto-random-in-range
+	url = https://github.com/fabiospampinato/crypto-random-in-range.git
