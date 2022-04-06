@@ -103,3 +103,6 @@
 [submodule "ext2mime"]
 	path = ext2mime
 	url = https://github.com/fabiospampinato/ext2mime.git
+[submodule "linkify-it-tlds"]
+	path = linkify-it-tlds
+	url = https://github.com/fabiospampinato/linkify-it-tlds.git
