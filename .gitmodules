@@ -79,3 +79,6 @@
 [submodule "tiny-diff"]
 	path = tiny-diff
 	url = https://github.com/fabiospampinato/tiny-diff.git
+[submodule "noop-tag"]
+	path = noop-tag
+	url = https://github.com/fabiospampinato/noop-tag.git
