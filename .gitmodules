@@ -85,3 +85,6 @@
 [submodule "call-hooks"]
 	path = call-hooks
 	url = https://github.com/fabiospampinato/call-hooks.git
+[submodule "call-spy"]
+	path = call-spy
+	url = https://github.com/fabiospampinato/call-spy.git
