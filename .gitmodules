@@ -112,3 +112,6 @@
 [submodule "stdin-blocker"]
 	path = stdin-blocker
 	url = https://github.com/fabiospampinato/stdin-blocker.git
+[submodule "string-indexes"]
+	path = string-indexes
+	url = https://github.com/fabiospampinato/string-indexes.git
