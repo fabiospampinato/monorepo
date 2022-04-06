@@ -42,6 +42,7 @@ Repositories listed below are marked with some of the following badges.
 - [`crypto-random-uint8`](https://github.com/fabiospampinato/crypto-random-uint8) `PP-D-ISO`: Generate a cryptographically-random Uint8Array with the given number of bytes of entropy.
 - [`crypto-sha`](https://github.com/fabiospampinato/crypto-sha) `PP-D-ISO`: Isomorphic wrapper for the SHA family of hash functions.
 - [`crypto-xxhash-64`](https://github.com/fabiospampinato/crypto-xxhash-64) `PPP-D-ISO`: Fastest isomorphic xxHash-64 hash function.
+- [`css-simple-minifier`](https://github.com/fabiospampinato/css-simple-minifier) `P-D-ISO`: A CSS minifier that's tiny and very fast.
 - [`decode-base64`](https://github.com/fabiospampinato/decode-base64) `P-DDD-ISO`: A tiny function for decoding base64 strings into Uint8Arrays, useful for bundling and loading WASM modules.
 - [`detect-eol`](https://github.com/fabiospampinato/detect-eol) `P-DDD-ISO`: Quickly detect the EOL used in a string.
 - [`event-loop-yielder`](https://github.com/fabiospampinato/event-loop-yielder) `P-D-ISO`: A collection of strategies for yielding to the event loop, to avoid blocking for too long.

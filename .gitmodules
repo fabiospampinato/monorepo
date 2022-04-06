@@ -115,3 +115,6 @@
 [submodule "string-indexes"]
 	path = string-indexes
 	url = https://github.com/fabiospampinato/string-indexes.git
+[submodule "css-simple-minifier"]
+	path = css-simple-minifier
+	url = https://github.com/fabiospampinato/css-simple-minifier.git
