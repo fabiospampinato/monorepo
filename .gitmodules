@@ -109,3 +109,6 @@
 [submodule "special-tlds"]
 	path = special-tlds
 	url = https://github.com/fabiospampinato/special-tlds.git
+[submodule "stdin-blocker"]
+	path = stdin-blocker
+	url = https://github.com/fabiospampinato/stdin-blocker.git
