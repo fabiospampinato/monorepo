@@ -106,3 +106,6 @@
 [submodule "linkify-it-tlds"]
 	path = linkify-it-tlds
 	url = https://github.com/fabiospampinato/linkify-it-tlds.git
+[submodule "special-tlds"]
+	path = special-tlds
+	url = https://github.com/fabiospampinato/special-tlds.git

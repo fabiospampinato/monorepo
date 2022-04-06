@@ -54,6 +54,7 @@ Repositories listed below are marked with some of the following badges.
 - [`noop-tag`](https://github.com/fabiospampinato/noop-tag) `P-D-ISO`: A noop template literal tag, useful for syntax highlighting hints.
 - [`once`](https://github.com/fabiospampinato/once) `P-D-ISO`: Wraps a function so that it's only ever executed once.
 - [`radix64-encoding`](https://github.com/fabiospampinato/radix64-encoding) `PP-DDD-ISO`: Radix64 encoding, a.k.a. Base64 encoding. An extremely fast and synchronous JS implementation.
+- [`special-tlds`](https://github.com/fabiospampinato/special-tlds) `P-D-ISO`: List of special-use ICANN TLDs.
 - [`string-from-charcodes`](https://github.com/fabiospampinato/string-from-charcodes) `P-D-ISO`: An alternative to String.fromCharCode that doesn't throw with many arguments, while still remaining fast.
 - [`tiny-colors`](https://github.com/fabiospampinato/tiny-colors) `P-D-ISO`: A tiny library providing the basic ANSI colors for the terminal.
 - [`tiny-cursor`](https://github.com/fabiospampinato/tiny-cursor) `PP-DDD-NODE`: A tiny library for hiding and showing the cursor in the terminal.
