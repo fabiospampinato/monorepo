@@ -118,3 +118,6 @@
 [submodule "css-simple-minifier"]
 	path = css-simple-minifier
 	url = https://github.com/fabiospampinato/css-simple-minifier.git
+[submodule "css-simple-parser"]
+	path = css-simple-parser
+	url = https://github.com/fabiospampinato/css-simple-parser.git
