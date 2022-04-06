@@ -121,3 +121,6 @@
 [submodule "css-simple-parser"]
 	path = css-simple-parser
 	url = https://github.com/fabiospampinato/css-simple-parser.git
+[submodule "css-flatten"]
+	path = css-flatten
+	url = https://github.com/fabiospampinato/css-flatten.git

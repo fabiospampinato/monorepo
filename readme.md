@@ -42,6 +42,7 @@ Repositories listed below are marked with some of the following badges.
 - [`crypto-random-uint8`](https://github.com/fabiospampinato/crypto-random-uint8) `PP-D-ISO`: Generate a cryptographically-random Uint8Array with the given number of bytes of entropy.
 - [`crypto-sha`](https://github.com/fabiospampinato/crypto-sha) `PP-D-ISO`: Isomorphic wrapper for the SHA family of hash functions.
 - [`crypto-xxhash-64`](https://github.com/fabiospampinato/crypto-xxhash-64) `PPP-D-ISO`: Fastest isomorphic xxHash-64 hash function.
+- [`css-flatten`](https://github.com/fabiospampinato/css-flatten) `PP-DD-ISO`: Flattens a nested (S)CSS string, '&' placeholders are supported too..
 - [`css-simple-minifier`](https://github.com/fabiospampinato/css-simple-minifier) `P-D-ISO`: A CSS minifier that's tiny and very fast.
 - [`css-simple-parser`](https://github.com/fabiospampinato/css-simple-parser) `PP-DD-ISO`: A (S)CSS parser that's tiny, blazing fast and (too) simple.
 - [`decode-base64`](https://github.com/fabiospampinato/decode-base64) `P-DDD-ISO`: A tiny function for decoding base64 strings into Uint8Arrays, useful for bundling and loading WASM modules.
