@@ -88,3 +88,6 @@
 [submodule "call-spy"]
 	path = call-spy
 	url = https://github.com/fabiospampinato/call-spy.git
+[submodule "critically"]
+	path = critically
+	url = https://github.com/fabiospampinato/critically.git

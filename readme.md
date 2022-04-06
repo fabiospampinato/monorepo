@@ -32,7 +32,8 @@ Repositories listed below are marked with some of the following badges.
 - [`base256-encoding`](https://github.com/fabiospampinato/base256-encoding) `PP-DDD-ISO`: Base256 encoding, a.k.a. latin1 encoding, the most memory-efficient encoding possible in JavaScript.
 - [`call-chainer`](https://github.com/fabiospampinato/call-chainer) `P-D-ISO`: Combine a regular function and a class so that methods of the class become chainable properties of the function that get called automatically.
 - [`call-hooks`](https://github.com/fabiospampinato/call-hooks) `P-D-ISO`: Function for adding before/after/call/arguments/result hooks to another function.
-- [`call-spy`](https://github.com/fabiospampinato/call-spy) `P-D-ISO`: Tiny function for spying on function calls.
+- [`call-spy`](https://github.com/fabiospampinato/call-spy) `P-DDD-BROWSER`: Tiny performant library for extracting the critical CSS.
+- [`critically`](https://github.com/fabiospampinato/critically) `P-D-ISO`: Tiny function for spying on function calls.
 - [`crypto-pbkdf2-hmac`](https://github.com/fabiospampinato/crypto-pbkdf2-hmac) `PP-D-ISO`: Isomorphic wrapper for the PBKDF2-HMAC key derivation function.
 - [`crypto-puzzle`](https://github.com/fabiospampinato/crypto-puzzle) `PPP-D-ISO`: Basically a proof-of-work generator, this library makes cryptographic puzzles that are arbitrarily expensive to solve.
 - [`crypto-random-bigint`](https://github.com/fabiospampinato/crypto-random-bigint) `PP-D-ISO`: Generate a cryptographically-random BigInt with the given number of bits of entropy.
