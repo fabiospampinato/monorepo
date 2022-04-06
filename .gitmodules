@@ -73,3 +73,6 @@
 [submodule "when-exit"]
 	path = when-exit
 	url = https://github.com/fabiospampinato/when-exit.git
+[submodule "tiny-cursor"]
+	path = tiny-cursor
+	url = https://github.com/fabiospampinato/tiny-cursor.git

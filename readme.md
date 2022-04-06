@@ -47,6 +47,7 @@ Repositories listed below are marked with some of the following badges.
 - [`radix64-encoding`](https://github.com/fabiospampinato/radix64-encoding) `PP-DDD-ISO`: Radix64 encoding, a.k.a. Base64 encoding. An extremely fast and synchronous JS implementation.
 - [`string-from-charcodes`](https://github.com/fabiospampinato/string-from-charcodes) `P-D-ISO`: An alternative to String.fromCharCode that doesn't throw with many arguments, while still remaining fast.
 - [`tiny-colors`](https://github.com/fabiospampinato/tiny-colors) `P-D-ISO`: A tiny library providing the basic ANSI colors for the terminal.
+- [`tiny-cursor`](https://github.com/fabiospampinato/tiny-cursor) `PP-DDD-NODE`: A tiny library for hiding and showing the cursor in the terminal.
 - [`tiny-divider`](https://github.com/fabiospampinato/tiny-divider) `PP-D-ISO`: A tiny simple terminal divider that spans the entire width of the terminal.
 - [`tiny-webcrypto`](https://github.com/fabiospampinato/tiny-webcrypto) `P-DDD-ISO`: A tiny isomorphic WebCrypto object, it just gives you the native one the current platform provides.
 - [`uint8-encoding`](https://github.com/fabiospampinato/uint8-encoding) `P-DDD-ISO`: Uint8 encoding, a simple way to convert strings to Uint8Arrays and vice versa.
