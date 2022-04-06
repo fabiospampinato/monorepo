@@ -82,3 +82,6 @@
 [submodule "noop-tag"]
 	path = noop-tag
 	url = https://github.com/fabiospampinato/noop-tag.git
+[submodule "call-hooks"]
+	path = call-hooks
+	url = https://github.com/fabiospampinato/call-hooks.git
