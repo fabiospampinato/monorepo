@@ -76,3 +76,6 @@
 [submodule "tiny-cursor"]
 	path = tiny-cursor
 	url = https://github.com/fabiospampinato/tiny-cursor.git
+[submodule "tiny-diff"]
+	path = tiny-diff
+	url = https://github.com/fabiospampinato/tiny-diff.git
