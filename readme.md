@@ -45,6 +45,7 @@ Repositories listed below are marked with some of the following badges.
 - [`decode-base64`](https://github.com/fabiospampinato/decode-base64) `P-DDD-ISO`: A tiny function for decoding base64 strings into Uint8Arrays, useful for bundling and loading WASM modules.
 - [`detect-eol`](https://github.com/fabiospampinato/detect-eol) `P-DDD-ISO`: Quickly detect the EOL used in a string.
 - [`event-loop-yielder`](https://github.com/fabiospampinato/event-loop-yielder) `P-D-ISO`: A collection of strategies for yielding to the event loop, to avoid blocking for too long.
+- [`ext2mime`](https://github.com/fabiospampinato/ext2mime) `PP-DDD-ISO`: Convert a file extension to a mime type. It works only with popular file extensions and it's super lightweight.
 - [`hex-encoding`](https://github.com/fabiospampinato/hex-encoding) `PP-DDD-ISO`: Hex encoding. An extremely fast and synchronous JS implementation.
 - [`is`](https://github.com/fabiospampinato/is) `P-D-ISO-TREE`: The definitive collection of is* functions for runtime type checking. Lodash-compatible, tree-shakable, with types.
 - [`mime2ext`](https://github.com/fabiospampinato/mime2ext) `PP-DDD-ISO`: Convert a mime type to a file extension. It works only with popular mime types and it's super lightweight.

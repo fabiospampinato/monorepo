@@ -100,3 +100,6 @@
 [submodule "mime2ext"]
 	path = mime2ext
 	url = https://github.com/fabiospampinato/mime2ext.git
+[submodule "ext2mime"]
+	path = ext2mime
+	url = https://github.com/fabiospampinato/ext2mime.git
