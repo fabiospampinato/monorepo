@@ -47,7 +47,8 @@ Repositories listed below are marked with some of the following badges.
 - [`event-loop-yielder`](https://github.com/fabiospampinato/event-loop-yielder) `P-D-ISO`: A collection of strategies for yielding to the event loop, to avoid blocking for too long.
 - [`hex-encoding`](https://github.com/fabiospampinato/hex-encoding) `PP-DDD-ISO`: Hex encoding. An extremely fast and synchronous JS implementation.
 - [`is`](https://github.com/fabiospampinato/is) `P-D-ISO-TREE`: The definitive collection of is* functions for runtime type checking. Lodash-compatible, tree-shakable, with types.
-- [`mime-standard`](https://github.com/fabiospampinato/mime-standard) `P-DDD-ISO`: An object mapping ~300 standard mime types to ~400 extensions.
+- [`mime2ext`](https://github.com/fabiospampinato/mime2ext) `PP-DDD-ISO`: Convert a mime type to a file extension. It works only with popular mime types and it's super lightweight.
+- [`mime-standard`](https://github.com/fabiospampinato/mime-standard) `P-D-ISO`: An object mapping ~300 standard mime types to ~400 extensions.
 - [`noop-tag`](https://github.com/fabiospampinato/noop-tag) `P-D-ISO`: A noop template literal tag, useful for syntax highlighting hints.
 - [`once`](https://github.com/fabiospampinato/once) `P-D-ISO`: Wraps a function so that it's only ever executed once.
 - [`radix64-encoding`](https://github.com/fabiospampinato/radix64-encoding) `PP-DDD-ISO`: Radix64 encoding, a.k.a. Base64 encoding. An extremely fast and synchronous JS implementation.

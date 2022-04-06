@@ -97,3 +97,6 @@
 [submodule "mime-standard"]
 	path = mime-standard
 	url = https://github.com/fabiospampinato/mime-standard.git
+[submodule "mime2ext"]
+	path = mime2ext
+	url = https://github.com/fabiospampinato/mime2ext.git
