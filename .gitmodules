@@ -91,3 +91,6 @@
 [submodule "critically"]
 	path = critically
 	url = https://github.com/fabiospampinato/critically.git
+[submodule "detect-eol"]
+	path = detect-eol
+	url = https://github.com/fabiospampinato/detect-eol.git
