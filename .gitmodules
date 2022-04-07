@@ -133,3 +133,6 @@
 [submodule "unsanitize-basename"]
 	path = unsanitize-basename
 	url = https://github.com/fabiospampinato/unsanitize-basename.git
+[submodule "promise-resolve-timeout"]
+	path = promise-resolve-timeout
+	url = https://github.com/fabiospampinato/promise-resolve-timeout.git
