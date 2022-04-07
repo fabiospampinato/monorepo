@@ -57,6 +57,7 @@ Repositories listed below are marked with some of the following badges.
 - [`mime-standard`](https://github.com/fabiospampinato/mime-standard) `P-D-ISO`: An object mapping ~300 standard mime types to ~400 extensions.
 - [`noop-tag`](https://github.com/fabiospampinato/noop-tag) `P-D-ISO`: A noop template literal tag, useful for syntax highlighting hints.
 - [`once`](https://github.com/fabiospampinato/once) `P-D-ISO`: Wraps a function so that it's only ever executed once.
+- [`promise-concurrency-limiter`](https://github.com/fabiospampinato/promise-concurrency-limiter) `P-D-ISO`: Tiny scheduler for functions returning promises that can limit their concurrency.
 - [`promise-make-naked`](https://github.com/fabiospampinato/promise-make-naked) `P-D-ISO`: A simple function that makes a promise that can be resolved or rejected from the outside.
 - [`promise-resolve-timeout`](https://github.com/fabiospampinato/promise-resolve-timeout) `P-D-ISO`: Create a Promise which will resolve with the provided value after a timeout.
 - [`radix64-encoding`](https://github.com/fabiospampinato/radix64-encoding) `PP-DDD-ISO`: Radix64 encoding, a.k.a. Base64 encoding. An extremely fast and synchronous JS implementation.

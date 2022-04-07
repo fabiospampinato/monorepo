@@ -139,3 +139,6 @@
 [submodule "promise-make-naked"]
 	path = promise-make-naked
 	url = https://github.com/fabiospampinato/promise-make-naked.git
+[submodule "promise-concurrency-limiter"]
+	path = promise-concurrency-limiter
+	url = https://github.com/fabiospampinato/promise-concurrency-limiter.git
