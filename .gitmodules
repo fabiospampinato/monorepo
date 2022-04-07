@@ -130,3 +130,6 @@
 [submodule "sanitize-basename"]
 	path = sanitize-basename
 	url = https://github.com/fabiospampinato/sanitize-basename.git
+[submodule "unsanitize-basename"]
+	path = unsanitize-basename
+	url = https://github.com/fabiospampinato/unsanitize-basename.git
