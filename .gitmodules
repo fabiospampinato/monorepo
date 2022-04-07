@@ -124,3 +124,6 @@
 [submodule "css-flatten"]
 	path = css-flatten
 	url = https://github.com/fabiospampinato/css-flatten.git
+[submodule "khroma"]
+	path = khroma
+	url = https://github.com/fabiospampinato/khroma.git
