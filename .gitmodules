@@ -127,3 +127,6 @@
 [submodule "khroma"]
 	path = khroma
 	url = https://github.com/fabiospampinato/khroma.git
+[submodule "sanitize-basename"]
+	path = sanitize-basename
+	url = https://github.com/fabiospampinato/sanitize-basename.git
