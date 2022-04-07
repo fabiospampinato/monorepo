@@ -136,3 +136,6 @@
 [submodule "promise-resolve-timeout"]
 	path = promise-resolve-timeout
 	url = https://github.com/fabiospampinato/promise-resolve-timeout.git
+[submodule "promise-make-naked"]
+	path = promise-make-naked
+	url = https://github.com/fabiospampinato/promise-make-naked.git
