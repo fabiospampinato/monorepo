@@ -142,3 +142,9 @@
 [submodule "promise-concurrency-limiter"]
 	path = promise-concurrency-limiter
 	url = https://github.com/fabiospampinato/promise-concurrency-limiter.git
+[submodule "tiny-dirname"]
+	path = tiny-dirname
+	url = https://github.com/fabiospampinato/tiny-dirname.git
+[submodule "tiny-filename"]
+	path = tiny-filename
+	url = https://github.com/fabiospampinato/tiny-filename.git

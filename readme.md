@@ -69,7 +69,9 @@ Repositories listed below are marked with some of the following badges.
 - [`tiny-colors`](https://github.com/fabiospampinato/tiny-colors) `P-D-ISO`: A tiny library providing the basic ANSI colors for the terminal.
 - [`tiny-cursor`](https://github.com/fabiospampinato/tiny-cursor) `PP-DDD-NODE`: A tiny library for hiding and showing the cursor in the terminal.
 - [`tiny-diff`](https://github.com/fabiospampinato/tiny-diff) `P-D-BROWSER`: A tiny diff function for the DOM, heavily based on udomdiff.
+- [`tiny-dirname`](https://github.com/fabiospampinato/tiny-dirname) `P-D-ISO`: A tiny isomorphic ESM alternative to Node's "__dirname" global.
 - [`tiny-divider`](https://github.com/fabiospampinato/tiny-divider) `PP-D-ISO`: A tiny simple terminal divider that spans the entire width of the terminal.
+- [`tiny-filename`](https://github.com/fabiospampinato/tiny-filename) `P-D-ISO`: A tiny isomorphic ESM alternative to Node's "__filename" global.
 - [`tiny-webcrypto`](https://github.com/fabiospampinato/tiny-webcrypto) `P-DDD-ISO`: A tiny isomorphic WebCrypto object, it just gives you the native one the current platform provides.
 - [`unsanitize-basename`](https://github.com/fabiospampinato/unsanitize-basename) `P-D-ISO`: Unsanitize a file name, the inverse of the "sanitize-basename" library.
 - [`uint8-encoding`](https://github.com/fabiospampinato/uint8-encoding) `P-DDD-ISO`: Uint8 encoding, a simple way to convert strings to Uint8Arrays and vice versa.
