@@ -160,3 +160,6 @@
 [submodule "graphviz-wasm"]
 	path = graphviz-wasm
 	url = https://github.com/fabiospampinato/graphviz-wasm.git
+[submodule "zstandard-wasm"]
+	path = zstandard-wasm
+	url = https://github.com/fabiospampinato/zstandard-wasm.git

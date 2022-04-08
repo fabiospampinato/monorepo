@@ -82,3 +82,4 @@ Repositories listed below are marked with some of the following badges.
 - [`uint8-to-hex`](https://github.com/fabiospampinato/uint8-to-hex) `PP-DDD-ISO`: The fastest function to convert a Uint8Array to hexadecimal.
 - [`utf16le-encoding`](https://github.com/fabiospampinato/utf16le-encoding) `P-DDD-ISO`: UTF16-le encoding, a.k.a. UCS2 encoding, an encoding you probably should never use.
 - [`when-exit`](https://github.com/fabiospampinato/when-exit) `P-DDD-NODE`: Execute a function right before the process is about to exit.
+- [`zstandard-wasm`](https://github.com/fabiospampinato/zstandard-wasm) `PPP-D-ISO`: A fast and small port of Zstandard to WASM. (Decompress-only for now).
