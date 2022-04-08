@@ -157,3 +157,6 @@
 [submodule "pikchr-wasm"]
 	path = pikchr-wasm
 	url = https://github.com/fabiospampinato/pikchr-wasm.git
+[submodule "graphviz-wasm"]
+	path = graphviz-wasm
+	url = https://github.com/fabiospampinato/graphviz-wasm.git
