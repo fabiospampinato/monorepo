@@ -154,3 +154,6 @@
 [submodule "json-clone-deep"]
 	path = json-clone-deep
 	url = https://github.com/fabiospampinato/json-clone-deep.git
+[submodule "pikchr-wasm"]
+	path = pikchr-wasm
+	url = https://github.com/fabiospampinato/pikchr-wasm.git
