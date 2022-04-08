@@ -151,3 +151,6 @@
 [submodule "find-up-json"]
 	path = find-up-json
 	url = https://github.com/fabiospampinato/find-up-json.git
+[submodule "json-clone-deep"]
+	path = json-clone-deep
+	url = https://github.com/fabiospampinato/json-clone-deep.git

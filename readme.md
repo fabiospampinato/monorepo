@@ -52,6 +52,7 @@ Repositories listed below are marked with some of the following badges.
 - [`find-up-json`](https://github.com/fabiospampinato/find-up-json) `P-DDD-NODE`: Find, read and parse the first matching file found walking the filesystem upwards.
 - [`hex-encoding`](https://github.com/fabiospampinato/hex-encoding) `PP-DDD-ISO`: Hex encoding. An extremely fast and synchronous JS implementation.
 - [`is`](https://github.com/fabiospampinato/is) `P-D-ISO-TREE`: The definitive collection of is* functions for runtime type checking. Lodash-compatible, tree-shakable, with types.
+- [`json-clone-deep`](https://github.com/fabiospampinato/json-clone-deep) `P-D-ISO`: Deep cloning based on JSON.
 - [`khroma`](https://github.com/fabiospampinato/khroma) `P-D-ISO-TREE`: A collection of functions for manipulating CSS colors, inspired by SASS.
 - [`linkify-it-tlds`](https://github.com/fabiospampinato/linkify-it-tlds) `P-DDD-ISO`: Comprehensive list of TLDs, sourced from ICANN, for linkify-it.
 - [`mime2ext`](https://github.com/fabiospampinato/mime2ext) `PP-DDD-ISO`: Convert a mime type to a file extension. It works only with popular mime types and it's super lightweight.
