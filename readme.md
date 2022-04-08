@@ -47,6 +47,7 @@ Repositories listed below are marked with some of the following badges.
 - [`css-simple-parser`](https://github.com/fabiospampinato/css-simple-parser) `PP-DD-ISO`: A (S)CSS parser that's tiny, blazing fast and (too) simple.
 - [`decode-base64`](https://github.com/fabiospampinato/decode-base64) `P-DDD-ISO`: A tiny function for decoding base64 strings into Uint8Arrays, useful for bundling and loading WASM modules.
 - [`detect-eol`](https://github.com/fabiospampinato/detect-eol) `P-DDD-ISO`: Quickly detect the EOL used in a string.
+- [`entities-dom-decode`](https://github.com/fabiospampinato/entities-dom-decode) `P-DDD-BROWSER`: A ~200 bytes function with no dependencies for decoding HTML entities, it only works in the browser.
 - [`event-loop-yielder`](https://github.com/fabiospampinato/event-loop-yielder) `P-D-ISO`: A collection of strategies for yielding to the event loop, to avoid blocking for too long.
 - [`ext2mime`](https://github.com/fabiospampinato/ext2mime) `PP-DDD-ISO`: Convert a file extension to a mime type. It works only with popular file extensions and it's super lightweight.
 - [`find-up-json`](https://github.com/fabiospampinato/find-up-json) `P-DDD-NODE`: Find, read and parse the first matching file found walking the filesystem upwards.

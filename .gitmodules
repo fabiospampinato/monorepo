@@ -163,3 +163,6 @@
 [submodule "zstandard-wasm"]
 	path = zstandard-wasm
 	url = https://github.com/fabiospampinato/zstandard-wasm.git
+[submodule "entities-dom-decode"]
+	path = entities-dom-decode
+	url = https://github.com/fabiospampinato/entities-dom-decode.git
