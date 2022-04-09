@@ -30,6 +30,7 @@ Repositories listed below are marked with some of the following badges.
 
 - [`base128-encoding`](https://github.com/fabiospampinato/base128-encoding) ![][PP] ![][DDD] ![][ISO] : Base128 encoding, the intersection of latin1 and utf-8, which is basically ASCII, the most memory-efficient string encoding that can be written to disk as utf-8 without ballooning in size.
 - [`base256-encoding`](https://github.com/fabiospampinato/base256-encoding) ![][PP] ![][DDD] ![][ISO] : Base256 encoding, a.k.a. latin1 encoding, the most memory-efficient encoding possible in JavaScript.
+- [`buffer2uint8`](https://github.com/fabiospampinato/buffer2uint8) ![][P] ![][D] ![][ISO] : A tiny function for casting a Buffer to a Uint8Array.
 - [`call-chainer`](https://github.com/fabiospampinato/call-chainer) ![][P] ![][D] ![][ISO] : Combine a regular function and a class so that methods of the class become chainable properties of the function that get called automatically.
 - [`call-hooks`](https://github.com/fabiospampinato/call-hooks) ![][P] ![][D] ![][ISO] : Function for adding before/after/call/arguments/result hooks to another function.
 - [`call-spy`](https://github.com/fabiospampinato/call-spy) ![][P] ![][DDD] ![][BROWSER] : Tiny performant library for extracting the critical CSS.

@@ -169,3 +169,6 @@
 [submodule "node-buffer-encoding"]
 	path = node-buffer-encoding
 	url = https://github.com/fabiospampinato/node-buffer-encoding.git
+[submodule "buffer2uint8"]
+	path = buffer2uint8
+	url = https://github.com/fabiospampinato/buffer2uint8.git
