@@ -45,7 +45,7 @@ Repositories listed below are marked with some of the following badges.
 - [`css-flatten`](https://github.com/fabiospampinato/css-flatten) ![][PP] ![][DD] ![][ISO] : Flattens a nested (S)CSS string, '&' placeholders are supported too..
 - [`css-simple-minifier`](https://github.com/fabiospampinato/css-simple-minifier) ![][P] ![][D] ![][ISO] : A CSS minifier that's tiny and very fast.
 - [`css-simple-parser`](https://github.com/fabiospampinato/css-simple-parser) ![][PP] ![][DD] ![][ISO] : A (S)CSS parser that's tiny, blazing fast and (too) simple.
-- [`decode-base64`](https://github.com/fabiospampinato/decode-base64) ![][P] ![][DDD] ![][ISO] : A tiny function for decoding base64 strings into Uint8Arrays, useful for bundling and loading WASM modules.
+- [`decode-base64`](https://github.com/fabiospampinato/decode-base64) ![][PP] ![][DD] ![][ISO] : A tiny function for decoding base64 strings into Uint8Arrays, useful for bundling and loading WASM modules.
 - [`detect-eol`](https://github.com/fabiospampinato/detect-eol) ![][P] ![][DDD] ![][ISO] : Quickly detect the EOL used in a string.
 - [`entities-dom-decode`](https://github.com/fabiospampinato/entities-dom-decode) ![][P] ![][DDD] ![][BROWSER] : A ~200 bytes function with no dependencies for decoding HTML entities, it only works in the browser.
 - [`event-loop-yielder`](https://github.com/fabiospampinato/event-loop-yielder) ![][P] ![][D] ![][ISO] : A collection of strategies for yielding to the event loop, to avoid blocking for too long.
