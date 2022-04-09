@@ -166,3 +166,6 @@
 [submodule "entities-dom-decode"]
 	path = entities-dom-decode
 	url = https://github.com/fabiospampinato/entities-dom-decode.git
+[submodule "node-buffer-encoding"]
+	path = node-buffer-encoding
+	url = https://github.com/fabiospampinato/node-buffer-encoding.git

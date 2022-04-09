@@ -59,6 +59,7 @@ Repositories listed below are marked with some of the following badges.
 - [`linkify-it-tlds`](https://github.com/fabiospampinato/linkify-it-tlds) ![][P] ![][DDD] ![][ISO] : Comprehensive list of TLDs, sourced from ICANN, for linkify-it.
 - [`mime2ext`](https://github.com/fabiospampinato/mime2ext) ![][PP] ![][DDD] ![][ISO] : Convert a mime type to a file extension. It works only with popular mime types and it's super lightweight.
 - [`mime-standard`](https://github.com/fabiospampinato/mime-standard) ![][P] ![][D] ![][ISO] : An object mapping ~300 standard mime types to ~400 extensions.
+- [`node-buffer-encoding`](https://github.com/fabiospampinato/node-buffer-encoding) ![][P] ![][D] ![][NODE] : A little wrapper around Node's Buffer that provides encoding/decoding for all supported encodings.
 - [`noop-tag`](https://github.com/fabiospampinato/noop-tag) ![][P] ![][D] ![][ISO] : A noop template literal tag, useful for syntax highlighting hints.
 - [`once`](https://github.com/fabiospampinato/once) ![][P] ![][D] ![][ISO] : Wraps a function so that it's only ever executed once.
 - [`pikchr-wasm`](https://github.com/fabiospampinato/pikchr-wasm) ![][PPP] ![][D] ![][ISO] : A fast and small port of Pikchr to WASM.
