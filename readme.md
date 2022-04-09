@@ -82,7 +82,7 @@ Repositories listed below are marked with some of the following badges.
 - [`unsanitize-basename`](https://github.com/fabiospampinato/unsanitize-basename) ![][P] ![][D] ![][ISO] : Unsanitize a file name, the inverse of the "sanitize-basename" library.
 - [`uint8-encoding`](https://github.com/fabiospampinato/uint8-encoding) ![][P] ![][DDD] ![][ISO] : Uint8 encoding, a simple way to convert strings to Uint8Arrays and vice versa.
 - [`uint8-to-hex`](https://github.com/fabiospampinato/uint8-to-hex) ![][PP] ![][DDD] ![][ISO] : The fastest function to convert a Uint8Array to hexadecimal.
-- [`utf16le-encoding`](https://github.com/fabiospampinato/utf16le-encoding) ![][P] ![][DDD] ![][ISO] : UTF16-le encoding, a.k.a. UCS2 encoding, an encoding you probably should never use.
+- [`utf16le-encoding`](https://github.com/fabiospampinato/utf16le-encoding) ![][PP] ![][DDD] ![][ISO] : UTF16-le encoding, a.k.a. UCS2 encoding, an encoding you probably should never use.
 - [`when-exit`](https://github.com/fabiospampinato/when-exit) ![][P] ![][DDD] ![][NODE] : Execute a function right before the process is about to exit.
 - [`zstandard-wasm`](https://github.com/fabiospampinato/zstandard-wasm) ![][PPP] ![][D] ![][ISO] : A fast and small port of Zstandard to WASM. (Decompress-only for now).
 
