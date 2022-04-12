@@ -175,3 +175,6 @@
 [submodule "tiny-readdir"]
 	path = tiny-readdir
 	url = https://github.com/fabiospampinato/tiny-readdir.git
+[submodule "aborter"]
+	path = aborter
+	url = https://github.com/fabiospampinato/aborter.git
