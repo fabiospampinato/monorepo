@@ -172,3 +172,6 @@
 [submodule "buffer2uint8"]
 	path = buffer2uint8
 	url = https://github.com/fabiospampinato/buffer2uint8.git
+[submodule "tiny-readdir"]
+	path = tiny-readdir
+	url = https://github.com/fabiospampinato/tiny-readdir.git
