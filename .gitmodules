@@ -184,3 +184,6 @@
 [submodule "plain-object-clone"]
 	path = plain-object-clone
 	url = https://github.com/fabiospampinato/plain-object-clone.git
+[submodule "plain-object-merge"]
+	path = plain-object-merge
+	url = https://github.com/fabiospampinato/plain-object-merge.git
