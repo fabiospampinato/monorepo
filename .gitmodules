@@ -187,3 +187,6 @@
 [submodule "plain-object-merge"]
 	path = plain-object-merge
 	url = https://github.com/fabiospampinato/plain-object-merge.git
+[submodule "plain-object-is-equal"]
+	path = plain-object-is-equal
+	url = https://github.com/fabiospampinato/plain-object-is-equal.git
