@@ -178,3 +178,6 @@
 [submodule "aborter"]
 	path = aborter
 	url = https://github.com/fabiospampinato/aborter.git
+[submodule "plain-object-is-empty"]
+	path = plain-object-is-empty
+	url = https://github.com/fabiospampinato/plain-object-is-empty.git
