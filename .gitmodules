@@ -199,3 +199,9 @@
 [submodule "nanopath"]
 	path = nanopath
 	url = https://github.com/fabiospampinato/nanopath.git
+[submodule "infinity-map"]
+	path = infinity-map
+	url = https://github.com/fabiospampinato/infinity-map.git
+[submodule "infinity-set"]
+	path = infinity-set
+	url = https://github.com/fabiospampinato/infinity-set.git
