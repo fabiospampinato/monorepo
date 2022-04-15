@@ -190,3 +190,6 @@
 [submodule "plain-object-is-equal"]
 	path = plain-object-is-equal
 	url = https://github.com/fabiospampinato/plain-object-is-equal.git
+[submodule "path-prop"]
+	path = path-prop
+	url = https://github.com/fabiospampinato/path-prop.git
