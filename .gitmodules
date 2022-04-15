@@ -193,3 +193,6 @@
 [submodule "path-prop"]
 	path = path-prop
 	url = https://github.com/fabiospampinato/path-prop.git
+[submodule "ua2os"]
+	path = ua2os
+	url = https://github.com/fabiospampinato/ua2os.git
