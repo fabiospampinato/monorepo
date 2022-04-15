@@ -196,3 +196,6 @@
 [submodule "ua2os"]
 	path = ua2os
 	url = https://github.com/fabiospampinato/ua2os.git
+[submodule "nanopath"]
+	path = nanopath
+	url = https://github.com/fabiospampinato/nanopath.git
