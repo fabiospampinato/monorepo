@@ -205,3 +205,6 @@
 [submodule "infinity-set"]
 	path = infinity-set
 	url = https://github.com/fabiospampinato/infinity-set.git
+[submodule "bob-wasm"]
+	path = bob-wasm
+	url = https://github.com/fabiospampinato/bob-wasm.git
