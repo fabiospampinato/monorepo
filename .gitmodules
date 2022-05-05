@@ -220,3 +220,6 @@
 [submodule "react-use-previous"]
 	path = react-use-previous
 	url = https://github.com/fabiospampinato/react-use-previous.git
+[submodule "tiny-buffer"]
+	path = tiny-buffer
+	url = https://github.com/fabiospampinato/tiny-buffer.git
