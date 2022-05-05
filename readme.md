@@ -83,6 +83,8 @@ Repositories listed below are marked with some of the following badges.
 - [`stdin-blocker`](https://github.com/fabiospampinato/stdin-blocker) ![][P] ![][DDD] ![][ISO] : A tiny library for blocking stdin keypresses, except for ctrl+c. Useful while displaying animations.
 - [`string-from-charcodes`](https://github.com/fabiospampinato/string-from-charcodes) ![][P] ![][D] ![][ISO] : An alternative to String.fromCharCode that doesn't throw with many arguments, while still remaining fast.
 - [`string-indexes`](https://github.com/fabiospampinato/string-indexes) ![][P] ![][D] ![][ISO] : Retrieves all indexes, in non-overlapping ranges, of a substring in a string.
+- [`string-matches`](https://github.com/fabiospampinato/string-matches) ![][P] ![][D] ![][ISO] : Retrieves all the matches of a regex in a string.
+- [`string-matches-generator`](https://github.com/fabiospampinato/string-matches-generator) ![][P] ![][D] ![][ISO] : Retrieves all the matches of a regex in a string, via a generator.
 - [`tiny-colors`](https://github.com/fabiospampinato/tiny-colors) ![][P] ![][D] ![][ISO] : A tiny library providing the basic ANSI colors for the terminal.
 - [`tiny-cursor`](https://github.com/fabiospampinato/tiny-cursor) ![][PP] ![][DDD] ![][NODE] : A tiny library for hiding and showing the cursor in the terminal.
 - [`tiny-diff`](https://github.com/fabiospampinato/tiny-diff) ![][P] ![][D] ![][BROWSER] : A tiny diff function for the DOM, heavily based on udomdiff.

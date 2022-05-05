@@ -208,3 +208,9 @@
 [submodule "bob-wasm"]
 	path = bob-wasm
 	url = https://github.com/fabiospampinato/bob-wasm.git
+[submodule "string-matches"]
+	path = string-matches
+	url = https://github.com/fabiospampinato/string-matches.git
+[submodule "string-matches-generator"]
+	path = string-matches-generator
+	url = https://github.com/fabiospampinato/string-matches-generator.git
