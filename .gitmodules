@@ -226,3 +226,6 @@
 [submodule "is-numeric"]
 	path = is-numeric
 	url = https://github.com/fabiospampinato/is-numeric.git
+[submodule "yinyang-clock"]
+	path = yinyang-clock
+	url = https://github.com/fabiospampinato/yinyang-clock.git
