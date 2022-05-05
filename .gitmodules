@@ -214,3 +214,9 @@
 [submodule "string-matches-generator"]
 	path = string-matches-generator
 	url = https://github.com/fabiospampinato/string-matches-generator.git
+[submodule "react-use-mounted"]
+	path = react-use-mounted
+	url = https://github.com/fabiospampinato/react-use-mounted.git
+[submodule "react-use-previous"]
+	path = react-use-previous
+	url = https://github.com/fabiospampinato/react-use-previous.git

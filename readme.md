@@ -78,6 +78,8 @@ Repositories listed below are marked with some of the following badges.
 - [`promise-make-naked`](https://github.com/fabiospampinato/promise-make-naked) ![][P] ![][D] ![][ISO] : A simple function that makes a promise that can be resolved or rejected from the outside.
 - [`promise-resolve-timeout`](https://github.com/fabiospampinato/promise-resolve-timeout) ![][P] ![][D] ![][ISO] : Create a Promise which will resolve with the provided value after a timeout.
 - [`radix64-encoding`](https://github.com/fabiospampinato/radix64-encoding) ![][PP] ![][DDD] ![][ISO] : Radix64 encoding, a.k.a. Base64 encoding. An extremely fast and synchronous JS implementation.
+- [`react-use-mounted`](https://github.com/fabiospampinato/react-use-mounted) ![][P] ![][DDD] ![][ISO] : React hook for checking if the component is mounted.
+- [`react-use-previous`](https://github.com/fabiospampinato/react-use-previous) ![][P] ![][DDD] ![][ISO] : React hook for remembering a previous value.
 - [`sanitize-basename`](https://github.com/fabiospampinato/sanitize-basename) ![][P] ![][D] ![][ISO] : Sanitize a file name for cross-platform validity.
 - [`special-tlds`](https://github.com/fabiospampinato/special-tlds) ![][P] ![][D] ![][ISO] : List of special-use ICANN TLDs.
 - [`stdin-blocker`](https://github.com/fabiospampinato/stdin-blocker) ![][P] ![][DDD] ![][ISO] : A tiny library for blocking stdin keypresses, except for ctrl+c. Useful while displaying animations.
