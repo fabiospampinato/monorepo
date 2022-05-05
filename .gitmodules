@@ -223,3 +223,6 @@
 [submodule "tiny-buffer"]
 	path = tiny-buffer
 	url = https://github.com/fabiospampinato/tiny-buffer.git
+[submodule "is-numeric"]
+	path = is-numeric
+	url = https://github.com/fabiospampinato/is-numeric.git

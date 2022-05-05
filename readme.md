@@ -59,6 +59,7 @@ Repositories listed below are marked with some of the following badges.
 - [`infinity-map`](https://github.com/fabiospampinato/infinity-map) ![][P] ![][DDD] ![][ISO] : A Map that doesn't throw if you put more than 16 million items in it. Because that's what the native `Map` object does for some reason.
 - [`infinity-set`](https://github.com/fabiospampinato/infinity-set) ![][P] ![][DDD] ![][ISO] : A Set that doesn't throw if you put more than 16 million items in it. Because that's what the native `Set` object does for some reason.
 - [`is`](https://github.com/fabiospampinato/is) ![][P] ![][D] ![][ISO] ![][TREE] : The definitive collection of is* functions for runtime type checking. Lodash-compatible, tree-shakable, with types.
+- [`is-numeric`](https://github.com/fabiospampinato/is-numeric) ![][P] ![][D] ![][ISO] : Checks if a variable represents a numeric value.
 - [`json-clone-deep`](https://github.com/fabiospampinato/json-clone-deep) ![][P] ![][D] ![][ISO] : Deep cloning based on JSON.
 - [`khroma`](https://github.com/fabiospampinato/khroma) ![][P] ![][D] ![][ISO] ![][TREE] : A collection of functions for manipulating CSS colors, inspired by SASS.
 - [`linkify-it-tlds`](https://github.com/fabiospampinato/linkify-it-tlds) ![][P] ![][DDD] ![][ISO] : Comprehensive list of TLDs, sourced from ICANN, for linkify-it.
