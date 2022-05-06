@@ -250,3 +250,21 @@
 [submodule "tiny-truncate"]
 	path = tiny-truncate
 	url = https://github.com/fabiospampinato/tiny-truncate.git
+[submodule "tiny-spinner"]
+	path = tiny-spinner
+	url = https://github.com/fabiospampinato/tiny-spinner.git
+[submodule "prompts-helpers"]
+	path = prompts-helpers
+	url = https://github.com/fabiospampinato/prompts-helpers.git
+[submodule "base256-archive"]
+	path = base256-archive
+	url = https://github.com/fabiospampinato/base256-archive.git
+[submodule "tryloop"]
+	path = tryloop
+	url = https://github.com/fabiospampinato/tryloop.git
+[submodule "entities-standard"]
+	path = entities-standard
+	url = https://github.com/fabiospampinato/entities-standard.git
+[submodule "entities-decode"]
+	path = entities-decode
+	url = https://github.com/fabiospampinato/entities-decode.git

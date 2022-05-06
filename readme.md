@@ -32,6 +32,7 @@ Repositories listed below are marked with some of the following badges.
 - [`ansi-truncate`](https://github.com/fabiospampinato/ansi-truncate) ![][P] ![][DD] ![][ISO] : A tiny function for truncating a string that may contain ANSI escape sequences.
 - [`are-shallow-equal`](https://github.com/fabiospampinato/are-shallow-equal) ![][PP] ![][D] ![][ISO] : Check if two values are shallowly equal to each other.
 - [`base128-encoding`](https://github.com/fabiospampinato/base128-encoding) ![][PP] ![][DDD] ![][ISO] : Base128 encoding, the intersection of latin1 and utf-8, which is basically ASCII, the most memory-efficient string encoding that can be written to disk as utf-8 without ballooning in size.
+- [`base256-archive`](https://github.com/fabiospampinato/base256-archive) ![][PP] ![][D] ![][ISO] : Simple archive format that produces a base256-encoded string.
 - [`base256-encoding`](https://github.com/fabiospampinato/base256-encoding) ![][PP] ![][DDD] ![][ISO] : Base256 encoding, a.k.a. latin1 encoding, the most memory-efficient encoding possible in JavaScript.
 - [`bob-wasm`](https://github.com/fabiospampinato/bob-wasm) ![][PPP] ![][D] ![][ISO] : A port of Svgbob to WASM.
 - [`buffer2uint8`](https://github.com/fabiospampinato/buffer2uint8) ![][P] ![][D] ![][ISO] : A tiny function for casting a Buffer to a Uint8Array.
@@ -40,7 +41,7 @@ Repositories listed below are marked with some of the following badges.
 - [`call-spy`](https://github.com/fabiospampinato/call-spy) ![][P] ![][DDD] ![][BROWSER] : Tiny performant library for extracting the critical CSS.
 - [`critically`](https://github.com/fabiospampinato/critically) ![][P] ![][D] ![][ISO] : Tiny function for spying on function calls.
 - [`crypto-pbkdf2-hmac`](https://github.com/fabiospampinato/crypto-pbkdf2-hmac) ![][PP] ![][D] ![][ISO] : Isomorphic wrapper for the PBKDF2-HMAC key derivation function.
-- [`crypto-puzzle`](https://github.com/fabiospampinato/crypto-puzzle) ![][PPP] ![][D] ![][ISO] : Basically a proof-of-work generator, this library makes cryptographic puzzles that are arbitrarily expensive to solve.
+- [`crypto-puzzle`](https://github.com/fabiospampinato/crypto-puzzle) ![][PP] ![][D] ![][ISO] : Basically a proof-of-work generator, this library makes cryptographic puzzles that are arbitrarily expensive to solve.
 - [`crypto-random-bigint`](https://github.com/fabiospampinato/crypto-random-bigint) ![][PP] ![][D] ![][ISO] : Generate a cryptographically-random BigInt with the given number of bits of entropy.
 - [`crypto-random-hexadecimal`](https://github.com/fabiospampinato/crypto-random-hexadecimal) ![][PP] ![][D] ![][ISO] : Generate a cryptographically-random hexadecimal string with the given number of bytes of entropy.
 - [`crypto-random-in-range`](https://github.com/fabiospampinato/crypto-random-in-range) ![][PP] ![][D] ![][ISO] : Pick a cryptographically-random integer within a range.
@@ -52,7 +53,9 @@ Repositories listed below are marked with some of the following badges.
 - [`css-simple-parser`](https://github.com/fabiospampinato/css-simple-parser) ![][PP] ![][DD] ![][ISO] : A (S)CSS parser that's tiny, blazing fast and (too) simple.
 - [`decode-base64`](https://github.com/fabiospampinato/decode-base64) ![][PP] ![][DD] ![][ISO] : A tiny function for decoding base64 strings into Uint8Arrays, useful for bundling and loading WASM modules.
 - [`detect-eol`](https://github.com/fabiospampinato/detect-eol) ![][P] ![][DDD] ![][ISO] : Quickly detect the EOL used in a string.
+- [`entities-decode`](https://github.com/fabiospampinato/entities-decode) ![][P] ![][D] ![][ISO] : Fast function for decoding HTML entities.
 - [`entities-dom-decode`](https://github.com/fabiospampinato/entities-dom-decode) ![][P] ![][DDD] ![][BROWSER] : A ~200 bytes function with no dependencies for decoding HTML entities, it only works in the browser.
+- [`entities-standard`](https://github.com/fabiospampinato/entities-standard) ![][P] ![][D] ![][ISO] : An object mapping ~2000 standard HTML entities to their value.
 - [`event-loop-yielder`](https://github.com/fabiospampinato/event-loop-yielder) ![][P] ![][D] ![][ISO] : A collection of strategies for yielding to the event loop, to avoid blocking for too long.
 - [`ext2mime`](https://github.com/fabiospampinato/ext2mime) ![][PP] ![][DDD] ![][ISO] : Convert a file extension to a mime type. It works only with popular file extensions and it's super lightweight.
 - [`find-up-json`](https://github.com/fabiospampinato/find-up-json) ![][P] ![][DDD] ![][NODE] : Find, read and parse the first matching file found walking the filesystem upwards.
@@ -81,6 +84,7 @@ Repositories listed below are marked with some of the following badges.
 - [`promise-concurrency-limiter`](https://github.com/fabiospampinato/promise-concurrency-limiter) ![][P] ![][D] ![][ISO] : Tiny scheduler for functions returning promises that can limit their concurrency.
 - [`promise-make-naked`](https://github.com/fabiospampinato/promise-make-naked) ![][P] ![][D] ![][ISO] : A simple function that makes a promise that can be resolved or rejected from the outside.
 - [`promise-resolve-timeout`](https://github.com/fabiospampinato/promise-resolve-timeout) ![][P] ![][D] ![][ISO] : Create a Promise which will resolve with the provided value after a timeout.
+- [`prompts-helpers`](https://github.com/fabiospampinato/prompts-helpers) ![][PPP] ![][DDD] ![][NODE] : Collection of convenience helpers for Prompts.
 - [`radix64-encoding`](https://github.com/fabiospampinato/radix64-encoding) ![][PP] ![][DDD] ![][ISO] : Radix64 encoding, a.k.a. Base64 encoding. An extremely fast and synchronous JS implementation.
 - [`react-use-mounted`](https://github.com/fabiospampinato/react-use-mounted) ![][P] ![][DDD] ![][ISO] : React hook for checking if the component is mounted.
 - [`react-use-previous`](https://github.com/fabiospampinato/react-use-previous) ![][P] ![][DDD] ![][ISO] : React hook for remembering a previous value.
@@ -101,8 +105,10 @@ Repositories listed below are marked with some of the following badges.
 - [`tiny-divider`](https://github.com/fabiospampinato/tiny-divider) ![][PP] ![][D] ![][ISO] : A tiny simple terminal divider that spans the entire width of the terminal.
 - [`tiny-filename`](https://github.com/fabiospampinato/tiny-filename) ![][P] ![][D] ![][ISO] : A tiny isomorphic ESM alternative to Node's "__filename" global.
 - [`tiny-readdir`](https://github.com/fabiospampinato/tiny-readdir) ![][PP] ![][DDD] ![][NODE] : A simple promisified recursive readdir function.
+- [`tiny-spinner`](https://github.com/fabiospampinato/tiny-spinner) ![][PP] ![][D] ![][NODE] : A simple, yet beautiful, CLI spinner.
 - [`tiny-truncate`](https://github.com/fabiospampinato/tiny-truncate) ![][PP] ![][DD] ![][ISO] : A tiny function for truncating a string which may containg ANSI escapes, with automatic terminal width detection.
 - [`tiny-webcrypto`](https://github.com/fabiospampinato/tiny-webcrypto) ![][P] ![][DDD] ![][ISO] : A tiny isomorphic WebCrypto object, it just gives you the native one the current platform provides.
+- [`tryloop`](https://github.com/fabiospampinato/tryloop) ![][P] ![][D] ![][ISO] : Simple library for retrying operations, it supports multiple backoff strategies.
 - [`ua2os`](https://github.com/fabiospampinato/ua2os) ![][P] ![][D] ![][ISO] : Detect the OS from a User-Agent string.
 - [`unsanitize-basename`](https://github.com/fabiospampinato/unsanitize-basename) ![][P] ![][D] ![][ISO] : Unsanitize a file name, the inverse of the "sanitize-basename" library.
 - [`uint8-encoding`](https://github.com/fabiospampinato/uint8-encoding) ![][P] ![][DDD] ![][ISO] : Uint8 encoding, a simple way to convert strings to Uint8Arrays and vice versa.
