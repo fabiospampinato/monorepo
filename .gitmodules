@@ -235,3 +235,9 @@
 [submodule "string-replace-all"]
 	path = string-replace-all
 	url = https://github.com/fabiospampinato/string-replace-all.git
+[submodule "oby"]
+	path = oby
+	url = https://github.com/fabiospampinato/oby.git
+[submodule "voby"]
+	path = voby
+	url = https://github.com/fabiospampinato/voby.git

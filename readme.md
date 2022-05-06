@@ -68,6 +68,7 @@ Repositories listed below are marked with some of the following badges.
 - [`nanopath`](https://github.com/fabiospampinato/nanopath) ![][P] ![][DD] ![][ISO] : A tiny isomorphic port of Node@17.8.0 path module.
 - [`node-buffer-encoding`](https://github.com/fabiospampinato/node-buffer-encoding) ![][P] ![][D] ![][NODE] : A little wrapper around Node's Buffer that provides encoding/decoding for all supported encodings.
 - [`noop-tag`](https://github.com/fabiospampinato/noop-tag) ![][P] ![][D] ![][ISO] : A noop template literal tag, useful for syntax highlighting hints.
+- [`oby`](https://github.com/fabiospampinato/oby) ![][P] ![][DDD] ![][ISO] : A tiny Observable implementation, the brilliant primitive you need to build a powerful reactive system.
 - [`once`](https://github.com/fabiospampinato/once) ![][P] ![][D] ![][ISO] : Wraps a function so that it's only ever executed once.
 - [`path-prop`](https://github.com/fabiospampinato/path-prop) ![][PP] ![][D] ![][ISO] : Fast library for manipulating plain objects using paths.
 - [`pikchr-wasm`](https://github.com/fabiospampinato/pikchr-wasm) ![][PPP] ![][D] ![][ISO] : A fast and small port of Pikchr to WASM.
@@ -104,6 +105,7 @@ Repositories listed below are marked with some of the following badges.
 - [`uint8-encoding`](https://github.com/fabiospampinato/uint8-encoding) ![][P] ![][DDD] ![][ISO] : Uint8 encoding, a simple way to convert strings to Uint8Arrays and vice versa.
 - [`uint8-to-hex`](https://github.com/fabiospampinato/uint8-to-hex) ![][PP] ![][DDD] ![][ISO] : The fastest function to convert a Uint8Array to hexadecimal.
 - [`utf16le-encoding`](https://github.com/fabiospampinato/utf16le-encoding) ![][PP] ![][DDD] ![][ISO] : UTF16-le encoding, a.k.a. UCS2 encoding, an encoding you probably should never use.
+- [`voby`](https://github.com/fabiospampinato/voby) ![][PP] ![][DDD] ![][BROWSER] : A high-performance framework with fine-grained observable-based reactivity for building rich applications.
 - [`when-exit`](https://github.com/fabiospampinato/when-exit) ![][P] ![][DDD] ![][NODE] : Execute a function right before the process is about to exit.
 - [`yinyang-clock`](https://github.com/fabiospampinato/yinyang-clock) ![][P] ![][DDD] ![][BROWSER] : A clock that keeps track of time spent yinning vs time spent yanging.
 - [`zstandard-wasm`](https://github.com/fabiospampinato/zstandard-wasm) ![][PPP] ![][D] ![][ISO] : A fast and small port of Zstandard to WASM. (Decompress-only for now).
