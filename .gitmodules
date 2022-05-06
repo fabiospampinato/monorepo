@@ -241,3 +241,6 @@
 [submodule "voby"]
 	path = voby
 	url = https://github.com/fabiospampinato/voby.git
+[submodule "are-shallow-equal"]
+	path = are-shallow-equal
+	url = https://github.com/fabiospampinato/are-shallow-equal.git

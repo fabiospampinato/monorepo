@@ -29,6 +29,7 @@ Repositories listed below are marked with some of the following badges.
 > Currently in the looong process of porting everything to ESM-only, this will take a while.
 
 - [`aborter`](https://github.com/fabiospampinato/aborter) ![][P] ![][D] ![][ISO] : A minimal reimplementation of AbortController and AbortSignal.
+- [`are-shallow-equal`](https://github.com/fabiospampinato/are-shallow-equal) ![][PP] ![][D] ![][ISO] : Check if two values are shallowly equal to each other.
 - [`base128-encoding`](https://github.com/fabiospampinato/base128-encoding) ![][PP] ![][DDD] ![][ISO] : Base128 encoding, the intersection of latin1 and utf-8, which is basically ASCII, the most memory-efficient string encoding that can be written to disk as utf-8 without ballooning in size.
 - [`base256-encoding`](https://github.com/fabiospampinato/base256-encoding) ![][PP] ![][DDD] ![][ISO] : Base256 encoding, a.k.a. latin1 encoding, the most memory-efficient encoding possible in JavaScript.
 - [`bob-wasm`](https://github.com/fabiospampinato/bob-wasm) ![][PPP] ![][D] ![][ISO] : A port of Svgbob to WASM.
