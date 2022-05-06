@@ -229,3 +229,6 @@
 [submodule "yinyang-clock"]
 	path = yinyang-clock
 	url = https://github.com/fabiospampinato/yinyang-clock.git
+[submodule "string-escape-regex"]
+	path = string-escape-regex
+	url = https://github.com/fabiospampinato/string-escape-regex.git
