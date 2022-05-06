@@ -89,6 +89,7 @@ Repositories listed below are marked with some of the following badges.
 - [`string-indexes`](https://github.com/fabiospampinato/string-indexes) ![][P] ![][D] ![][ISO] : Retrieves all indexes, in non-overlapping ranges, of a substring in a string.
 - [`string-matches`](https://github.com/fabiospampinato/string-matches) ![][P] ![][D] ![][ISO] : Retrieves all the matches of a regex in a string.
 - [`string-matches-generator`](https://github.com/fabiospampinato/string-matches-generator) ![][P] ![][D] ![][ISO] : Retrieves all the matches of a regex in a string, via a generator.
+- [`string-replace-all`](https://github.com/fabiospampinato/string-replace-all) ![][P] ![][D] ![][ISO] : Replaces all the occurrences of a string into a string with another string.
 - [`tiny-buffer`](https://github.com/fabiospampinato/tiny-buffer) ![][P] ![][DDD] ![][ISO] : A tiny isomorphic implementation of a large subset of Node's Buffer.
 - [`tiny-colors`](https://github.com/fabiospampinato/tiny-colors) ![][P] ![][D] ![][ISO] : A tiny library providing the basic ANSI colors for the terminal.
 - [`tiny-cursor`](https://github.com/fabiospampinato/tiny-cursor) ![][PP] ![][DDD] ![][NODE] : A tiny library for hiding and showing the cursor in the terminal.

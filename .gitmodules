@@ -232,3 +232,6 @@
 [submodule "string-escape-regex"]
 	path = string-escape-regex
 	url = https://github.com/fabiospampinato/string-escape-regex.git
+[submodule "string-replace-all"]
+	path = string-replace-all
+	url = https://github.com/fabiospampinato/string-replace-all.git
