@@ -244,3 +244,9 @@
 [submodule "are-shallow-equal"]
 	path = are-shallow-equal
 	url = https://github.com/fabiospampinato/are-shallow-equal.git
+[submodule "ansi-truncate"]
+	path = ansi-truncate
+	url = https://github.com/fabiospampinato/ansi-truncate.git
+[submodule "tiny-truncate"]
+	path = tiny-truncate
+	url = https://github.com/fabiospampinato/tiny-truncate.git
