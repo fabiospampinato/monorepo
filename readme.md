@@ -106,6 +106,7 @@ Repositories listed below are marked with some of the following badges.
 - [`tiny-filename`](https://github.com/fabiospampinato/tiny-filename) ![][P] ![][D] ![][ISO] : A tiny isomorphic ESM alternative to Node's "__filename" global.
 - [`tiny-readdir`](https://github.com/fabiospampinato/tiny-readdir) ![][PP] ![][DDD] ![][NODE] : A simple promisified recursive readdir function.
 - [`tiny-spinner`](https://github.com/fabiospampinato/tiny-spinner) ![][PP] ![][D] ![][NODE] : A simple, yet beautiful, CLI spinner.
+- [`tiny-sqlite3`](https://github.com/fabiospampinato/tiny-sqlite3) ![][PP] ![][DDD] ![][NODE] : A tiny cross-platform client for SQLite3, with the official precompiled binaries as the only third-party dependencies.
 - [`tiny-truncate`](https://github.com/fabiospampinato/tiny-truncate) ![][PP] ![][DD] ![][ISO] : A tiny function for truncating a string which may containg ANSI escapes, with automatic terminal width detection.
 - [`tiny-webcrypto`](https://github.com/fabiospampinato/tiny-webcrypto) ![][P] ![][DDD] ![][ISO] : A tiny isomorphic WebCrypto object, it just gives you the native one the current platform provides.
 - [`tryloop`](https://github.com/fabiospampinato/tryloop) ![][P] ![][D] ![][ISO] : Simple library for retrying operations, it supports multiple backoff strategies.

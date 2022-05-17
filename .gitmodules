@@ -268,3 +268,6 @@
 [submodule "entities-decode"]
 	path = entities-decode
 	url = https://github.com/fabiospampinato/entities-decode.git
+[submodule "tiny-sqlite3"]
+	path = tiny-sqlite3
+	url = https://github.com/fabiospampinato/tiny-sqlite3.git
