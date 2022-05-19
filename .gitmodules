@@ -271,3 +271,6 @@
 [submodule "tiny-sqlite3"]
 	path = tiny-sqlite3
 	url = https://github.com/fabiospampinato/tiny-sqlite3.git
+[submodule "stubborn-fs"]
+	path = stubborn-fs
+	url = https://github.com/fabiospampinato/stubborn-fs.git
