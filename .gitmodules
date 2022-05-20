@@ -274,3 +274,15 @@
 [submodule "stubborn-fs"]
 	path = stubborn-fs
 	url = https://github.com/fabiospampinato/stubborn-fs.git
+[submodule "uint-rng"]
+	path = uint-rng
+	url = https://github.com/fabiospampinato/uint-rng.git
+[submodule "worktank"]
+	path = worktank
+	url = https://github.com/fabiospampinato/worktank.git
+[submodule "import-fool-webpack"]
+	path = import-fool-webpack
+	url = https://github.com/fabiospampinato/import-fool-webpack.git
+[submodule "zeptoid"]
+	path = zeptoid
+	url = https://github.com/fabiospampinato/zeptoid.git
