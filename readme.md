@@ -119,6 +119,7 @@ Repositories listed below are marked with some of the following badges.
 - [`uint-rng`](https://github.com/fabiospampinato/uint-rng) ![][PP] ![][D] ![][ISO] : A tiny isomorphic Random Number Generator for generating 8/16/32-bits unsigned integers.
 - [`utf16le-encoding`](https://github.com/fabiospampinato/utf16le-encoding) ![][PP] ![][DDD] ![][ISO] : UTF16-le encoding, a.k.a. UCS2 encoding, an encoding you probably should never use.
 - [`voby`](https://github.com/fabiospampinato/voby) ![][PP] ![][DDD] ![][BROWSER] : A high-performance framework with fine-grained observable-based reactivity for building rich applications.
+- [`webworker-shim`](https://github.com/fabiospampinato/webworker-shim) ![][P] ![][DDD] ![][ISO] : A tiny shim for WebWorker (data URI only) that works in Node.
 - [`when-exit`](https://github.com/fabiospampinato/when-exit) ![][P] ![][DDD] ![][NODE] : Execute a function right before the process is about to exit.
 - [`worktank`](https://github.com/fabiospampinato/worktank) ![][PPP] ![][D] ![][ISO] : A simple isomorphic library for executing functions inside WebWorkers or Node Threads pools.
 - [`yinyang-clock`](https://github.com/fabiospampinato/yinyang-clock) ![][P] ![][DDD] ![][BROWSER] : A clock that keeps track of time spent yinning vs time spent yanging.

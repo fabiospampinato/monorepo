@@ -286,3 +286,6 @@
 [submodule "zeptoid"]
 	path = zeptoid
 	url = https://github.com/fabiospampinato/zeptoid.git
+[submodule "webworker-shim"]
+	path = webworker-shim
+	url = https://github.com/fabiospampinato/webworker-shim.git
