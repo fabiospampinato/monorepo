@@ -289,3 +289,9 @@
 [submodule "webworker-shim"]
 	path = webworker-shim
 	url = https://github.com/fabiospampinato/webworker-shim.git
+[submodule "worktank-esbuild-plugin"]
+	path = worktank-esbuild-plugin
+	url = https://github.com/fabiospampinato/worktank-esbuild-plugin.git
+[submodule "worktank-vite-plugin"]
+	path = worktank-vite-plugin
+	url = https://github.com/fabiospampinato/worktank-vite-plugin.git

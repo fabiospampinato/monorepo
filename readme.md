@@ -122,6 +122,8 @@ Repositories listed below are marked with some of the following badges.
 - [`webworker-shim`](https://github.com/fabiospampinato/webworker-shim) ![][P] ![][DDD] ![][ISO] : A tiny shim for WebWorker (data URI only) that works in Node.
 - [`when-exit`](https://github.com/fabiospampinato/when-exit) ![][P] ![][DDD] ![][NODE] : Execute a function right before the process is about to exit.
 - [`worktank`](https://github.com/fabiospampinato/worktank) ![][PP] ![][D] ![][ISO] : A simple isomorphic library for executing functions inside WebWorkers or Node Threads pools.
+- [`worktank-esbuild-plugin`](https://github.com/fabiospampinato/worktank-esbuild-plugin) ![][PPP] ![][DDD] ![][NODE] : Esbuild plugin for WorkTank which enables you to execute whole files in a worker pool, transparently.
+- [`worktank-vite-plugin`](https://github.com/fabiospampinato/worktank-vite-plugin) ![][PPP] ![][DDD] ![][NODE] : Vite plugin for WorkTank which enables you to execute whole files in a worker pool, transparently.
 - [`yinyang-clock`](https://github.com/fabiospampinato/yinyang-clock) ![][P] ![][DDD] ![][BROWSER] : A clock that keeps track of time spent yinning vs time spent yanging.
 - [`zeptoid`](https://github.com/fabiospampinato/zeptoid) ![][PP] ![][DDD] ![][ISO] : A tiny isomorphic fast function for generating a cryptographically random hex string.
 - [`zstandard-wasm`](https://github.com/fabiospampinato/zstandard-wasm) ![][PPP] ![][D] ![][ISO] : A fast and small port of Zstandard to WASM. (Decompress-only for now).
