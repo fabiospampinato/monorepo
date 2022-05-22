@@ -295,3 +295,12 @@
 [submodule "worktank-vite-plugin"]
 	path = worktank-vite-plugin
 	url = https://github.com/fabiospampinato/worktank-vite-plugin.git
+[submodule "conf-merge"]
+	path = conf-merge
+	url = https://github.com/fabiospampinato/conf-merge.git
+[submodule "tiny-json-body-parser"]
+	path = tiny-json-body-parser
+	url = https://github.com/fabiospampinato/tiny-json-body-parser.git
+[submodule "tiny-urlencoded-body-parser"]
+	path = tiny-urlencoded-body-parser
+	url = https://github.com/fabiospampinato/tiny-urlencoded-body-parser.git

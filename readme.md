@@ -39,6 +39,7 @@ Repositories listed below are marked with some of the following badges.
 - [`call-chainer`](https://github.com/fabiospampinato/call-chainer) ![][P] ![][D] ![][ISO] : Combine a regular function and a class so that methods of the class become chainable properties of the function that get called automatically.
 - [`call-hooks`](https://github.com/fabiospampinato/call-hooks) ![][P] ![][D] ![][ISO] : Function for adding before/after/call/arguments/result hooks to another function.
 - [`call-spy`](https://github.com/fabiospampinato/call-spy) ![][P] ![][DDD] ![][BROWSER] : Tiny performant library for extracting the critical CSS.
+- [`conf-merge`](https://github.com/fabiospampinato/conf-merge) ![][PP] ![][DDD] ![][ISO] : Deep merges objects, concatenating arrays.
 - [`critically`](https://github.com/fabiospampinato/critically) ![][P] ![][D] ![][ISO] : Tiny function for spying on function calls.
 - [`crypto-pbkdf2-hmac`](https://github.com/fabiospampinato/crypto-pbkdf2-hmac) ![][PP] ![][D] ![][ISO] : Isomorphic wrapper for the PBKDF2-HMAC key derivation function.
 - [`crypto-puzzle`](https://github.com/fabiospampinato/crypto-puzzle) ![][PP] ![][D] ![][ISO] : Basically a proof-of-work generator, this library makes cryptographic puzzles that are arbitrarily expensive to solve.
@@ -106,10 +107,12 @@ Repositories listed below are marked with some of the following badges.
 - [`tiny-dirname`](https://github.com/fabiospampinato/tiny-dirname) ![][P] ![][D] ![][ISO] : A tiny isomorphic ESM alternative to Node's "__dirname" global.
 - [`tiny-divider`](https://github.com/fabiospampinato/tiny-divider) ![][PP] ![][D] ![][ISO] : A tiny simple terminal divider that spans the entire width of the terminal.
 - [`tiny-filename`](https://github.com/fabiospampinato/tiny-filename) ![][P] ![][D] ![][ISO] : A tiny isomorphic ESM alternative to Node's "__filename" global.
+- [`tiny-json-body-parser`](https://github.com/fabiospampinato/tiny-json-body-parser) ![][PP] ![][DDD] ![][ISO] : A tiny middleware that parses JSON request bodies.
 - [`tiny-readdir`](https://github.com/fabiospampinato/tiny-readdir) ![][PP] ![][DDD] ![][NODE] : A simple promisified recursive readdir function.
 - [`tiny-spinner`](https://github.com/fabiospampinato/tiny-spinner) ![][PP] ![][D] ![][NODE] : A simple, yet beautiful, CLI spinner.
 - [`tiny-sqlite3`](https://github.com/fabiospampinato/tiny-sqlite3) ![][PP] ![][DDD] ![][NODE] : A tiny cross-platform client for SQLite3, with the official precompiled binaries as the only third-party dependencies.
 - [`tiny-truncate`](https://github.com/fabiospampinato/tiny-truncate) ![][PP] ![][DD] ![][ISO] : A tiny function for truncating a string which may containg ANSI escapes, with automatic terminal width detection.
+- [`tiny-urlencoded-body-parser`](https://github.com/fabiospampinato/tiny-urlencoded-body-parser) ![][PP] ![][DDD] ![][ISO] : A tiny middleware that parses URL-encoded request bodies.
 - [`tiny-webcrypto`](https://github.com/fabiospampinato/tiny-webcrypto) ![][P] ![][DDD] ![][ISO] : A tiny isomorphic WebCrypto object, it just gives you the native one the current platform provides.
 - [`tryloop`](https://github.com/fabiospampinato/tryloop) ![][P] ![][D] ![][ISO] : Simple library for retrying operations, it supports multiple backoff strategies.
 - [`ua2os`](https://github.com/fabiospampinato/ua2os) ![][P] ![][D] ![][ISO] : Detect the OS from a User-Agent string.
