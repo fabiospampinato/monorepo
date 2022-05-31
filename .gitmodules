@@ -304,3 +304,6 @@
 [submodule "tiny-urlencoded-body-parser"]
 	path = tiny-urlencoded-body-parser
 	url = https://github.com/fabiospampinato/tiny-urlencoded-body-parser.git
+[submodule "js-simple-mangler"]
+	path = js-simple-mangler
+	url = https://github.com/fabiospampinato/js-simple-mangler.git
