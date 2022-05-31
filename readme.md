@@ -24,7 +24,7 @@ Repositories listed below are marked with some of the following badges.
 - ![][BUNDLE] : released in bundled form.
 - ![][TREE] : released in tree-shakeable form.
 
-## Repositories
+## Repositories (Active)
 
 > Currently in the looong process of porting everything to ESM-only, this will take a while.
 
@@ -38,9 +38,9 @@ Repositories listed below are marked with some of the following badges.
 - [`buffer2uint8`](https://github.com/fabiospampinato/buffer2uint8) ![][P] ![][D] ![][ISO] : A tiny function for casting a Buffer to a Uint8Array.
 - [`call-chainer`](https://github.com/fabiospampinato/call-chainer) ![][P] ![][D] ![][ISO] : Combine a regular function and a class so that methods of the class become chainable properties of the function that get called automatically.
 - [`call-hooks`](https://github.com/fabiospampinato/call-hooks) ![][P] ![][D] ![][ISO] : Function for adding before/after/call/arguments/result hooks to another function.
-- [`call-spy`](https://github.com/fabiospampinato/call-spy) ![][P] ![][DDD] ![][BROWSER] : Tiny performant library for extracting the critical CSS.
+- [`call-spy`](https://github.com/fabiospampinato/call-spy) ![][P] ![][DDD] ![][BROWSER] : Tiny function for spying on function calls.
 - [`conf-merge`](https://github.com/fabiospampinato/conf-merge) ![][PP] ![][DDD] ![][ISO] : Deep merges objects, concatenating arrays.
-- [`critically`](https://github.com/fabiospampinato/critically) ![][P] ![][D] ![][ISO] : Tiny function for spying on function calls.
+- [`critically`](https://github.com/fabiospampinato/critically) ![][P] ![][D] ![][ISO] : Tiny performant library for extracting the critical CSS.
 - [`crypto-pbkdf2-hmac`](https://github.com/fabiospampinato/crypto-pbkdf2-hmac) ![][PP] ![][D] ![][ISO] : Isomorphic wrapper for the PBKDF2-HMAC key derivation function.
 - [`crypto-puzzle`](https://github.com/fabiospampinato/crypto-puzzle) ![][PP] ![][D] ![][ISO] : Basically a proof-of-work generator, this library makes cryptographic puzzles that are arbitrarily expensive to solve.
 - [`crypto-random-bigint`](https://github.com/fabiospampinato/crypto-random-bigint) ![][PP] ![][D] ![][ISO] : Generate a cryptographically-random BigInt with the given number of bits of entropy.
@@ -131,6 +131,10 @@ Repositories listed below are marked with some of the following badges.
 - [`yinyang-clock`](https://github.com/fabiospampinato/yinyang-clock) ![][P] ![][DDD] ![][BROWSER] : A clock that keeps track of time spent yinning vs time spent yanging.
 - [`zeptoid`](https://github.com/fabiospampinato/zeptoid) ![][PP] ![][DDD] ![][ISO] : A tiny isomorphic fast function for generating a cryptographically random hex string.
 - [`zstandard-wasm`](https://github.com/fabiospampinato/zstandard-wasm) ![][PPP] ![][D] ![][ISO] : A fast and small port of Zstandard to WASM. (Decompress-only for now).
+
+## Repositories (Archived)
+
+All archived, no longer maintained, repositories are listed [here](https://github.com/fabiospampinato?tab=repositories&q=&type=archived).
 
 <!-- LINKS -->
 
