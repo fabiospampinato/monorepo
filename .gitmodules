@@ -307,3 +307,6 @@
 [submodule "js-simple-mangler"]
 	path = js-simple-mangler
 	url = https://github.com/fabiospampinato/js-simple-mangler.git
+[submodule "fetch-shim"]
+	path = fetch-shim
+	url = https://github.com/fabiospampinato/fetch-shim.git

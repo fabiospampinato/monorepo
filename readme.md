@@ -59,6 +59,7 @@ Repositories listed below are marked with some of the following badges.
 - [`entities-standard`](https://github.com/fabiospampinato/entities-standard) ![][P] ![][D] ![][ISO] : An object mapping ~2000 standard HTML entities to their value.
 - [`event-loop-yielder`](https://github.com/fabiospampinato/event-loop-yielder) ![][P] ![][D] ![][ISO] : A collection of strategies for yielding to the event loop, to avoid blocking for too long.
 - [`ext2mime`](https://github.com/fabiospampinato/ext2mime) ![][PP] ![][DDD] ![][ISO] : Convert a file extension to a mime type. It works only with popular file extensions and it's super lightweight.
+- [`fetch-shim`](https://github.com/fabiospampinato/fetch-shim) ![][PPP] ![][D] ![][ISO] : A tiny isomoprhic Fetch function, it just gives you the native one if available, or the one from undici.
 - [`find-up-json`](https://github.com/fabiospampinato/find-up-json) ![][P] ![][DDD] ![][NODE] : Find, read and parse the first matching file found walking the filesystem upwards.
 - [`graphviz-wasm`](https://github.com/fabiospampinato/graphviz-wasm) ![][PPP] ![][D] ![][ISO] : A port of Graphviz to WASM.
 - [`hex-encoding`](https://github.com/fabiospampinato/hex-encoding) ![][PP] ![][DDD] ![][ISO] : Hex encoding. An extremely fast and synchronous JS implementation.
