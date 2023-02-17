@@ -31,9 +31,9 @@ Repositories listed below are marked with some of the following badges.
 
 ## Repositories (Active)
 
-> Some repositories below don't have badges yet, this list is a work in progress <!-- TODO -->
+> Some repositories don't have badges yet, this list is stil a work in progress <!-- TODO -->
 
-#### JavaScript Ecosystem
+### JavaScript Packages
 
 + [`aborter`](https://github.com/fabiospampinato/aborter) ![][P] ![][D] ![][ISO] : A minimal reimplementation of AbortController and AbortSignal.
 + [`amuchina`](https://github.com/fabiospampinato/amuchina) ![][P] ![][DDD] ![][ISO] : A work-in-progress HTML sanitizer that strives for: performance like window.Sanitizer, readiness like DOMPurify, and ability to run in a WebWorker like neither of those.
@@ -85,7 +85,7 @@ Repositories listed below are marked with some of the following badges.
 + [`entities-standard`](https://github.com/fabiospampinato/entities-standard) ![][P] ![][D] ![][ISO] : An object mapping ~2000 standard HTML entities to their value.
 + [`event-loop-yielder`](https://github.com/fabiospampinato/event-loop-yielder) ![][PP] ![][D] ![][ISO] : A collection of strategies for yielding to the event loop, to avoid blocking for too long.
 + [`ext2mime`](https://github.com/fabiospampinato/ext2mime) ![][PP] ![][D] ![][ISO] : Convert a file extension to a mime type. It works only with popular file extensions and it's super lightweight.
-+ [`fava`](https://github.com/fabiospampinato/fava) ![][PP] ![][D] ![][ISO] : (+ CLI) A wannabe tiny largely-drop-in replacement for ava that works in the browser too.
++ [`fava`](https://github.com/fabiospampinato/fava) ![][PP] ![][D] ![][ISO] ![][CLI] : A wannabe tiny largely-drop-in replacement for ava that works in the browser too.
 + [`fetch-shim`](https://github.com/fabiospampinato/fetch-shim) ![][PPP] ![][D] ![][ISO] : A tiny isomoprhic Fetch function, it just gives you the native one if available, or the one from undici.
 + [`find-up-json`](https://github.com/fabiospampinato/find-up-json) ![][P] ![][D] ![][NODE] : Find, read and parse the first matching file found walking the filesystem upwards.
 + [`flimsy`](https://github.com/fabiospampinato/flimsy) ![][P] ![][D] ![][ISO] : A single-file <1kb min+gzip simplified implementation of the reactive core of Solid, optimized for clean code.
@@ -179,7 +179,7 @@ Repositories listed below are marked with some of the following badges.
 + [`tiny-webcrypto`](https://github.com/fabiospampinato/tiny-webcrypto) ![][P] ![][D] ![][ISO] : A tiny isomorphic WebCrypto object, it just gives you the native one the current platform provides.
 - [`toygrad`](https://github.com/fabiospampinato/toygrad) : A toy library for building simple neural networks which can be serialized to compact JSON.
 + [`tryloop`](https://github.com/fabiospampinato/tryloop) ![][P] ![][D] ![][ISO] : Simple library for retrying operations, it supports multiple backoff strategies.
-+ [`tsex`](https://github.com/fabiospampinato/tsex) ![][PP] ![][D] ![][NODE] : A little CLI for making TypeScript packages, cleanly and effortlessly.
++ [`tsex`](https://github.com/fabiospampinato/tsex) ![][PP] ![][D] ![][NODE] ![][CLI] : A little CLI for making TypeScript packages, cleanly and effortlessly.
 + [`ua2os`](https://github.com/fabiospampinato/ua2os) ![][P] ![][D] ![][ISO] : Detect the OS from a User-Agent string.
 + [`uint-rng`](https://github.com/fabiospampinato/uint-rng) ![][PP] ![][D] ![][ISO] : A tiny insorphic Random Number Generator for generating 8/16/32-bits unsigned integers.
 + [`uint8-concat`](https://github.com/fabiospampinato/uint8-concat) ![][P] ![][D] ![][ISO] : Concatenate mutiple Uint8Arrays super efficiently.
@@ -199,31 +199,79 @@ Repositories listed below are marked with some of the following badges.
 + [`zeptomatch`](https://github.com/fabiospampinato/zeptomatch) ![][PP] ![][D] ![][ISO] : An absurdly small glob matcher that packs a punch.
 + [`zstandard-wasm`](https://github.com/fabiospampinato/zstandard-wasm) ![][PP] ![][D] ![][ISO] : A fast and small port of Zstandard to WASM. (Decompress-only for now).
 
-#### VSCode Ecosystem
+### Alfred Extensions
 
-- For now they are listed [here](https://github.com/fabiospampinato?tab=repositories&q=vscode&type=source).
+- [`alfred-brush-workflow`](https://github.com/fabiospampinato/alfred-brush-workflow) : Alfred workflow for reminding you to brush your teeth.
+- [`alfred-eject-workflow`](https://github.com/fabiospampinato/alfred-eject-workflow) : Alfred workflow for ejecting mounted drives.
+- [`alfred-spaces-workflow`](https://github.com/fabiospampinato/alfred-spaces-workflow) : Alfred workflow that, used in conjunction with my Phoenix setup, gives you a spaces switcher.
 
-#### Chrome Ecosystem
+### Chrome Extensions
 
-- For now they are listed [here](https://github.com/fabiospampinato?tab=repositories&q=chrome&type=source).
+- [`chrome-blank`](https://github.com/fabiospampinato/chrome-blank) : Just a blank new tab page.
+- [`chrome-multi-homepage`](https://github.com/fabiospampinato/chrome-multi-homepage) : Open multiple urls with a single click.
+- [`chrome-night-theme`](https://github.com/fabiospampinato/chrome-night-theme) : A dark and minimalistic theme.
+- [`chrome-window-session`](https://github.com/fabiospampinato/chrome-window-session) : Save each window as a separate session, automatically.
 
-#### Alfred Ecosystem
+### VSCode Extensions
 
-- For now they are listed [here](https://github.com/fabiospampinato?tab=repositories&q=alfred&type=source).
+- [`vscode-browser-refresh`](https://github.com/fabiospampinato/vscode-browser-refresh) : Refresh the browser with a ⌘R, right from Code. No need to switch focus to it.
+- [`vscode-bump`](https://github.com/fabiospampinato/vscode-bump) : Bump your project's version and update the changelog. Opinionated but configurable.
+- [`vscode-commands`](https://github.com/fabiospampinato/vscode-commands) : Trigger arbitrary commands from the statusbar. Supports passing arguments!
+- [`vscode-debug-launcher`](https://github.com/fabiospampinato/vscode-debug-launcher) : Start debugging, without having to define any tasks or launch configurations, even from the terminal.
+- [`vscode-diff`](https://github.com/fabiospampinato/vscode-diff) : Diff 2 opened files with ease. Because running `code --diff path1 path2` is too slow.
+- [`vscode-git-history`](https://github.com/fabiospampinato/vscode-git-history) : View or diff against previous versions of the current file.
+- [`vscode-github-notifications-bell`](https://github.com/fabiospampinato/vscode-github-notifications-bell) : A secure, customizable, statusbar bell that notifies you about notifications on github.
+- [`vscode-gitman`](https://github.com/fabiospampinato/vscode-gitman) : Frontend for GitMan for switching quickly to other repositories.
+- [`vscode-highlight`](https://github.com/fabiospampinato/vscode-highlight) : Advanced text highlighter based on regexes. Useful for todos, annotations etc.
+- [`vscode-markdown-todo`](https://github.com/fabiospampinato/vscode-markdown-todo) : Manage todo lists inside markdown files with ease.
+- [`vscode-monokai-night`](https://github.com/fabiospampinato/vscode-monokai-night) : A complete, dark and minimalistic Monokai-inspired theme.
+- [`vscode-open-in-application`](https://github.com/fabiospampinato/vscode-open-in-application) : Open an arbitrary file in its default app, or the app you want.
+- [`vscode-open-in-browsers`](https://github.com/fabiospampinato/vscode-open-in-browsers) : Adds some commands for opening the current file or project in any browser you like, even all of them simultaneously.
+- [`vscode-open-in-code`](https://github.com/fabiospampinato/vscode-open-in-code) : Switch between Code and Code Insiders with ease.
+- [`vscode-open-in-finder`](https://github.com/fabiospampinato/vscode-open-in-finder) : Adds a few commands for opening the current file or project in Finder.
+- [`vscode-open-in-github`](https://github.com/fabiospampinato/vscode-open-in-github) : Open the current project or file in github.com.
+- [`vscode-open-in-gittower`](https://github.com/fabiospampinato/vscode-open-in-gittower) : Adds a command for opening the current project in GitTower.
+- [`vscode-open-in-marketplace`](https://github.com/fabiospampinato/vscode-open-in-marketplace) : Adds a command for opening the current project in the Marketplace.
+- [`vscode-open-in-node-modules`](https://github.com/fabiospampinato/vscode-open-in-node-modules) : Open the current selection or arbitrary string in node_modules.
+- [`vscode-open-in-npm`](https://github.com/fabiospampinato/vscode-open-in-npm) : Open the current selection, project, or arbitrary string, in npmjs.com.
+- [`vscode-open-in-ship`](https://github.com/fabiospampinato/vscode-open-in-ship) : Adds a command for opening the current project in Ship.
+- [`vscode-open-in-terminal`](https://github.com/fabiospampinato/vscode-open-in-terminal) : Adds a few commands for opening the current project in Terminal.
+- [`vscode-open-in-transmit`](https://github.com/fabiospampinato/vscode-open-in-transmit) : Adds a few commands for opening the current file or project in Transmit.
+- [`vscode-open-multiple-files`](https://github.com/fabiospampinato/vscode-open-multiple-files) : Open all files in a folder at once, optionally filtering by a glob.
+- [`vscode-optimize-images`](https://github.com/fabiospampinato/vscode-optimize-images) : Optimize one or all the images in your project using your favorite app.
+- [`vscode-projects-plus-todo-plus`](https://github.com/fabiospampinato/vscode-projects-plus-todo-plus) : Bird's-eye view over your projects, view all your todo files aggregated into one.
+- [`vscode-projects-plus`](https://github.com/fabiospampinato/vscode-projects-plus) : An extension for managing projects. Feature rich, customizable, automatically finds your projects.
+- [`vscode-search-open-all-results`](https://github.com/fabiospampinato/vscode-search-open-all-results) : Open all search results at once with a single command.
+- [`vscode-statusbar-debugger`](https://github.com/fabiospampinato/vscode-statusbar-debugger) : Adds a debugger to the statusbar, less intrusive than the default floating one.
+- [`vscode-terminals`](https://github.com/fabiospampinato/vscode-terminals) : An extension for setting-up multiple terminals at once, or just running some commands.
+- [`vscode-todo-plus`](https://github.com/fabiospampinato/vscode-todo-plus) : Manage todo lists with ease. Powerful, easy to use and customizable.
+- [`vscode-transmit`](https://github.com/fabiospampinato/vscode-transmit) : Adds a few commands for interacting with Transmit.
 
-#### Templates
+### Templates
 
-- For now they are listed [here](https://github.com/fabiospampinato?tab=repositories&q=template&type=source).
+- [`awesome-template`](https://github.com/fabiospampinato/awesome-template) : Curated list of templates for Template.
+- [`template-alfred-workflow`](https://github.com/fabiospampinato/template-alfred-workflow) : A template for starting a new Alfred workflow quickly.
+- [`template-chrome-extension`](https://github.com/fabiospampinato/template-chrome-extension) : A template for starting a new Chrome extension quickly.
+- [`template-electron`](https://github.com/fabiospampinato/template-electron) : A template for starting a new electron app quickly.
+- [`template-lambda-claudia`](https://github.com/fabiospampinato/template-lambda-claudia) : A template for starting a new lambda quickly.
+- [`template-next-website`](https://github.com/fabiospampinato/template-next-website) : A template for starting a new Next.js website quickly.
+- [`template-template`](https://github.com/fabiospampinato/template-template) : A template for starting new templates quickly.
+- [`template-typescript-cli-package`](https://github.com/fabiospampinato/template-typescript-cli-package) : A template for starting a new typescript CLI package quickly.
+- [`template-typescript-package`](https://github.com/fabiospampinato/template-typescript-package) : A template for starting a new typescript package quickly.
+- [`template-vscode-extension`](https://github.com/fabiospampinato/template-vscode-extension) : A template for starting a new vscode extension quickly.
+- [`template-webpack-website`](https://github.com/fabiospampinato/template-webpack-website) : A template for starting a new webpack website quickly.
 
-#### Others
+### Others
 
-+ [`.github`](https://github.com/fabiospampinato/.github): Account-level .github directory.
-+ [`ama`](https://github.com/fabiospampinato/ama): Ask me anything!
-+ [`monorepo`](https://github.com/fabiospampinato/monorepo): The homepage for all my repositories.
-+ [`phoenix`](https://github.com/fabiospampinato/phoenix): My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
-+ [`termux-env`](https://github.com/fabiospampinato/termux-env): My super-quick-to-setup Termux environment.
-+ [`website`](https://github.com/fabiospampinato/website): My personal website.
-+ [`yinyang-clock`](https://github.com/fabiospampinato/yinyang-clock): A clock that keeps track of time spent yinning vs time spent yanging.
+- [`.github`](https://github.com/fabiospampinato/.github): Account-level .github directory.
+- [`ama`](https://github.com/fabiospampinato/ama): Ask me anything!
+- [`monorepo`](https://github.com/fabiospampinato/monorepo): The homepage for all my repositories.
+- [`phoenix`](https://github.com/fabiospampinato/phoenix): My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
+- [`termux-env`](https://github.com/fabiospampinato/termux-env): My super-quick-to-setup Termux environment.
+- [`vscode-beggar`](https://github/com/fabiospampinato/vscode-beggar) : A little utility for asking for money in a VSCode extension.
+- [`vscode-beggar-banners`](https://github/com/fabiospampinato/vscode-beggar-banners) : The little banners that I'm using in combination with vscode-beggar.
+- [`website`](https://github.com/fabiospampinato/website): My personal website.
+- [`yinyang-clock`](https://github.com/fabiospampinato/yinyang-clock): A clock that keeps track of time spent yinning vs time spent yanging.
 
 ## Repositories (Archived)
 
