@@ -31,7 +31,9 @@ Repositories listed below are marked with some of the following badges.
 
 ## Repositories (Active)
 
-> Some repositories below don't have badges, this list is a work in progress
+> Some repositories below don't have badges yet, this list is a work in progress <!-- TODO -->
+
+#### JavaScript Ecosystem
 
 + [`aborter`](https://github.com/fabiospampinato/aborter) ![][P] ![][D] ![][ISO] : A minimal reimplementation of AbortController and AbortSignal.
 + [`amuchina`](https://github.com/fabiospampinato/amuchina) ![][P] ![][DDD] ![][ISO] : A work-in-progress HTML sanitizer that strives for: performance like window.Sanitizer, readiness like DOMPurify, and ability to run in a WebWorker like neither of those.
@@ -197,20 +199,31 @@ Repositories listed below are marked with some of the following badges.
 + [`zeptomatch`](https://github.com/fabiospampinato/zeptomatch) ![][PP] ![][D] ![][ISO] : An absurdly small glob matcher that packs a punch.
 + [`zstandard-wasm`](https://github.com/fabiospampinato/zstandard-wasm) ![][PP] ![][D] ![][ISO] : A fast and small port of Zstandard to WASM. (Decompress-only for now).
 
-<!-- //TODO: CLI badge -->
-<!-- //TODO: vscode -->
-<!-- //TODO: chrome -->
-<!-- //TODO: alfred -->
-<!-- //TODO: templates -->
-<!-- //TODO: ama -->
-<!-- //TODO: .github -->
-<!-- //TODO: website -->
-<!-- //TODO: yinyang-clock -->
-<!-- //TODO: update submodules -->
-<!-- //TODO: TFGTTJG -->
-<!-- //TODO: termux-env -->
-<!-- //TODO: monorepo -->
-<!-- //TODO: phoenix -->
+#### VSCode Ecosystem
+
+- For now they are listed [here](https://github.com/fabiospampinato?tab=repositories&q=vscode&type=source).
+
+#### Chrome Ecosystem
+
+- For now they are listed [here](https://github.com/fabiospampinato?tab=repositories&q=chrome&type=source).
+
+#### Alfred Ecosystem
+
+- For now they are listed [here](https://github.com/fabiospampinato?tab=repositories&q=alfred&type=source).
+
+#### Templates
+
+- For now they are listed [here](https://github.com/fabiospampinato?tab=repositories&q=template&type=source).
+
+#### Others
+
++ [`.github`](https://github.com/fabiospampinato/.github): Account-level .github directory.
++ [`ama`](https://github.com/fabiospampinato/ama): Ask me anything!
++ [`monorepo`](https://github.com/fabiospampinato/monorepo): The homepage for all my repositories.
++ [`phoenix`](https://github.com/fabiospampinato/phoenix): My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
++ [`termux-env`](https://github.com/fabiospampinato/termux-env): My super-quick-to-setup Termux environment.
++ [`website`](https://github.com/fabiospampinato/website): My personal website.
++ [`yinyang-clock`](https://github.com/fabiospampinato/yinyang-clock): A clock that keeps track of time spent yinning vs time spent yanging.
 
 ## Repositories (Archived)
 
