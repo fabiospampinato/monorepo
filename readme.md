@@ -12,20 +12,22 @@ git clone --recurse-submodules git://github.com/fabiospampinato/monorepo.git
 
 Repositories listed below are marked with some of the following badges.
 
-- ![][P] : no production dependencies whatsoever.
-- ![][PP] : only first-party production dependencies.
-- ![][PPP] : with third-party production dependencies.
-
-- ![][D] : no development dependencies other than `tsex`, `fava`, `benchloop`, `esbuild`, `typescript` and `@types/node`.
-- ![][DD] : only some extra first-party development dependencies.
-- ![][DDD] : with some extra third-party development dependencies.
-
-- ![][ISO] : isomorphic repository.
-- ![][BROWSER] : browser-only repository.
-- ![][NODE] : Node-only repository.
-
-- ![][BUNDLE] : released in bundled form.
-- ![][TREE] : released in tree-shakeable form.
+- Production dependencies badges:
+  - ![][P] : no production dependencies whatsoever.
+  - ![][PP] : only first-party production dependencies.
+  - ![][PPP] : with third-party production dependencies.
+- Development dependencies badges:
+  - ![][D] : no development dependencies other than [`tsex`](https://github.com/fabiospampinato/tsex), [`fava`](https://github.com/fabiospampinato/fava), [`benchloop`](https://github.com/fabiospampinato/benchloop), [`esbuild`](https://github.com/evanw/esbuild), [`typescript`](https://github.com/microsoft/TypeScript) and `@types/node`.
+  - ![][DD] : only some extra first-party development dependencies.
+  - ![][DDD] : with some extra third-party development dependencies.
+- Runtime badges:
+  - ![][ISO] : isomorphic repository.
+  - ![][BROWSER] : browser-only repository.
+  - ![][NODE] : Node-only repository.
+- Other badges:
+  - ![][BUNDLE] : released in bundled form.
+  - ![][TREE] : released in tree-shakeable form.
+  - ![][CLI] : provides a command line application.
 
 ## Repositories (Active)
 
@@ -227,3 +229,4 @@ All archived, no longer maintained, repositories are listed [here](https://githu
 [ISO]: /resources/badges/iso.svg
 [BUNDLE]: /resources/badges/bundle.svg
 [TREE]: /resources/badges/tree.svg
+[CLI]: /resources/badges/cli.svg
