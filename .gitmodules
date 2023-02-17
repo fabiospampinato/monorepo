@@ -1,3 +1,489 @@
 [submodule "repositories/aborter"]
 	path = repositories/aborter
 	url = https://github.com/fabiospampinato/aborter.git
+[submodule "repositories/amuchina"]
+	path = repositories/amuchina
+	url = https://github.com/fabiospampinato/amuchina.git
+[submodule "repositories/ansi-purge"]
+	path = repositories/ansi-purge
+	url = https://github.com/fabiospampinato/ansi-purge.git
+[submodule "repositories/ansi-truncate"]
+	path = repositories/ansi-truncate
+	url = https://github.com/fabiospampinato/ansi-truncate.git
+[submodule "repositories/are-deeply-equal"]
+	path = repositories/are-deeply-equal
+	url = https://github.com/fabiospampinato/are-deeply-equal.git
+[submodule "repositories/are-shallow-equal"]
+	path = repositories/are-shallow-equal
+	url = https://github.com/fabiospampinato/are-shallow-equal.git
+[submodule "repositories/atomically"]
+	path = repositories/atomically
+	url = https://github.com/fabiospampinato/atomically.git
+[submodule "repositories/base128-encoding"]
+	path = repositories/base128-encoding
+	url = https://github.com/fabiospampinato/base128-encoding.git
+[submodule "repositories/base256-archive"]
+	path = repositories/base256-archive
+	url = https://github.com/fabiospampinato/base256-archive.git
+[submodule "repositories/base256-encoding"]
+	path = repositories/base256-encoding
+	url = https://github.com/fabiospampinato/base256-encoding.git
+[submodule "repositories/benchloop"]
+	path = repositories/benchloop
+	url = https://github.com/fabiospampinato/benchloop.git
+[submodule "repositories/bob-wasm"]
+	path = repositories/bob-wasm
+	url = https://github.com/fabiospampinato/bob-wasm.git
+[submodule "repositories/buffer2uint8"]
+	path = repositories/buffer2uint8
+	url = https://github.com/fabiospampinato/buffer2uint8.git
+[submodule "repositories/bump"]
+	path = repositories/bump
+	url = https://github.com/fabiospampinato/bump.git
+[submodule "repositories/call-chainer"]
+	path = repositories/call-chainer
+	url = https://github.com/fabiospampinato/call-chainer.git
+[submodule "repositories/call-hooks"]
+	path = repositories/call-hooks
+	url = https://github.com/fabiospampinato/call-hooks.git
+[submodule "repositories/call-spy"]
+	path = repositories/call-spy
+	url = https://github.com/fabiospampinato/call-spy.git
+[submodule "repositories/calls-batch"]
+	path = repositories/calls-batch
+	url = https://github.com/fabiospampinato/calls-batch.git
+[submodule "repositories/cash"]
+	path = repositories/cash
+	url = https://github.com/fabiospampinato/cash.git
+[submodule "repositories/classattr"]
+	path = repositories/classattr
+	url = https://github.com/fabiospampinato/classattr.git
+[submodule "repositories/conf-merge"]
+	path = repositories/conf-merge
+	url = https://github.com/fabiospampinato/conf-merge.git
+[submodule "repositories/configuration"]
+	path = repositories/configuration
+	url = https://github.com/fabiospampinato/configuration.git
+[submodule "repositories/context-keys"]
+	path = repositories/context-keys
+	url = https://github.com/fabiospampinato/context-keys.git
+[submodule "repositories/copy-unused-path"]
+	path = repositories/copy-unused-path
+	url = https://github.com/fabiospampinato/copy-unused-path.git
+[submodule "repositories/critically"]
+	path = repositories/critically
+	url = https://github.com/fabiospampinato/critically.git
+[submodule "repositories/crypto-pbkdf2-hmac"]
+	path = repositories/crypto-pbkdf2-hmac
+	url = https://github.com/fabiospampinato/crypto-pbkdf2-hmac.git
+[submodule "repositories/crypto-puzzle"]
+	path = repositories/crypto-puzzle
+	url = https://github.com/fabiospampinato/crypto-puzzle.git
+[submodule "repositories/crypto-random-bigint"]
+	path = repositories/crypto-random-bigint
+	url = https://github.com/fabiospampinato/crypto-random-bigint.git
+[submodule "repositories/crypto-random-hexadecimal"]
+	path = repositories/crypto-random-hexadecimal
+	url = https://github.com/fabiospampinato/crypto-random-hexadecimal.git
+[submodule "repositories/crypto-random-in-range"]
+	path = repositories/crypto-random-in-range
+	url = https://github.com/fabiospampinato/crypto-random-in-range.git
+[submodule "repositories/crypto-random-uint8"]
+	path = repositories/crypto-random-uint8
+	url = https://github.com/fabiospampinato/crypto-random-uint8.git
+[submodule "repositories/crypto-sha"]
+	path = repositories/crypto-sha
+	url = https://github.com/fabiospampinato/crypto-sha.git
+[submodule "repositories/crypto-xxhash-64"]
+	path = repositories/crypto-xxhash-64
+	url = https://github.com/fabiospampinato/crypto-xxhash-64.git
+[submodule "repositories/cson2json"]
+	path = repositories/cson2json
+	url = https://github.com/fabiospampinato/cson2json.git
+[submodule "repositories/css-eval"]
+	path = repositories/css-eval
+	url = https://github.com/fabiospampinato/css-eval.git
+[submodule "repositories/css-flatten"]
+	path = repositories/css-flatten
+	url = https://github.com/fabiospampinato/css-flatten.git
+[submodule "repositories/css-simple-minifier"]
+	path = repositories/css-simple-minifier
+	url = https://github.com/fabiospampinato/css-simple-minifier.git
+[submodule "repositories/css-simple-parser"]
+	path = repositories/css-simple-parser
+	url = https://github.com/fabiospampinato/css-simple-parser.git
+[submodule "repositories/decode-base64"]
+	path = repositories/decode-base64
+	url = https://github.com/fabiospampinato/decode-base64.git
+[submodule "repositories/depsman"]
+	path = repositories/depsman
+	url = https://github.com/fabiospampinato/depsman.git
+[submodule "repositories/detect-eol"]
+	path = repositories/detect-eol
+	url = https://github.com/fabiospampinato/detect-eol.git
+[submodule "repositories/dettle"]
+	path = repositories/dettle
+	url = https://github.com/fabiospampinato/dettle.git
+[submodule "repositories/domino-global"]
+	path = repositories/domino-global
+	url = https://github.com/fabiospampinato/domino-global.git
+[submodule "repositories/dotenv-jsonc"]
+	path = repositories/dotenv-jsonc
+	url = https://github.com/fabiospampinato/dotenv-jsonc.git
+[submodule "repositories/duper"]
+	path = repositories/duper
+	url = https://github.com/fabiospampinato/duper.git
+[submodule "repositories/entities-decode"]
+	path = repositories/entities-decode
+	url = https://github.com/fabiospampinato/entities-decode.git
+[submodule "repositories/entities-dom-decode"]
+	path = repositories/entities-dom-decode
+	url = https://github.com/fabiospampinato/entities-dom-decode.git
+[submodule "repositories/entities-standard"]
+	path = repositories/entities-standard
+	url = https://github.com/fabiospampinato/entities-standard.git
+[submodule "repositories/event-loop-yielder"]
+	path = repositories/event-loop-yielder
+	url = https://github.com/fabiospampinato/event-loop-yielder.git
+[submodule "repositories/ext2mime"]
+	path = repositories/ext2mime
+	url = https://github.com/fabiospampinato/ext2mime.git
+[submodule "repositories/fava"]
+	path = repositories/fava
+	url = https://github.com/fabiospampinato/fava.git
+[submodule "repositories/fetch-shim"]
+	path = repositories/fetch-shim
+	url = https://github.com/fabiospampinato/fetch-shim.git
+[submodule "repositories/find-up-json"]
+	path = repositories/find-up-json
+	url = https://github.com/fabiospampinato/find-up-json.git
+[submodule "repositories/flimsy"]
+	path = repositories/flimsy
+	url = https://github.com/fabiospampinato/flimsy.git
+[submodule "repositories/get-current-package"]
+	path = repositories/get-current-package
+	url = https://github.com/fabiospampinato/get-current-package.git
+[submodule "repositories/get-current-version"]
+	path = repositories/get-current-version
+	url = https://github.com/fabiospampinato/get-current-version.git
+[submodule "repositories/get-unused-path"]
+	path = repositories/get-unused-path
+	url = https://github.com/fabiospampinato/get-unused-path.git
+[submodule "repositories/gitman"]
+	path = repositories/gitman
+	url = https://github.com/fabiospampinato/gitman.git
+[submodule "repositories/grammex"]
+	path = repositories/grammex
+	url = https://github.com/fabiospampinato/grammex.git
+[submodule "repositories/graphviz-wasm"]
+	path = repositories/graphviz-wasm
+	url = https://github.com/fabiospampinato/graphviz-wasm.git
+[submodule "repositories/hex-encoding"]
+	path = repositories/hex-encoding
+	url = https://github.com/fabiospampinato/hex-encoding.git
+[submodule "repositories/html-segmentator"]
+	path = repositories/html-segmentator
+	url = https://github.com/fabiospampinato/html-segmentator.git
+[submodule "repositories/huffy"]
+	path = repositories/huffy
+	url = https://github.com/fabiospampinato/huffy.git
+[submodule "repositories/icon-font-buildr"]
+	path = repositories/icon-font-buildr
+	url = https://github.com/fabiospampinato/icon-font-buildr.git
+[submodule "repositories/immediato"]
+	path = repositories/immediato
+	url = https://github.com/fabiospampinato/immediato.git
+[submodule "repositories/import-fool-webpack"]
+	path = repositories/import-fool-webpack
+	url = https://github.com/fabiospampinato/import-fool-webpack.git
+[submodule "repositories/infinity-map"]
+	path = repositories/infinity-map
+	url = https://github.com/fabiospampinato/infinity-map.git
+[submodule "repositories/infinity-set"]
+	path = repositories/infinity-set
+	url = https://github.com/fabiospampinato/infinity-set.git
+[submodule "repositories/is"]
+	path = repositories/is
+	url = https://github.com/fabiospampinato/is.git
+[submodule "repositories/isostore"]
+	path = repositories/isostore
+	url = https://github.com/fabiospampinato/isostore.git
+[submodule "repositories/js-simple-mangler"]
+	path = repositories/js-simple-mangler
+	url = https://github.com/fabiospampinato/js-simple-mangler.git
+[submodule "repositories/json-archive"]
+	path = repositories/json-archive
+	url = https://github.com/fabiospampinato/json-archive.git
+[submodule "repositories/json-clone-deep"]
+	path = repositories/json-clone-deep
+	url = https://github.com/fabiospampinato/json-clone-deep.git
+[submodule "repositories/jsonc-simple-parser"]
+	path = repositories/jsonc-simple-parser
+	url = https://github.com/fabiospampinato/jsonc-simple-parser.git
+[submodule "repositories/khroma"]
+	path = repositories/khroma
+	url = https://github.com/fabiospampinato/khroma.git
+[submodule "repositories/lande"]
+	path = repositories/lande
+	url = https://github.com/fabiospampinato/lande.git
+[submodule "repositories/linkify-it-tlds"]
+	path = repositories/linkify-it-tlds
+	url = https://github.com/fabiospampinato/linkify-it-tlds.git
+[submodule "repositories/memoization-registry"]
+	path = repositories/memoization-registry
+	url = https://github.com/fabiospampinato/memoization-registry.git
+[submodule "repositories/mild-map"]
+	path = repositories/mild-map
+	url = https://github.com/fabiospampinato/mild-map.git
+[submodule "repositories/mild-set"]
+	path = repositories/mild-set
+	url = https://github.com/fabiospampinato/mild-set.git
+[submodule "repositories/mime-standard"]
+	path = repositories/mime-standard
+	url = https://github.com/fabiospampinato/mime-standard.git
+[submodule "repositories/mime2ext"]
+	path = repositories/mime2ext
+	url = https://github.com/fabiospampinato/mime2ext.git
+[submodule "repositories/minipacco"]
+	path = repositories/minipacco
+	url = https://github.com/fabiospampinato/minipacco.git
+[submodule "repositories/monex"]
+	path = repositories/monex
+	url = https://github.com/fabiospampinato/monex.git
+[submodule "repositories/move-unused-path"]
+	path = repositories/move-unused-path
+	url = https://github.com/fabiospampinato/move-unused-path.git
+[submodule "repositories/nanopath"]
+	path = repositories/nanopath
+	url = https://github.com/fabiospampinato/nanopath.git
+[submodule "repositories/node-buffer-encoding"]
+	path = repositories/node-buffer-encoding
+	url = https://github.com/fabiospampinato/node-buffer-encoding.git
+[submodule "repositories/noop-tag"]
+	path = repositories/noop-tag
+	url = https://github.com/fabiospampinato/noop-tag.git
+[submodule "repositories/once"]
+	path = repositories/once
+	url = https://github.com/fabiospampinato/once.git
+[submodule "repositories/paketo"]
+	path = repositories/paketo
+	url = https://github.com/fabiospampinato/paketo.git
+[submodule "repositories/path-prop"]
+	path = repositories/path-prop
+	url = https://github.com/fabiospampinato/path-prop.git
+[submodule "repositories/pikchr-wasm"]
+	path = repositories/pikchr-wasm
+	url = https://github.com/fabiospampinato/pikchr-wasm.git
+[submodule "repositories/plain-object-clone"]
+	path = repositories/plain-object-clone
+	url = https://github.com/fabiospampinato/plain-object-clone.git
+[submodule "repositories/plain-object-is-empty"]
+	path = repositories/plain-object-is-empty
+	url = https://github.com/fabiospampinato/plain-object-is-empty.git
+[submodule "repositories/plain-object-is-equal"]
+	path = repositories/plain-object-is-equal
+	url = https://github.com/fabiospampinato/plain-object-is-equal.git
+[submodule "repositories/plain-object-merge"]
+	path = repositories/plain-object-merge
+	url = https://github.com/fabiospampinato/plain-object-merge.git
+[submodule "repositories/promise-concurrency-limiter"]
+	path = repositories/promise-concurrency-limiter
+	url = https://github.com/fabiospampinato/promise-concurrency-limiter.git
+[submodule "repositories/promise-make-naked"]
+	path = repositories/promise-make-naked
+	url = https://github.com/fabiospampinato/promise-make-naked.git
+[submodule "repositories/promise-resolve-timeout"]
+	path = repositories/promise-resolve-timeout
+	url = https://github.com/fabiospampinato/promise-resolve-timeout.git
+[submodule "repositories/prompts-helpers"]
+	path = repositories/prompts-helpers
+	url = https://github.com/fabiospampinato/prompts-helpers.git
+[submodule "repositories/qunit-ava-spec"]
+	path = repositories/qunit-ava-spec
+	url = https://github.com/fabiospampinato/qunit-ava-spec.git
+[submodule "repositories/radix64-encoding"]
+	path = repositories/radix64-encoding
+	url = https://github.com/fabiospampinato/radix64-encoding.git
+[submodule "repositories/radix64url-encoding"]
+	path = repositories/radix64url-encoding
+	url = https://github.com/fabiospampinato/radix64url-encoding.git
+[submodule "repositories/ripstat"]
+	path = repositories/ripstat
+	url = https://github.com/fabiospampinato/ripstat.git
+[submodule "repositories/sanitize-basename"]
+	path = repositories/sanitize-basename
+	url = https://github.com/fabiospampinato/sanitize-basename.git
+[submodule "repositories/scex"]
+	path = repositories/scex
+	url = https://github.com/fabiospampinato/scex.git
+[submodule "repositories/secret"]
+	path = repositories/secret
+	url = https://github.com/fabiospampinato/secret.git
+[submodule "repositories/shortcuts"]
+	path = repositories/shortcuts
+	url = https://github.com/fabiospampinato/shortcuts.git
+[submodule "repositories/shortcuts-font"]
+	path = repositories/shortcuts-font
+	url = https://github.com/fabiospampinato/shortcuts-font.git
+[submodule "repositories/special-tlds"]
+	path = repositories/special-tlds
+	url = https://github.com/fabiospampinato/special-tlds.git
+[submodule "repositories/specialist"]
+	path = repositories/specialist
+	url = https://github.com/fabiospampinato/specialist.git
+[submodule "repositories/stdin-blocker"]
+	path = repositories/stdin-blocker
+	url = https://github.com/fabiospampinato/stdin-blocker.git
+[submodule "repositories/strid"]
+	path = repositories/strid
+	url = https://github.com/fabiospampinato/strid.git
+[submodule "repositories/string-escape-regex"]
+	path = repositories/string-escape-regex
+	url = https://github.com/fabiospampinato/string-escape-regex.git
+[submodule "repositories/string-from-charcodes"]
+	path = repositories/string-from-charcodes
+	url = https://github.com/fabiospampinato/string-from-charcodes.git
+[submodule "repositories/string-indexes"]
+	path = repositories/string-indexes
+	url = https://github.com/fabiospampinato/string-indexes.git
+[submodule "repositories/string-matches"]
+	path = repositories/string-matches
+	url = https://github.com/fabiospampinato/string-matches.git
+[submodule "repositories/string-matches-generator"]
+	path = repositories/string-matches-generator
+	url = https://github.com/fabiospampinato/string-matches-generator.git
+[submodule "repositories/string-replace-all"]
+	path = repositories/string-replace-all
+	url = https://github.com/fabiospampinato/string-replace-all.git
+[submodule "repositories/strip-keys"]
+	path = repositories/strip-keys
+	url = https://github.com/fabiospampinato/strip-keys.git
+[submodule "repositories/stubborn-fs"]
+	path = repositories/stubborn-fs
+	url = https://github.com/fabiospampinato/stubborn-fs.git
+[submodule "repositories/template"]
+	path = repositories/template
+	url = https://github.com/fabiospampinato/template.git
+[submodule "repositories/test-diff"]
+	path = repositories/test-diff
+	url = https://github.com/fabiospampinato/test-diff.git
+[submodule "repositories/tiny-bin"]
+	path = repositories/tiny-bin
+	url = https://github.com/fabiospampinato/tiny-bin.git
+[submodule "repositories/tiny-buffer"]
+	path = repositories/tiny-buffer
+	url = https://github.com/fabiospampinato/tiny-buffer.git
+[submodule "repositories/tiny-colors"]
+	path = repositories/tiny-colors
+	url = https://github.com/fabiospampinato/tiny-colors.git
+[submodule "repositories/tiny-compressor"]
+	path = repositories/tiny-compressor
+	url = https://github.com/fabiospampinato/tiny-compressor.git
+[submodule "repositories/tiny-cursor"]
+	path = repositories/tiny-cursor
+	url = https://github.com/fabiospampinato/tiny-cursor.git
+[submodule "repositories/tiny-dirname"]
+	path = repositories/tiny-dirname
+	url = https://github.com/fabiospampinato/tiny-dirname.git
+[submodule "repositories/tiny-divider"]
+	path = repositories/tiny-divider
+	url = https://github.com/fabiospampinato/tiny-divider.git
+[submodule "repositories/tiny-filename"]
+	path = repositories/tiny-filename
+	url = https://github.com/fabiospampinato/tiny-filename.git
+[submodule "repositories/tiny-json-body-parser"]
+	path = repositories/tiny-json-body-parser
+	url = https://github.com/fabiospampinato/tiny-json-body-parser.git
+[submodule "repositories/tiny-jsonc"]
+	path = repositories/tiny-jsonc
+	url = https://github.com/fabiospampinato/tiny-jsonc.git
+[submodule "repositories/tiny-levenshtein"]
+	path = repositories/tiny-levenshtein
+	url = https://github.com/fabiospampinato/tiny-levenshtein.git
+[submodule "repositories/tiny-parse-argv"]
+	path = repositories/tiny-parse-argv
+	url = https://github.com/fabiospampinato/tiny-parse-argv.git
+[submodule "repositories/tiny-readdir"]
+	path = repositories/tiny-readdir
+	url = https://github.com/fabiospampinato/tiny-readdir.git
+[submodule "repositories/tiny-spinner"]
+	path = repositories/tiny-spinner
+	url = https://github.com/fabiospampinato/tiny-spinner.git
+[submodule "repositories/tiny-sqlite3"]
+	path = repositories/tiny-sqlite3
+	url = https://github.com/fabiospampinato/tiny-sqlite3.git
+[submodule "repositories/tiny-truncate"]
+	path = repositories/tiny-truncate
+	url = https://github.com/fabiospampinato/tiny-truncate.git
+[submodule "repositories/tiny-updater"]
+	path = repositories/tiny-updater
+	url = https://github.com/fabiospampinato/tiny-updater.git
+[submodule "repositories/tiny-urlencoded-body-parser"]
+	path = repositories/tiny-urlencoded-body-parser
+	url = https://github.com/fabiospampinato/tiny-urlencoded-body-parser.git
+[submodule "repositories/tiny-webcrypto"]
+	path = repositories/tiny-webcrypto
+	url = https://github.com/fabiospampinato/tiny-webcrypto.git
+[submodule "repositories/toygrad"]
+	path = repositories/toygrad
+	url = https://github.com/fabiospampinato/toygrad.git
+[submodule "repositories/tryloop"]
+	path = repositories/tryloop
+	url = https://github.com/fabiospampinato/tryloop.git
+[submodule "repositories/tsex"]
+	path = repositories/tsex
+	url = https://github.com/fabiospampinato/tsex.git
+[submodule "repositories/ua2os"]
+	path = repositories/ua2os
+	url = https://github.com/fabiospampinato/ua2os.git
+[submodule "repositories/uint-rng"]
+	path = repositories/uint-rng
+	url = https://github.com/fabiospampinato/uint-rng.git
+[submodule "repositories/uint8-concat"]
+	path = repositories/uint8-concat
+	url = https://github.com/fabiospampinato/uint8-concat.git
+[submodule "repositories/uint8-encoding"]
+	path = repositories/uint8-encoding
+	url = https://github.com/fabiospampinato/uint8-encoding.git
+[submodule "repositories/uint8-to-hex"]
+	path = repositories/uint8-to-hex
+	url = https://github.com/fabiospampinato/uint8-to-hex.git
+[submodule "repositories/unsanitize-basename"]
+	path = repositories/unsanitize-basename
+	url = https://github.com/fabiospampinato/unsanitize-basename.git
+[submodule "repositories/unused-path"]
+	path = repositories/unused-path
+	url = https://github.com/fabiospampinato/unused-path.git
+[submodule "repositories/utf16le-encoding"]
+	path = repositories/utf16le-encoding
+	url = https://github.com/fabiospampinato/utf16le-encoding.git
+[submodule "repositories/watcher"]
+	path = repositories/watcher
+	url = https://github.com/fabiospampinato/watcher.git
+[submodule "repositories/webworker-shim"]
+	path = repositories/webworker-shim
+	url = https://github.com/fabiospampinato/webworker-shim.git
+[submodule "repositories/when-exit"]
+	path = repositories/when-exit
+	url = https://github.com/fabiospampinato/when-exit.git
+[submodule "repositories/worktank"]
+	path = repositories/worktank
+	url = https://github.com/fabiospampinato/worktank.git
+[submodule "repositories/worktank-esbuild-plugin"]
+	path = repositories/worktank-esbuild-plugin
+	url = https://github.com/fabiospampinato/worktank-esbuild-plugin.git
+[submodule "repositories/worktank-vite-plugin"]
+	path = repositories/worktank-vite-plugin
+	url = https://github.com/fabiospampinato/worktank-vite-plugin.git
+[submodule "repositories/write-unused-path"]
+	path = repositories/write-unused-path
+	url = https://github.com/fabiospampinato/write-unused-path.git
+[submodule "repositories/zeptoid"]
+	path = repositories/zeptoid
+	url = https://github.com/fabiospampinato/zeptoid.git
+[submodule "repositories/zeptomatch"]
+	path = repositories/zeptomatch
+	url = https://github.com/fabiospampinato/zeptomatch.git
+[submodule "repositories/zstandard-wasm"]
+	path = repositories/zstandard-wasm
+	url = https://github.com/fabiospampinato/zstandard-wasm.git
