@@ -487,3 +487,159 @@
 [submodule "repositories/zstandard-wasm"]
 	path = repositories/zstandard-wasm
 	url = https://github.com/fabiospampinato/zstandard-wasm.git
+[submodule "repositories/alfred-brush-workflow"]
+	path = repositories/alfred-brush-workflow
+	url = https://github.com/fabiospampinato/alfred-brush-workflow.git
+[submodule "repositories/alfred-eject-workflow"]
+	path = repositories/alfred-eject-workflow
+	url = https://github.com/fabiospampinato/alfred-eject-workflow.git
+[submodule "repositories/alfred-spaces-workflow"]
+	path = repositories/alfred-spaces-workflow
+	url = https://github.com/fabiospampinato/alfred-spaces-workflow.git
+[submodule "repositories/chrome-blank"]
+	path = repositories/chrome-blank
+	url = https://github.com/fabiospampinato/chrome-blank.git
+[submodule "repositories/chrome-multi-homepage"]
+	path = repositories/chrome-multi-homepage
+	url = https://github.com/fabiospampinato/chrome-multi-homepage.git
+[submodule "repositories/chrome-night-theme"]
+	path = repositories/chrome-night-theme
+	url = https://github.com/fabiospampinato/chrome-night-theme.git
+[submodule "repositories/chrome-window-session"]
+	path = repositories/chrome-window-session
+	url = https://github.com/fabiospampinato/chrome-window-session.git
+[submodule "repositories/vscode-browser-refresh"]
+	path = repositories/vscode-browser-refresh
+	url = https://github.com/fabiospampinato/vscode-browser-refresh.git
+[submodule "repositories/vscode-bump"]
+	path = repositories/vscode-bump
+	url = https://github.com/fabiospampinato/vscode-bump.git
+[submodule "repositories/vscode-commands"]
+	path = repositories/vscode-commands
+	url = https://github.com/fabiospampinato/vscode-commands.git
+[submodule "repositories/vscode-debug-launcher"]
+	path = repositories/vscode-debug-launcher
+	url = https://github.com/fabiospampinato/vscode-debug-launcher.git
+[submodule "repositories/vscode-diff"]
+	path = repositories/vscode-diff
+	url = https://github.com/fabiospampinato/vscode-diff.git
+[submodule "repositories/vscode-git-history"]
+	path = repositories/vscode-git-history
+	url = https://github.com/fabiospampinato/vscode-git-history.git
+[submodule "repositories/vscode-github-notifications-bell"]
+	path = repositories/vscode-github-notifications-bell
+	url = https://github.com/fabiospampinato/vscode-github-notifications-bell.git
+[submodule "repositories/vscode-gitman"]
+	path = repositories/vscode-gitman
+	url = https://github.com/fabiospampinato/vscode-gitman.git
+[submodule "repositories/vscode-highlight"]
+	path = repositories/vscode-highlight
+	url = https://github.com/fabiospampinato/vscode-highlight.git
+[submodule "repositories/vscode-markdown-todo"]
+	path = repositories/vscode-markdown-todo
+	url = https://github.com/fabiospampinato/vscode-markdown-todo.git
+[submodule "repositories/vscode-monokai-night"]
+	path = repositories/vscode-monokai-night
+	url = https://github.com/fabiospampinato/vscode-monokai-night.git
+[submodule "repositories/vscode-open-in-application"]
+	path = repositories/vscode-open-in-application
+	url = https://github.com/fabiospampinato/vscode-open-in-application.git
+[submodule "repositories/vscode-open-in-browsers"]
+	path = repositories/vscode-open-in-browsers
+	url = https://github.com/fabiospampinato/vscode-open-in-browsers.git
+[submodule "repositories/vscode-open-in-code"]
+	path = repositories/vscode-open-in-code
+	url = https://github.com/fabiospampinato/vscode-open-in-code.git
+[submodule "repositories/vscode-open-in-finder"]
+	path = repositories/vscode-open-in-finder
+	url = https://github.com/fabiospampinato/vscode-open-in-finder.git
+[submodule "repositories/vscode-open-in-github"]
+	path = repositories/vscode-open-in-github
+	url = https://github.com/fabiospampinato/vscode-open-in-github.git
+[submodule "repositories/vscode-open-in-gittower"]
+	path = repositories/vscode-open-in-gittower
+	url = https://github.com/fabiospampinato/vscode-open-in-gittower.git
+[submodule "repositories/vscode-open-in-marketplace"]
+	path = repositories/vscode-open-in-marketplace
+	url = https://github.com/fabiospampinato/vscode-open-in-marketplace.git
+[submodule "repositories/vscode-open-in-node-modules"]
+	path = repositories/vscode-open-in-node-modules
+	url = https://github.com/fabiospampinato/vscode-open-in-node-modules.git
+[submodule "repositories/vscode-open-in-npm"]
+	path = repositories/vscode-open-in-npm
+	url = https://github.com/fabiospampinato/vscode-open-in-npm.git
+[submodule "repositories/vscode-open-in-ship"]
+	path = repositories/vscode-open-in-ship
+	url = https://github.com/fabiospampinato/vscode-open-in-ship.git
+[submodule "repositories/vscode-open-in-terminal"]
+	path = repositories/vscode-open-in-terminal
+	url = https://github.com/fabiospampinato/vscode-open-in-terminal.git
+[submodule "repositories/vscode-open-in-transmit"]
+	path = repositories/vscode-open-in-transmit
+	url = https://github.com/fabiospampinato/vscode-open-in-transmit.git
+[submodule "repositories/vscode-open-multiple-files"]
+	path = repositories/vscode-open-multiple-files
+	url = https://github.com/fabiospampinato/vscode-open-multiple-files.git
+[submodule "repositories/vscode-optimize-images"]
+	path = repositories/vscode-optimize-images
+	url = https://github.com/fabiospampinato/vscode-optimize-images.git
+[submodule "repositories/vscode-projects-plus-todo-plus"]
+	path = repositories/vscode-projects-plus-todo-plus
+	url = https://github.com/fabiospampinato/vscode-projects-plus-todo-plus.git
+[submodule "repositories/vscode-projects-plus"]
+	path = repositories/vscode-projects-plus
+	url = https://github.com/fabiospampinato/vscode-projects-plus.git
+[submodule "repositories/vscode-search-open-all-results"]
+	path = repositories/vscode-search-open-all-results
+	url = https://github.com/fabiospampinato/vscode-search-open-all-results.git
+[submodule "repositories/vscode-statusbar-debugger"]
+	path = repositories/vscode-statusbar-debugger
+	url = https://github.com/fabiospampinato/vscode-statusbar-debugger.git
+[submodule "repositories/vscode-terminals"]
+	path = repositories/vscode-terminals
+	url = https://github.com/fabiospampinato/vscode-terminals.git
+[submodule "repositories/vscode-todo-plus"]
+	path = repositories/vscode-todo-plus
+	url = https://github.com/fabiospampinato/vscode-todo-plus.git
+[submodule "repositories/template-next-website"]
+	path = repositories/template-next-website
+	url = https://github.com/fabiospampinato/template-next-website.git
+[submodule "repositories/template-template"]
+	path = repositories/template-template
+	url = https://github.com/fabiospampinato/template-template.git
+[submodule "repositories/template-typescript-cli-package"]
+	path = repositories/template-typescript-cli-package
+	url = https://github.com/fabiospampinato/template-typescript-cli-package.git
+[submodule "repositories/template-typescript-package"]
+	path = repositories/template-typescript-package
+	url = https://github.com/fabiospampinato/template-typescript-package.git
+[submodule "repositories/template-vscode-extension"]
+	path = repositories/template-vscode-extension
+	url = https://github.com/fabiospampinato/template-vscode-extension.git
+[submodule "repositories/template-webpack-website"]
+	path = repositories/template-webpack-website
+	url = https://github.com/fabiospampinato/template-webpack-website.git
+[submodule "repositories/.github"]
+	path = repositories/.github
+	url = https://github.com/fabiospampinato/.github.git
+[submodule "repositories/ama"]
+	path = repositories/ama
+	url = https://github.com/fabiospampinato/ama.git
+[submodule "repositories/phoenix"]
+	path = repositories/phoenix
+	url = https://github.com/fabiospampinato/phoenix.git
+[submodule "repositories/termux-env"]
+	path = repositories/termux-env
+	url = https://github.com/fabiospampinato/termux-env.git
+[submodule "repositories/vscode-beggar"]
+	path = repositories/vscode-beggar
+	url = https://github.com/fabiospampinato/vscode-beggar.git
+[submodule "repositories/vscode-beggar-banners"]
+	path = repositories/vscode-beggar-banners
+	url = https://github.com/fabiospampinato/vscode-beggar-banners.git
+[submodule "repositories/website"]
+	path = repositories/website
+	url = https://github.com/fabiospampinato/website.git
+[submodule "repositories/yinyang-clock"]
+	path = repositories/yinyang-clock
+	url = https://github.com/fabiospampinato/yinyang-clock.git
