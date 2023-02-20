@@ -53,7 +53,7 @@ Repositories listed below are marked with some of the following badges.
 + [`call-hooks`](https://github.com/fabiospampinato/call-hooks) ![][P] ![][D] ![][ISO] : Function for adding before/after/call/arguments/result hooks to another function.
 + [`call-spy`](https://github.com/fabiospampinato/call-spy) ![][P] ![][D] ![][ISO] : Tiny wrapper for spying on function calls.
 + [`calls-batch`](https://github.com/fabiospampinato/calls-batch) ![][PP] ![][D] ![][ISO] : Execute calls in debounced batches, with pre/postflush hooks, useful for performance.
-- [`cash`](https://github.com/fabiospampinato/cash) : An absurdly small jQuery alternative for modern browsers.
++ [`cash`](https://github.com/fabiospampinato/cash) ![][P] ![][DDD] ![][BROWSER] : An absurdly small jQuery alternative for modern browsers.
 + [`classattr`](https://github.com/fabiospampinato/classattr) ![][P] ![][D] ![][ISO] : A classList-like API that's purely based on reading/writing the class attribute.
 + [`conf-merge`](https://github.com/fabiospampinato/conf-merge) ![][PP] ![][D] ![][ISO] : Deep merges objects, concatenating arrays.
 - [`configuration`](https://github.com/fabiospampinato/configuration) ![][TREE] : Performant and feature rich library for managing configurations/settings.
@@ -74,8 +74,8 @@ Repositories listed below are marked with some of the following badges.
 + [`css-simple-minifier`](https://github.com/fabiospampinato/css-simple-minifier) ![][P] ![][D] ![][ISO] : A CSS minifier that's tiny and very fast.
 + [`css-simple-parser`](https://github.com/fabiospampinato/css-simple-parser) ![][PP] ![][DD] ![][ISO] : A (S)CSS parser that's tiny, blazing fast and (too) simple.
 + [`decode-base64`](https://github.com/fabiospampinato/decode-base64) ![][PP] ![][DD] ![][ISO] : A tiny function for decoding base64 strings into ArrayBuffer objects, useful for bundling and loading WASM modules.
-- [`depsman`](https://github.com/fabiospampinato/depsman) : Extract and report metadata about dependencies of the current package.
-+ [`detect-eol`](https://github.com/fabiospampinato/detect-eol) [][P] ![][D] ![][ISO] : Quickly detect the EOL used in a string.
++ [`depsman`](https://github.com/fabiospampinato/depsman) ![][PP] ![][D] ![][NODE] ![][CLI] : Extract and report metadata about dependencies of the current package.
++ [`detect-eol`](https://github.com/fabiospampinato/detect-eol) ![][P] ![][D] ![][ISO] : Quickly detect the EOL used in a string.
 + [`dettle`](https://github.com/fabiospampinato/dettle) ![][P] ![][D] ![][ISO] : A tiny fully-featured debounce and throttle implementation.
 + [`domino-global`](https://github.com/fabiospampinato/domino-global) ![][PPP] ![][D] ![][ISO] : Make Node a browser-like environment, by using Domino.
 + [`dotenv-jsonc`](https://github.com/fabiospampinato/dotenv-jsonc) ![][PP] ![][D] ![][NODE] : Simple library for loading your .env.json file containing JSONC.
@@ -92,33 +92,34 @@ Repositories listed below are marked with some of the following badges.
 + [`get-current-package`](https://github.com/fabiospampinato/get-current-package) ![][PP] ![][D] ![][NODE] : Get the package.json of the currently executing bin.
 + [`get-current-version`](https://github.com/fabiospampinato/get-current-version) ![][PP] ![][D] ![][NODE] : Get the version of the currently executing bin.
 + [`get-unused-path`](https://github.com/fabiospampinato/get-unused-path) ![][PP] ![][D] ![][NODE] : Reliably get an unused path you can write to.
-- [`gitman`](https://github.com/fabiospampinato/gitman) : A simple yet powerful opinionated tool for managing GitHub repositories.
++ [`gitman`](https://github.com/fabiospampinato/gitman) ![][PP] ![][D] ![][NODE] ![][CLI] : A simple yet powerful opinionated tool for managing GitHub repositories.
 + [`grammex`](https://github.com/fabiospampinato/grammex) ![][P] ![][D] ![][ISO] ![][TREE] : A tiny PEG-like system for building language grammars with regexes.
 + [`graphviz-wasm`](https://github.com/fabiospampinato/graphviz-wasm) ![][PPP] ![][D] ![][ISO] : A port of Graphviz to WASM.
 + [`hex-encoding`](https://github.com/fabiospampinato/hex-encoding) ![][PP] ![][DDD] ![][ISO] : Hex encoding. An extremely fast and synchronous JS implementation.
 + [`html-segmentator`](https://github.com/fabiospampinato/html-segmentator) ![][PPP] ![][D] ![][ISO] : A small library for splitting an HTML string into its top-level sections. Based on html5parser.
 + [`huffy`](https://github.com/fabiospampinato/huffy) ![][P] ![][DDD] ![][ISO] ![][TREE] : A tiny compression library based on Huffman coding.
-- [`icon-font-buildr`](https://github.com/fabiospampinato/icon-font-buildr) : Build custom icon fonts, it supports remote and local icons sources.
++ [`icon-font-buildr`](https://github.com/fabiospampinato/icon-font-buildr) ![][PPP] ![][DDD] ![][NODE] ![][CLI] : Build custom icon fonts, it supports remote and local icons sources.
 + [`immediato`](https://github.com/fabiospampinato/immediato) ![][P] ![][D] ![][ISO] : An isomorphic setImmediate implementation that doesn't prevent the process from exiting naturally.
 + [`import-fool-webpack`](https://github.com/fabiospampinato/import-fool-webpack) ![][P] ![][D] ![][ISO] : Use dynamic import() without webpack finding out.
 + [`infinity-map`](https://github.com/fabiospampinato/infinity-map) ![][P] ![][DDD] ![][ISO] : A Map that doesn't throw if you put more than 16 million items in it. Because that's what the native `Map` object does for some reason.
 + [`infinity-set`](https://github.com/fabiospampinato/infinity-set) ![][P] ![][DDD] ![][ISO] : A Set that doesn't throw if you put more than 16 million items in it. Because that's what the native `Set` object does for some reason.
 + [`is`](https://github.com/fabiospampinato/is) ![][P] ![][D] ![][ISO] ![][TREE] : The definitive collection of is* functions for runtime type checking. Lodash-compatible, tree-shakable, with types.
 + [`isostore`](https://github.com/fabiospampinato/isostore) ![][PP] ![][D] ![][ISO] ![][TREE] : A simple isomorphic key-value store with a Map-like API for persisting data.
-- [`js-simple-mangler`](https://github.com/fabiospampinato/js-simple-mangler) : A simple JavaScript mangler that works across multiple files.
++ [`js-simple-mangler`](https://github.com/fabiospampinato/js-simple-mangler) ![][PP] ![][D] ![][NODE] ![][CLI] : A simple JavaScript mangler that works across multiple files.
 + [`json-archive`](https://github.com/fabiospampinato/json-archive) ![][PP] ![][D] ![][ISO] ![][TREE] : Simple archive format based on JSON.
 + [`json-clone-deep`](https://github.com/fabiospampinato/json-clone-deep) ![][P] ![][D] ![][ISO] : Deep cloning based on JSON.
++ [`json-sorted-stringify`](https://github.com/fabiospampinato/json-sorted-stringify) ![][P] ![][D] ![][ISO] : Alternative JSON.stringify function with sorted keys, so the output is stable.
 - [`jsonc-simple-parser`](https://github.com/fabiospampinato/jsonc-simple-parser) : A simple JSON parser that supports comments and optional trailing commas.
 + [`khroma`](https://github.com/fabiospampinato/khroma) ![][P] ![][D] ![][ISO] ![][TREE] : A collection of functions for manipulating CSS colors, inspired by SASS.
-- [`lande`](https://github.com/fabiospampinato/lande) : A tiny neural network for natural language detection.
++ [`lande`](https://github.com/fabiospampinato/lande) ![][PP] ![][DDD] ![][ISO] : A tiny neural network for natural language detection.
 + [`linkify-it-tlds`](https://github.com/fabiospampinato/linkify-it-tlds) ![][P] ![][D] ![][ISO] : Comprehensive list of TLDs, sourced from ICANN, for linkify-it.
 + [`memoization-registry`](https://github.com/fabiospampinato/memoization-registry) ![][PP] ![][D] ![][ISO] : A generalized multi-key memoization solution that does not leak memory.
 + [`mild-map`](https://github.com/fabiospampinato/mild-map) ![][PP] ![][D] ![][ISO] : A WeakMap that supports any value, it holds strong references to primitives, and weak references to objects.
 + [`mild-set`](https://github.com/fabiospampinato/mild-set) ![][PP] ![][D] ![][ISO] : A WeakSet that supports any value, it holds strong references to primitives, and weak references to objects.
 + [`mime-standard`](https://github.com/fabiospampinato/mime-standard) ![][P] ![][D] ![][ISO] : An object mapping ~300 standard mime types to ~400 extensions.
 + [`mime2ext`](https://github.com/fabiospampinato/mime2ext) ![][PP] ![][D] ![][ISO] : Convert a mime type to a file extension. It works only with popular mime types and its super lightweight.
-- [`minipacco`](https://github.com/fabiospampinato/minipacco) : A little bundler for resolving dependencies graphs into a single concatenated file.
-- [`monex`](https://github.com/fabiospampinato/monex) : Execute a script and restart it whenever it crashes or a watched file changes.
++ [`minipacco`](https://github.com/fabiospampinato/minipacco) ![][PP] ![][D] ![][NODE] ![][CLI] : A little bundler for resolving dependencies graphs into a single concatenated file.
++ [`monex`](https://github.com/fabiospampinato/monex) ![][PPP] ![][DDD] ![][NODE] ![][CLI] : Execute a script and restart it whenever it crashes or a watched file changes.
 + [`move-unused-path`](https://github.com/fabiospampinato/move-unused-path) ![][PP] ![][D] ![][NODE] : Reliably move to an unused path.
 + [`nanopath`](https://github.com/fabiospampinato/nanopath) ![][P] ![][DD] ![][ISO] ![][TREE] : A tiny isomorphic port of Node@17.8.0 path module.
 + [`node-buffer-encoding`](https://github.com/fabiospampinato/node-buffer-encoding) ![][P] ![][D] ![][NODE] : A little wrapper around Node's Buffer that provides encoding/decoding for all supported encodings.
@@ -126,6 +127,7 @@ Repositories listed below are marked with some of the following badges.
 + [`once`](https://github.com/fabiospampinato/once) ![][P] ![][D] ![][ISO] : Wraps a function so that it's only ever executed once.
 + [`paketo`](https://github.com/fabiospampinato/paketo) ![][PP] ![][D] ![][ISO] : A tiny library for importing your package.json, with proper types!
 + [`path-prop`](https://github.com/fabiospampinato/path-prop) ![][PP] ![][D] ![][ISO] ![][TREE] : Fast library for manipulating plain objects using paths.
++ [`picorpc`](https://github.com/fabiospampinato/picorpc) ![][P] ![][D] ![][ISO] : A tiny RPC library and spec, inspired by JSON-RPC 2.0 and tRPC.
 + [`pikchr-wasm`](https://github.com/fabiospampinato/pikchr-wasm) ![][PPP] ![][D] ![][ISO] ![][TREE] : A fast and small port of Pikchr to WASM.
 + [`plain-object-clone`](https://github.com/fabiospampinato/plain-object-clone) ![][P] ![][D] ![][ISO] : Extremely fast function optimized for deep cloning json-serializable plain objects.
 + [`plain-object-is-empty`](https://github.com/fabiospampinato/plain-object-is-empty) ![][P] ![][D] ![][ISO] : Extremely fast function that checks if a plain object is empty.
@@ -140,10 +142,10 @@ Repositories listed below are marked with some of the following badges.
 + [`radix64url-encoding`](https://github.com/fabiospampinato/radix64url-encoding) ![][PP] ![][DDD] ![][ISO] : Radix64url encoding, a.k.a. Base64url encoding. An extremely fast and synchronous JS implementation.
 + [`ripstat`](https://github.com/fabiospampinato/ripstat) ![][PP] ![][D] ![][NODE] : Fetch the stats for a file as if a saber-tooth tiger is chasing you!
 + [`sanitize-basename`](https://github.com/fabiospampinato/sanitize-basename) ![][P] ![][D] ![][ISO] : Sanitize a file name for cross-platform validity.
-- [`scex`](https://github.com/fabiospampinato/scex) : A simple runner for npm scripts that can execute multiple scripts, in serial or in parallel.
-- [`secret`](https://github.com/fabiospampinato/secret) : The simplest command to encrypt/decrypt a file, useful for committing encrypted ".env" files to version control, among other things.
++ [`scex`](https://github.com/fabiospampinato/scex) ![][PP] ![][D] ![][NODE] ![][CLI] : A simple runner for npm scripts that can execute multiple scripts, in serial or in parallel.
++ [`secret`](https://github.com/fabiospampinato/secret) ![][PP] ![][D] ![][NODE] ![][CLI] : The simplest command to encrypt/decrypt a file, useful for committing encrypted ".env" files to version control, among other things.
 - [`shortcuts`](https://github.com/fabiospampinato/shortcuts) : Super performant and feature rich shortcuts management library.
-- [`shortcuts-font`](https://github.com/fabiospampinato/shortcuts-font) : A minimal font designed to beutifully render characters used for representing shortcuts.
++ [`shortcuts-font`](https://github.com/fabiospampinato/shortcuts-font) ![][P] ![][DDD] ![][NODE] : A minimal font designed to beutifully render characters used for representing shortcuts.
 + [`special-tlds`](https://github.com/fabiospampinato/special-tlds) ![][P] ![][D] ![][ISO] : List of special-use ICANN TLDs.
 + [`specialist`](https://github.com/fabiospampinato/specialist) ![][PP] ![][D] ![][NODE] ![][TREE] : A library that helps you write tiny, fast, bundled and beautiful CLI apps that can automatically check for updates.
 + [`stdin-blocker`](https://github.com/fabiospampinato/stdin-blocker) ![][P] ![][D] ![][NODE] : A tiny library for blocking stdin keypresses, except for ctrl+c. Useful while displaying animations.
@@ -172,12 +174,12 @@ Repositories listed below are marked with some of the following badges.
 + [`tiny-parse-argv`](https://github.com/fabiospampinato/tiny-parse-argv) ![][P] ![][D] ![][ISO] : A tiny function for parsing process.argv, a modern rewrite of a sensible subset of minimist.
 + [`tiny-readdir`](https://github.com/fabiospampinato/tiny-readdir) ![][P] ![][D] ![][NODE] : A simple promisified recursive readdir function.
 + [`tiny-spinner`](https://github.com/fabiospampinato/tiny-spinner) ![][PP] ![][D] ![][NODE] : A simple, yet beautiful, CLI spinner.
-- [`tiny-sqlite3`](https://github.com/fabiospampinato/tiny-sqlite3) : A tiny cross-platform client for SQLite3, with precompiled binaries as the only third-party dependencies.
++ [`tiny-sqlite3`](https://github.com/fabiospampinato/tiny-sqlite3) ![][PPP] ![][DDD] ![][NODE] : A tiny cross-platform client for SQLite3, with precompiled binaries as the only third-party dependencies.
 + [`tiny-truncate`](https://github.com/fabiospampinato/tiny-truncate) ![][PP] ![][DD] ![][ISO] : A tiny function for truncating a string which may containg ANSI escapes, with automatic terminal width detection.
 + [`tiny-updater`](https://github.com/fabiospampinato/tiny-updater) ![][PP] ![][D] ![][ISO] : The smallest update notifier for NPM packages, useful for CLI apps.
 + [`tiny-urlencoded-body-parser`](https://github.com/fabiospampinato/tiny-urlencoded-body-parser) ![][PP] ![][D] ![][ISO] : A tiny middleware that parses URL-encoded request bodies.
 + [`tiny-webcrypto`](https://github.com/fabiospampinato/tiny-webcrypto) ![][P] ![][D] ![][ISO] : A tiny isomorphic WebCrypto object, it just gives you the native one the current platform provides.
-- [`toygrad`](https://github.com/fabiospampinato/toygrad) ![][TREE] : A toy library for building simple neural networks which can be serialized to compact JSON.
++ [`toygrad`](https://github.com/fabiospampinato/toygrad) ![][P] ![][DDD] ![][ISO] ![][TREE] : A toy library for building simple neural networks which can be serialized to compact JSON.
 + [`tryloop`](https://github.com/fabiospampinato/tryloop) ![][P] ![][D] ![][ISO] : Simple library for retrying operations, it supports multiple backoff strategies.
 + [`tsex`](https://github.com/fabiospampinato/tsex) ![][PP] ![][D] ![][NODE] ![][CLI] : A little CLI for making TypeScript packages, cleanly and effortlessly.
 + [`ua2os`](https://github.com/fabiospampinato/ua2os) ![][P] ![][D] ![][ISO] : Detect the OS from a User-Agent string.

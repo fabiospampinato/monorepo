@@ -643,3 +643,9 @@
 [submodule "repositories/yinyang-clock"]
 	path = repositories/yinyang-clock
 	url = https://github.com/fabiospampinato/yinyang-clock.git
+[submodule "repositories/json-sorted-stringify"]
+	path = repositories/json-sorted-stringify
+	url = https://github.com/fabiospampinato/json-sorted-stringify.git
+[submodule "repositories/picorpc"]
+	path = repositories/picorpc
+	url = https://github.com/fabiospampinato/picorpc.git
