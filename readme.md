@@ -193,9 +193,9 @@ Repositories listed below are marked with some of the following badges.
 + [`watcher`](https://github.com/fabiospampinato/watcher) ![][PP] ![][D] ![][NODE] : The file system watcher that strives for perfection, with no native dependencies and optional rename detection support.
 + [`webworker-shim`](https://github.com/fabiospampinato/webworker-shim) ![][P] ![][D] ![][ISO] : A tiny shim for WebWorker (data URI only) that works in Node.
 + [`when-exit`](https://github.com/fabiospampinato/when-exit) ![][P] ![][D] ![][ISO] : Execute a function right before the process, or the browser's tab, is about to exit.
-- [`worktank`](https://github.com/fabiospampinato/worktank) : A simple isomorphic library for executing functions inside WebWorkers or Node Threads pools.
-- [`worktank-esbuild-plugin`](https://github.com/fabiospampinato/worktank-esbuild-plugin) : Esbuild plugin for WorkTank which enables you to execute whole files in a worker pool, transparently.
-- [`worktank-vite-plugin`](https://github.com/fabiospampinato/worktank-vite-plugin) : Vite plugin for WorkTank which enables you to execute whole files in a worker pool, transparently.
++ [`worktank`](https://github.com/fabiospampinato/worktank) ![][PP] ![][D] ![][ISO] : A simple isomorphic library for executing functions inside WebWorkers or Node Threads pools.
++ [`worktank-esbuild-plugin`](https://github.com/fabiospampinato/worktank-esbuild-plugin) ![][PP] ![][D] ![][NODE] : Esbuild plugin for WorkTank which enables you to execute whole files in a worker pool, transparently.
++ [`worktank-vite-plugin`](https://github.com/fabiospampinato/worktank-vite-plugin) ![][PP] ![][DDD] ![][NODE] : Vite plugin for WorkTank which enables you to execute whole files in a worker pool, transparently.
 + [`write-unused-path`](https://github.com/fabiospampinato/write-unused-path) ![][PP] ![][D] ![][NODE] : Reliably write to an unused path.
 + [`zeptoid`](https://github.com/fabiospampinato/zeptoid) ![][PP] ![][D] ![][ISO] ![][TREE] : A tiny isomorphic fast function for generating a cryptographically random hex string.
 + [`zeptomatch`](https://github.com/fabiospampinato/zeptomatch) ![][PP] ![][D] ![][ISO] : An absurdly small glob matcher that packs a punch.
