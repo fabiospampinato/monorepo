@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./resources/banner/banner.png" alt="FabioStack" width="640px">
+  <img src="./resources/banner/banner_rounded.png" alt="FabioStack" width="640px">
 </p>
 
 # Monorepo
