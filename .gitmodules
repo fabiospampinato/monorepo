@@ -649,3 +649,15 @@
 [submodule "repositories/picorpc"]
 	path = repositories/picorpc
 	url = https://github.com/fabiospampinato/picorpc.git
+[submodule "repositories/dumper"]
+	path = repositories/dumper
+	url = https://github.com/notable/dumper.git
+[submodule "repositories/html2markdown"]
+	path = repositories/html2markdown
+	url = https://github.com/notable/html2markdown.git
+[submodule "repositories/oby"]
+	path = repositories/oby
+	url = https://github.com/vobyjs/oby.git
+[submodule "repositories/voby"]
+	path = repositories/voby
+	url = https://github.com/vobyjs/voby.git

@@ -84,6 +84,7 @@ Repositories listed below are marked with some of the following badges.
 + [`dettle`](https://github.com/fabiospampinato/dettle) ![][P] ![][D] ![][ISO] : A tiny fully-featured debounce and throttle implementation.
 + [`domino-global`](https://github.com/fabiospampinato/domino-global) ![][PPP] ![][D] ![][ISO] : Make Node a browser-like environment, by using Domino.
 + [`dotenv-jsonc`](https://github.com/fabiospampinato/dotenv-jsonc) ![][PP] ![][D] ![][NODE] : Simple library for loading your .env.json file containing JSONC.
+- [`dumper`](https://github.com/notable/dumper) : Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
 + [`duper`](https://github.com/fabiospampinato/duper) ![][P] ![][DD] ![][ISO] ![][TREE] : Standalone functions for creating shallow clones or deep clones.
 + [`entities-decode`](https://github.com/fabiospampinato/entities-decode) ![][P] ![][D] ![][ISO] : Fast function for decoding HTML entities, based on the "entities" package.
 + [`entities-dom-decode`](https://github.com/fabiospampinato/entities-dom-decode) ![][P] ![][DDD] ![][ISO] : A ~200 bytes function with no dependencies for decoding HTML entities, it only works in the browser.
@@ -101,6 +102,7 @@ Repositories listed below are marked with some of the following badges.
 + [`grammex`](https://github.com/fabiospampinato/grammex) ![][P] ![][D] ![][ISO] ![][TREE] : A tiny PEG-like system for building language grammars with regexes.
 + [`graphviz-wasm`](https://github.com/fabiospampinato/graphviz-wasm) ![][PPP] ![][D] ![][ISO] : A port of Graphviz to WASM.
 + [`hex-encoding`](https://github.com/fabiospampinato/hex-encoding) ![][PP] ![][DDD] ![][ISO] : Hex encoding. An extremely fast and synchronous JS implementation.
+- [`html2markdown`](https://github.com/notable/html2markdown) : A small function for converting HTML to Markdown.
 + [`html-segmentator`](https://github.com/fabiospampinato/html-segmentator) ![][PPP] ![][D] ![][ISO] : A small library for splitting an HTML string into its top-level sections. Based on html5parser.
 + [`huffy`](https://github.com/fabiospampinato/huffy) ![][P] ![][DDD] ![][ISO] ![][TREE] : A tiny compression library based on Huffman coding.
 + [`icon-font-buildr`](https://github.com/fabiospampinato/icon-font-buildr) ![][PPP] ![][DDD] ![][NODE] ![][CLI] : Build custom icon fonts, it supports remote and local icons sources.
@@ -129,6 +131,7 @@ Repositories listed below are marked with some of the following badges.
 + [`nanopath`](https://github.com/fabiospampinato/nanopath) ![][P] ![][DD] ![][ISO] ![][TREE] : A tiny isomorphic port of Node@17.8.0 path module.
 + [`node-buffer-encoding`](https://github.com/fabiospampinato/node-buffer-encoding) ![][P] ![][D] ![][NODE] : A little wrapper around Node's Buffer that provides encoding/decoding for all supported encodings.
 + [`noop-tag`](https://github.com/fabiospampinato/noop-tag) ![][P] ![][D] ![][ISO] : A noop template literal tag, useful for syntax highlighting hints.
+- [`oby`](https://github.com/vobyjs/oby) : A tiny Observable implementation, the brilliant primitive you need to build a powerful reactive system.
 + [`once`](https://github.com/fabiospampinato/once) ![][P] ![][D] ![][ISO] : Wraps a function so that it's only ever executed once.
 + [`paketo`](https://github.com/fabiospampinato/paketo) ![][PP] ![][D] ![][ISO] : A tiny library for importing your package.json, with proper types!
 + [`path-prop`](https://github.com/fabiospampinato/path-prop) ![][PP] ![][D] ![][ISO] ![][TREE] : Fast library for manipulating plain objects using paths.
@@ -195,6 +198,7 @@ Repositories listed below are marked with some of the following badges.
 + [`unsanitize-basename`](https://github.com/fabiospampinato/unsanitize-basename) ![][P] ![][D] ![][ISO] : Unsanitize a file name, the inverse of the "sanitize-basename" library.
 + [`unused-path`](https://github.com/fabiospampinato/unused-path) ![][PP] ![][D] ![][NODE] : Reliably get an unused path and copy/move/write to it.
 + [`utf16le-encoding`](https://github.com/fabiospampinato/utf16le-encoding) ![][PP] ![][DDD] ![][ISO] : UTF16-le encoding, a.k.a. UCS2 encoding, an encoding you probably should never use.
+- [`voby`](https://github.com/vobyjs/voby) : A high-performance framework with fine-grained observable-based reactivity for building rich applications.
 + [`watcher`](https://github.com/fabiospampinato/watcher) ![][PP] ![][D] ![][NODE] : The file system watcher that strives for perfection, with no native dependencies and optional rename detection support.
 + [`webworker-shim`](https://github.com/fabiospampinato/webworker-shim) ![][P] ![][D] ![][ISO] : A tiny shim for WebWorker (data URI only) that works in Node.
 + [`when-exit`](https://github.com/fabiospampinato/when-exit) ![][P] ![][D] ![][ISO] : Execute a function right before the process, or the browser's tab, is about to exit.
