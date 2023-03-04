@@ -137,6 +137,7 @@ Repositories listed below are marked with some of the following badges.
 + [`path-prop`](https://github.com/fabiospampinato/path-prop) ![][PP] ![][D] ![][ISO] ![][TREE] : Fast library for manipulating plain objects using paths.
 + [`picorpc`](https://github.com/fabiospampinato/picorpc) ![][P] ![][D] ![][ISO] : A tiny RPC library and spec, inspired by JSON-RPC 2.0 and tRPC.
 + [`pikchr-wasm`](https://github.com/fabiospampinato/pikchr-wasm) ![][PPP] ![][D] ![][ISO] ![][TREE] : A fast and small port of Pikchr to WASM.
++ [`pioppo`](https://github.com/fabiospampinato/pioppo) ![][PP] ![][D] ![][ISO] : A tiny isomorphic batched logger. ~3x faster than regular logging in Node.
 + [`plain-object-clone`](https://github.com/fabiospampinato/plain-object-clone) ![][P] ![][D] ![][ISO] : Extremely fast function optimized for deep cloning json-serializable plain objects.
 + [`plain-object-is-empty`](https://github.com/fabiospampinato/plain-object-is-empty) ![][P] ![][D] ![][ISO] : Extremely fast function that checks if a plain object is empty.
 + [`plain-object-is-equal`](https://github.com/fabiospampinato/plain-object-is-equal) ![][P] ![][D] ![][ISO] : Extremely fast function optimized for deep equality checks of json-serializable plain objects.
