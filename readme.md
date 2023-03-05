@@ -131,6 +131,7 @@ Repositories listed below are marked with some of the following badges.
 + [`nanopath`](https://github.com/fabiospampinato/nanopath) ![][P] ![][DD] ![][ISO] ![][TREE] : A tiny isomorphic port of Node@17.8.0 path module.
 + [`node-buffer-encoding`](https://github.com/fabiospampinato/node-buffer-encoding) ![][P] ![][D] ![][NODE] : A little wrapper around Node's Buffer that provides encoding/decoding for all supported encodings.
 + [`noop-tag`](https://github.com/fabiospampinato/noop-tag) ![][P] ![][D] ![][ISO] : A noop template literal tag, useful for syntax highlighting hints.
++ [`noren`](https://github.com/fabiospampinato/noren) ![][PP] ![][D] ![][NODE] : A minimal HTTP server with good developer-experience and performance, for Node and beyond.
 - [`oby`](https://github.com/vobyjs/oby) : A tiny Observable implementation, the brilliant primitive you need to build a powerful reactive system.
 + [`once`](https://github.com/fabiospampinato/once) ![][P] ![][D] ![][ISO] : Wraps a function so that it's only ever executed once.
 + [`paketo`](https://github.com/fabiospampinato/paketo) ![][PP] ![][D] ![][ISO] : A tiny library for importing your package.json, with proper types!
@@ -177,7 +178,6 @@ Repositories listed below are marked with some of the following badges.
 + [`tiny-dirname`](https://github.com/fabiospampinato/tiny-dirname) ![][P] ![][D] ![][ISO] : A tiny isomorphic ESM alternative to Node's "__dirname" global.
 + [`tiny-divider`](https://github.com/fabiospampinato/tiny-divider) ![][PP] ![][D] ![][ISO] : A tiny simple terminal divider that spans the entire width of the terminal.
 + [`tiny-filename`](https://github.com/fabiospampinato/tiny-filename) ![][P] ![][D] ![][ISO] : A tiny isomorphic ESM alternative to Node's "__filename" global.
-+ [`tiny-json-body-parser`](https://github.com/fabiospampinato/tiny-json-body-parser) ![][PP] ![][D] ![][ISO] : A tiny middleware that parses JSON request bodies.
 + [`tiny-jsonc`](https://github.com/fabiospampinato/tiny-jsonc) ![][P] ![][DD] ![][ISO] : An absurdly small JSONC parser.
 + [`tiny-levenshtein`](https://github.com/fabiospampinato/tiny-levenshtein) ![][P] ![][D] ![][ISO] : A tiny implementation of the Levenshtein edit distance algorithm.
 + [`tiny-parse-argv`](https://github.com/fabiospampinato/tiny-parse-argv) ![][P] ![][D] ![][ISO] : A tiny function for parsing process.argv, a modern rewrite of a sensible subset of minimist.
@@ -186,7 +186,6 @@ Repositories listed below are marked with some of the following badges.
 + [`tiny-sqlite3`](https://github.com/fabiospampinato/tiny-sqlite3) ![][PPP] ![][DDD] ![][NODE] : A tiny cross-platform client for SQLite3, with precompiled binaries as the only third-party dependencies.
 + [`tiny-truncate`](https://github.com/fabiospampinato/tiny-truncate) ![][PP] ![][DD] ![][ISO] : A tiny function for truncating a string which may containg ANSI escapes, with automatic terminal width detection.
 + [`tiny-updater`](https://github.com/fabiospampinato/tiny-updater) ![][PP] ![][D] ![][ISO] : The smallest update notifier for NPM packages, useful for CLI apps.
-+ [`tiny-urlencoded-body-parser`](https://github.com/fabiospampinato/tiny-urlencoded-body-parser) ![][PP] ![][D] ![][ISO] : A tiny middleware that parses URL-encoded request bodies.
 + [`tiny-webcrypto`](https://github.com/fabiospampinato/tiny-webcrypto) ![][P] ![][D] ![][ISO] : A tiny isomorphic WebCrypto object, it just gives you the native one the current platform provides.
 + [`toygrad`](https://github.com/fabiospampinato/toygrad) ![][P] ![][DDD] ![][ISO] ![][TREE] : A toy library for building simple neural networks which can be serialized to compact JSON.
 + [`tryloop`](https://github.com/fabiospampinato/tryloop) ![][P] ![][D] ![][ISO] : Simple library for retrying operations, it supports multiple backoff strategies.

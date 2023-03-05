@@ -664,3 +664,6 @@
 [submodule "repositories/pioppo"]
 	path = repositories/pioppo
 	url = https://github.com/fabiospampinato/pioppo.git
+[submodule "repositories/noren"]
+	path = repositories/noren
+	url = https://github.com/fabiospampinato/noren.git
