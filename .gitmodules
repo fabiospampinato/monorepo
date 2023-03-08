@@ -667,3 +667,6 @@
 [submodule "repositories/noren"]
 	path = repositories/noren
 	url = https://github.com/fabiospampinato/noren.git
+[submodule "repositories/happy-dom-global"]
+	path = repositories/happy-dom-global
+	url = https://github.com/fabiospampinato/happy-dom-global.git
