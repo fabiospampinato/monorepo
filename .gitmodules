@@ -673,3 +673,6 @@
 [submodule "repositories/voby-simple-router"]
 	path = repositories/voby-simple-router
 	url = https://github.com/fabiospampinato/voby-simple-router.git
+[submodule "repositories/linkedom-global"]
+	path = repositories/linkedom-global
+	url = https://github.com/fabiospampinato/linkedom-global.git
