@@ -670,3 +670,6 @@
 [submodule "repositories/happy-dom-global"]
 	path = repositories/happy-dom-global
 	url = https://github.com/fabiospampinato/happy-dom-global.git
+[submodule "repositories/voby-simple-router"]
+	path = repositories/voby-simple-router
+	url = https://github.com/fabiospampinato/voby-simple-router.git
