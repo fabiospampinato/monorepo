@@ -182,6 +182,7 @@ Repositories listed below are marked with some of the following badges.
 + [`tiny-filename`](https://github.com/fabiospampinato/tiny-filename) ![][P] ![][D] ![][ISO] : A tiny isomorphic ESM alternative to Node's "__filename" global.
 + [`tiny-jsonc`](https://github.com/fabiospampinato/tiny-jsonc) ![][P] ![][DD] ![][ISO] : An absurdly small JSONC parser.
 + [`tiny-levenshtein`](https://github.com/fabiospampinato/tiny-levenshtein) ![][P] ![][D] ![][ISO] : A tiny implementation of the Levenshtein edit distance algorithm.
++ [`tiny-livereload`](https://github.com/fabiospampinato/tiny-livereload) ![][PP] ![][D] ![][ISO] : A tiny and basic livereload solution.
 + [`tiny-parse-argv`](https://github.com/fabiospampinato/tiny-parse-argv) ![][P] ![][D] ![][ISO] : A tiny function for parsing process.argv, a modern rewrite of a sensible subset of minimist.
 + [`tiny-readdir`](https://github.com/fabiospampinato/tiny-readdir) ![][P] ![][D] ![][NODE] : A simple promisified recursive readdir function.
 + [`tiny-spinner`](https://github.com/fabiospampinato/tiny-spinner) ![][PP] ![][D] ![][NODE] : A simple, yet beautiful, CLI spinner.

@@ -676,3 +676,6 @@
 [submodule "repositories/linkedom-global"]
 	path = repositories/linkedom-global
 	url = https://github.com/fabiospampinato/linkedom-global.git
+[submodule "repositories/tiny-livereload"]
+	path = repositories/tiny-livereload
+	url = https://github.com/fabiospampinato/tiny-livereload.git
