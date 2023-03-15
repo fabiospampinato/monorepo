@@ -679,3 +679,6 @@
 [submodule "repositories/tiny-livereload"]
 	path = repositories/tiny-livereload
 	url = https://github.com/fabiospampinato/tiny-livereload.git
+[submodule "repositories/github-logger"]
+	path = repositories/github-logger
+	url = https://github.com/fabiospampinato/github-logger.git
