@@ -162,7 +162,7 @@ Repositories listed below are marked with some of the following badges.
 + [`special-tlds`](https://github.com/fabiospampinato/special-tlds) ![][P] ![][D] ![][ISO] : List of special-use ICANN TLDs.
 + [`specialist`](https://github.com/fabiospampinato/specialist) ![][PP] ![][D] ![][NODE] ![][TREE] : A library that helps you write tiny, fast, bundled and beautiful CLI apps that can automatically check for updates.
 + [`stdin-blocker`](https://github.com/fabiospampinato/stdin-blocker) ![][P] ![][D] ![][NODE] : A tiny library for blocking stdin keypresses, except for ctrl+c. Useful while displaying animations.
-+ [`strid`](https://github.com/fabiospampinato/strid) ![][P] ![][D] ![][ISO] : Get a unique string identifier for any input value.
++ [`strid`](https://github.com/fabiospampinato/strid) ![][PP] ![][D] ![][ISO] : Get a unique string identifier for any input value.
 + [`string-escape-regex`](https://github.com/fabiospampinato/string-escape-regex) ![][P] ![][D] ![][ISO] : A tiny function for escaping a string to be used as the source in a regex.
 + [`string-from-charcodes`](https://github.com/fabiospampinato/string-from-charcodes) ![][P] ![][D] ![][ISO] : An alternative to String.fromCharCode that doesn't throw with many arguments, while still remaining fast.
 + [`string-indexes`](https://github.com/fabiospampinato/string-indexes) ![][P] ![][D] ![][ISO] : Retrieves all indexes, in non-overlapping ranges, of a substring in a string.
