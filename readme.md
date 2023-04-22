@@ -284,8 +284,8 @@ Repositories listed below are marked with some of the following badges.
 - [`monorepo`](https://github.com/fabiospampinato/monorepo): The homepage for all my repositories.
 - [`phoenix`](https://github.com/fabiospampinato/phoenix): My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
 - [`termux-env`](https://github.com/fabiospampinato/termux-env): My super-quick-to-setup Termux environment.
-- [`vscode-beggar`](https://github/com/fabiospampinato/vscode-beggar) : A little utility for asking for money in a VSCode extension.
-- [`vscode-beggar-banners`](https://github/com/fabiospampinato/vscode-beggar-banners) : The little banners that I'm using in combination with vscode-beggar.
+- [`vscode-beggar`](https://github.com/fabiospampinato/vscode-beggar) : A little utility for asking for money in a VSCode extension.
+- [`vscode-beggar-banners`](https://github.com/fabiospampinato/vscode-beggar-banners) : The little banners that I'm using in combination with vscode-beggar.
 - [`website`](https://github.com/fabiospampinato/website): My personal website.
 - [`yinyang-clock`](https://github.com/fabiospampinato/yinyang-clock): A clock that keeps track of time spent yinning vs time spent yanging.
 
