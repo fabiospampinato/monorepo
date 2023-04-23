@@ -682,3 +682,6 @@
 [submodule "repositories/github-logger"]
 	path = repositories/github-logger
 	url = https://github.com/fabiospampinato/github-logger.git
+[submodule "repositories/performance-interval"]
+	path = repositories/performance-interval
+	url = https://github.com/fabiospampinato/performance-interval.git
