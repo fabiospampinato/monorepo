@@ -82,6 +82,7 @@ Repositories listed below are marked with some of the following badges.
 + [`depsman`](https://github.com/fabiospampinato/depsman) ![][PP] ![][D] ![][NODE] ![][CLI] : Extract and report metadata about dependencies of the current package.
 + [`detect-eol`](https://github.com/fabiospampinato/detect-eol) ![][P] ![][D] ![][ISO] : Quickly detect the EOL used in a string.
 + [`dettle`](https://github.com/fabiospampinato/dettle) ![][P] ![][D] ![][ISO] : A tiny fully-featured debounce and throttle implementation.
++ [`dettle-batch`](https://github.com/fabiospampinato/dettle-batch) ![][PP] ![][D] ![][ISO] : A batched debouncing and throttling solution, for performance.
 + [`domino-global`](https://github.com/fabiospampinato/domino-global) ![][PPP] ![][D] ![][ISO] : Make Node a browser-like environment, by using Domino.
 + [`dotenv-jsonc`](https://github.com/fabiospampinato/dotenv-jsonc) ![][PP] ![][D] ![][NODE] : Simple library for loading your .env.json file containing JSONC.
 - [`dumper`](https://github.com/notable/dumper) : Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.

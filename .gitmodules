@@ -685,3 +685,6 @@
 [submodule "repositories/performance-interval"]
 	path = repositories/performance-interval
 	url = https://github.com/fabiospampinato/performance-interval.git
+[submodule "repositories/dettle-batch"]
+	path = repositories/dettle-batch
+	url = https://github.com/fabiospampinato/dettle-batch.git
