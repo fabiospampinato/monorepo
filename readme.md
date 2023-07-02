@@ -148,6 +148,7 @@ Repositories listed below are marked with some of the following badges.
 + [`plain-object-is-empty`](https://github.com/fabiospampinato/plain-object-is-empty) ![][P] ![][D] ![][ISO] : Extremely fast function that checks if a plain object is empty.
 + [`plain-object-is-equal`](https://github.com/fabiospampinato/plain-object-is-equal) ![][P] ![][D] ![][ISO] : Extremely fast function optimized for deep equality checks of json-serializable plain objects.
 + [`plain-object-merge`](https://github.com/fabiospampinato/plain-object-merge) ![][PP] ![][D] ![][ISO] : Extremely fast function optimized for deep merging json-serializable plain objects.
++ [`pollex`](https://github.com/fabiospampinato/pollex) ![][PP] ![][D] ![][NODE] : A tiny polling-based filesystem watcher that tries to be efficient.
 + [`promise-concurrency-limiter`](https://github.com/fabiospampinato/promise-concurrency-limiter) ![][P] ![][D] ![][ISO] : Tiny scheduler for functions returning promises that can limit their concurrency.
 + [`promise-make-naked`](https://github.com/fabiospampinato/promise-make-naked) ![][P] ![][D] ![][ISO] : A simple function that makes a promise that can be resolved or rejected from the outside.
 + [`promise-resolve-timeout`](https://github.com/fabiospampinato/promise-resolve-timeout) ![][P] ![][D] ![][ISO] : Create a Promise which will resolve with the provided value after a timeout.

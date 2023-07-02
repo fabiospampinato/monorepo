@@ -691,3 +691,6 @@
 [submodule "repositories/shosho"]
 	path = repositories/shosho
 	url = https://github.com/fabiospampinato/shosho.git
+[submodule "repositories/pollex"]
+	path = repositories/pollex
+	url = https://github.com/fabiospampinato/pollex.git
