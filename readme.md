@@ -94,6 +94,7 @@ Repositories listed below are marked with some of the following badges.
 + [`ext2mime`](https://github.com/fabiospampinato/ext2mime) ![][PP] ![][D] ![][ISO] : Convert a file extension to a mime type. It works only with popular file extensions and it's super lightweight.
 + [`fava`](https://github.com/fabiospampinato/fava) ![][PP] ![][D] ![][ISO] ![][CLI] : A wannabe tiny largely-drop-in replacement for ava that works in the browser too.
 + [`fetch-shim`](https://github.com/fabiospampinato/fetch-shim) ![][PPP] ![][D] ![][ISO] : A tiny isomoprhic Fetch function, it just gives you the native one if available, or the one from undici.
++ [`file-pollex`](https://github.com/fabiospampinato/file-pollex) ![][P] ![][D] ![][NODE] : A tiny hybrid filesystem watcher for a single file.
 + [`find-up-json`](https://github.com/fabiospampinato/find-up-json) ![][P] ![][D] ![][NODE] : Find, read and parse the first matching file found walking the filesystem upwards.
 + [`flimsy`](https://github.com/fabiospampinato/flimsy) ![][P] ![][D] ![][ISO] : A single-file <1kb min+gzip simplified implementation of the reactive core of Solid, optimized for clean code.
 + [`get-current-package`](https://github.com/fabiospampinato/get-current-package) ![][PP] ![][D] ![][NODE] : Get the package.json of the currently executing bin.
