@@ -697,3 +697,6 @@
 [submodule "repositories/file-pollex"]
 	path = repositories/file-pollex
 	url = https://github.com/fabiospampinato/file-pollex.git
+[submodule "repositories/skex"]
+	path = repositories/skex
+	url = https://github.com/fabiospampinato/skex.git
