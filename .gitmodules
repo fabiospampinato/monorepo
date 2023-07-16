@@ -700,3 +700,6 @@
 [submodule "repositories/skex"]
 	path = repositories/skex
 	url = https://github.com/fabiospampinato/skex.git
+[submodule "repositories/picolru"]
+	path = repositories/picolru
+	url = https://github.com/fabiospampinato/picolru.git
