@@ -703,3 +703,6 @@
 [submodule "repositories/picolru"]
 	path = repositories/picolru
 	url = https://github.com/fabiospampinato/picolru.git
+[submodule "repositories/banal"]
+	path = repositories/banal
+	url = https://github.com/fabiospampinato/banal.git

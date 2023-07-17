@@ -47,6 +47,7 @@ Repositories listed below are marked with some of the following badges.
 + [`are-deeply-equal`](https://github.com/fabiospampinato/are-deeply-equal) ![][P] ![][D] ![][ISO] : Check if two values are deeply equal to each other.
 + [`are-shallow-equal`](https://github.com/fabiospampinato/are-shallow-equal) ![][P] ![][D] ![][ISO] : Check if two values are shallowly equal to each other.
 + [`atomically`](https://github.com/fabiospampinato/atomically) ![][PP] ![][DDD] ![][NODE] : Write files atomically and reliably.
++ [`banal`](https://github.com/fabiospampinato/banal) ![][PPP] ![][D] ![][NODE] ![][CLI] : On-demand bundle analyzer, powered by esbuild.
 + [`base128-encoding`](https://github.com/fabiospampinato/base128-e©ncoding) ![][PP] ![][DDD] ![][ISO] : Base128 encoding, the intersection of latin1 and utf-8, which is basically ASCII, the most memory-efficient string encoding that can be written to disk as utf-8 without ballooning in size.
 + [`base256-archive`](https://github.com/fabiospampinato/base256-archive) ![][PP] ![][D] ![][ISO] : Simple archive format that produces a base256-encoded string.
 + [`base256-encoding`](https://github.com/fabiospampinato/base256-encoding) ![][PP] ![][DDD] ![][ISO] : Base256 encoding, the most memory-efficient encoding possible in JavaScript.
