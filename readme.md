@@ -143,6 +143,7 @@ Repositories listed below are marked with some of the following badges.
 + [`paketo`](https://github.com/fabiospampinato/paketo) ![][PP] ![][D] ![][ISO] : A tiny library for importing your package.json, with proper types!
 + [`path-prop`](https://github.com/fabiospampinato/path-prop) ![][PP] ![][D] ![][ISO] ![][TREE] : Fast library for manipulating plain objects using paths.
 + [`performance-interval`](https://github.com/fabiospampinato/performance-interval) ![][PP] ![][D] ![][ISO] : A precise implementation of setInterval that supports sub-millisecond intervals.
++ [`picolate`](https://github.com/fabiospampinato/picolate) ![][PP] ![][DDD] ![][ISO] : A minimalistic and flexible templating engine, inspired by Handlebars.
 + [`picolru`](https://github.com/fabiospampinato/picolru) ![][P] ![][D] ![][ISO] : A tiny LRU implementation that strives for simplicity and performance.
 + [`picorpc`](https://github.com/fabiospampinato/picorpc) ![][P] ![][D] ![][ISO] : A tiny RPC library and spec, inspired by JSON-RPC 2.0 and tRPC.
 + [`pikchr-wasm`](https://github.com/fabiospampinato/pikchr-wasm) ![][PPP] ![][D] ![][ISO] ![][TREE] : A fast and small port of Pikchr to WASM.

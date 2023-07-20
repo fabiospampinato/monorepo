@@ -706,3 +706,6 @@
 [submodule "repositories/banal"]
 	path = repositories/banal
 	url = https://github.com/fabiospampinato/banal.git
+[submodule "repositories/picolate"]
+	path = repositories/picolate
+	url = https://github.com/fabiospampinato/picolate.git
