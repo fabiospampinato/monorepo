@@ -180,7 +180,7 @@ Repositories listed below are marked with some of the following badges.
 + [`string-replace-all`](https://github.com/fabiospampinato/string-replace-all) ![][PP] ![][D] ![][ISO] : Replaces all the occurrences of a string into a string with another string.
 + [`strip-keys`](https://github.com/fabiospampinato/strip-keys) ![][P] ![][D] ![][ISO] : An utility for removing specific keys from an object.
 + [`stubborn-fs`](https://github.com/fabiospampinato/stubborn-fs) ![][P] ![][DD] ![][NODE] : Stubborn versions of Node's fs functions that try really hard to do their job.
-- [`template`](https://github.com/fabiospampinato/template) : A super-simple way to create new projects based on templates.
++ [`template`](https://github.com/fabiospampinato/template) ![][PPP] ![][DDD] ![][NODE] ![][CLI] : A super-simple way to create new projects based on templates.
 + [`test-diff`](https://github.com/fabiospampinato/test-diff) ![][PP] ![][D] ![][NODE] : Library for writing tests that diff the excepted output with the actual output.
 + [`tiny-bin`](https://github.com/fabiospampinato/tiny-bin) ![][PP] ![][D] ![][NODE] : A library for building tiny and beautiful command line apps.
 + [`tiny-buffer`](https://github.com/fabiospampinato/tiny-buffer) ![][PP] ![][DDD] ![][ISO] : A tiny isomorphic implementation of a large subset of Node's Buffer.
