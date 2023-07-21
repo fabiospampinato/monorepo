@@ -275,16 +275,9 @@ Repositories listed below are marked with some of the following badges.
 ### Templates
 
 - [`awesome-template`](https://github.com/fabiospampinato/awesome-template) : Curated list of templates for Template.
-- [`template-alfred-workflow`](https://github.com/fabiospampinato/template-alfred-workflow) : A template for starting a new Alfred workflow quickly.
-- [`template-chrome-extension`](https://github.com/fabiospampinato/template-chrome-extension) : A template for starting a new Chrome extension quickly.
-- [`template-electron`](https://github.com/fabiospampinato/template-electron) : A template for starting a new electron app quickly.
-- [`template-lambda-claudia`](https://github.com/fabiospampinato/template-lambda-claudia) : A template for starting a new lambda quickly.
-- [`template-next-website`](https://github.com/fabiospampinato/template-next-website) : A template for starting a new Next.js website quickly.
-- [`template-template`](https://github.com/fabiospampinato/template-template) : A template for starting new templates quickly.
-- [`template-typescript-cli-package`](https://github.com/fabiospampinato/template-typescript-cli-package) : A template for starting a new typescript CLI package quickly.
-- [`template-typescript-package`](https://github.com/fabiospampinato/template-typescript-package) : A template for starting a new typescript package quickly.
-- [`template-vscode-extension`](https://github.com/fabiospampinato/template-vscode-extension) : A template for starting a new vscode extension quickly.
-- [`template-webpack-website`](https://github.com/fabiospampinato/template-webpack-website) : A template for starting a new webpack website quickly.
+- [`template-template`](https://github.com/fabiospampinato/template-template) : A template for creating new templates quickly.
+- [`template-typescript-cli-package`](https://github.com/fabiospampinato/template-typescript-cli-package) : A template for creating a new TypeScript CLI package quickly.
+- [`template-typescript-package`](https://github.com/fabiospampinato/template-typescript-package) : A template for creating a new TypeScript package quickly.
 
 ### Others
 
