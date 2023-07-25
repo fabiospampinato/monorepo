@@ -709,3 +709,6 @@
 [submodule "repositories/picolate"]
 	path = repositories/picolate
 	url = https://github.com/fabiospampinato/picolate.git
+[submodule "repositories/safex"]
+	path = repositories/safex
+	url = https://github.com/fabiospampinato/safex.git
