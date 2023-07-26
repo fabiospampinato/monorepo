@@ -63,7 +63,7 @@ Repositories listed below are marked with some of the following badges.
 + [`classattr`](https://github.com/fabiospampinato/classattr) ![][P] ![][D] ![][ISO] : A classList-like API that's purely based on reading/writing the class attribute.
 + [`conf-merge`](https://github.com/fabiospampinato/conf-merge) ![][PP] ![][D] ![][ISO] : Deep merges objects, concatenating arrays.
 + [`configuration`](https://github.com/fabiospampinato/configuration) ![][PP] ![][DDD] ![][ISO] ![][TREE] : Performant and feature rich library for managing configurations/settings.
-- [`context-keys`](https://github.com/fabiospampinato/context-keys) : Performant and feature rich library for managing context keys.
++ [`context-keys`](https://github.com/fabiospampinato/context-keys) ![][PP] ![][D] ![][ISO] : Performant and feature rich library for managing context keys.
 + [`copy-unused-path`](https://github.com/fabiospampinato/copy-unused-path) ![][PP] ![][D] ![][NODE] : Reliably copy to an unused path.
 + [`critically`](https://github.com/fabiospampinato/critically) ![][P] ![][DDD] ![][ISO] : Tiny performant library for extracting the critical CSS.
 + [`crypto-pbkdf2-hmac`](https://github.com/fabiospampinato/crypto-pbkdf2-hmac) ![][PP] ![][D] ![][ISO] : Isomorphic wrapper for the PBKDF2-HMAC key derivation function.
