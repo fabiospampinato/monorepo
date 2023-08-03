@@ -178,7 +178,6 @@ Repositories listed below are marked with some of the following badges.
 + [`string-indexes`](https://github.com/fabiospampinato/string-indexes) ![][P] ![][D] ![][ISO] : Retrieves all indexes, in non-overlapping ranges, of a substring in a string.
 + [`string-matches`](https://github.com/fabiospampinato/string-matches) ![][P] ![][D] ![][ISO] : Retrieves all the matches of a regex in a string.
 + [`string-matches-generator`](https://github.com/fabiospampinato/string-matches-generator) ![][P] ![][D] ![][ISO] : Retrieves all the matches of a regex in a string, via a generator.
-+ [`string-replace-all`](https://github.com/fabiospampinato/string-replace-all) ![][PP] ![][D] ![][ISO] : Replaces all the occurrences of a string into a string with another string.
 + [`strip-keys`](https://github.com/fabiospampinato/strip-keys) ![][P] ![][D] ![][ISO] : An utility for removing specific keys from an object.
 + [`stubborn-fs`](https://github.com/fabiospampinato/stubborn-fs) ![][P] ![][DD] ![][NODE] : Stubborn versions of Node's fs functions that try really hard to do their job.
 + [`template`](https://github.com/fabiospampinato/template) ![][PPP] ![][DDD] ![][NODE] ![][CLI] : A super-simple way to create new projects based on templates.
