@@ -712,3 +712,6 @@
 [submodule "repositories/safex"]
 	path = repositories/safex
 	url = https://github.com/fabiospampinato/safex.git
+[submodule "repositories/ionstore"]
+	path = repositories/ionstore
+	url = https://github.com/fabiospampinato/ionstore.git
