@@ -715,3 +715,6 @@
 [submodule "repositories/ionstore"]
 	path = repositories/ionstore
 	url = https://github.com/fabiospampinato/ionstore.git
+[submodule "repositories/crypto-sieve"]
+	path = repositories/crypto-sieve
+	url = https://github.com/fabiospampinato/crypto-sieve.git
