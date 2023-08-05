@@ -718,3 +718,6 @@
 [submodule "repositories/crypto-sieve"]
 	path = repositories/crypto-sieve
 	url = https://github.com/fabiospampinato/crypto-sieve.git
+[submodule "repositories/fast-mod-exp"]
+	path = repositories/fast-mod-exp
+	url = https://github.com/fabiospampinato/fast-mod-exp.git
