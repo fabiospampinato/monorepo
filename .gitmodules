@@ -721,3 +721,6 @@
 [submodule "repositories/fast-mod-exp"]
 	path = repositories/fast-mod-exp
 	url = https://github.com/fabiospampinato/fast-mod-exp.git
+[submodule "repositories/crypto-miller-rabin"]
+	path = repositories/crypto-miller-rabin
+	url = https://github.com/fabiospampinato/crypto-miller-rabin.git

@@ -66,6 +66,7 @@ Repositories listed below are marked with some of the following badges.
 + [`context-keys`](https://github.com/fabiospampinato/context-keys) ![][PP] ![][D] ![][ISO] : Performant and feature rich library for managing context keys.
 + [`copy-unused-path`](https://github.com/fabiospampinato/copy-unused-path) ![][PP] ![][D] ![][NODE] : Reliably copy to an unused path.
 + [`critically`](https://github.com/fabiospampinato/critically) ![][P] ![][DDD] ![][ISO] : Tiny performant library for extracting the critical CSS.
++ [`crypto-miller-rabin`](https://github.com/fabiospampinato/crypto-miller-rabin) ![][PP] ![][DD] ![][ISO] : Implementation of the Miller-Rabin primality test.
 + [`crypto-pbkdf2-hmac`](https://github.com/fabiospampinato/crypto-pbkdf2-hmac) ![][PP] ![][D] ![][ISO] : Isomorphic wrapper for the PBKDF2-HMAC key derivation function.
 + [`crypto-puzzle`](https://github.com/fabiospampinato/crypto-puzzle) ![][PP] ![][D] ![][ISO] : Basically a proof-of-work generator, this library makes cryptographic puzzles that are arbitrarily expensive to solve.
 + [`crypto-random-bigint`](https://github.com/fabiospampinato/crypto-random-bigint) ![][PP] ![][D] ![][ISO] : Generate a cryptographically-random BigInt with the given number of bits of entropy.
