@@ -724,3 +724,6 @@
 [submodule "repositories/crypto-miller-rabin"]
 	path = repositories/crypto-miller-rabin
 	url = https://github.com/fabiospampinato/crypto-miller-rabin.git
+[submodule "repositories/crypto-prime-test"]
+	path = repositories/crypto-prime-test
+	url = https://github.com/fabiospampinato/crypto-prime-test.git

@@ -68,6 +68,7 @@ Repositories listed below are marked with some of the following badges.
 + [`critically`](https://github.com/fabiospampinato/critically) ![][P] ![][DDD] ![][ISO] : Tiny performant library for extracting the critical CSS.
 + [`crypto-miller-rabin`](https://github.com/fabiospampinato/crypto-miller-rabin) ![][PP] ![][DD] ![][ISO] : Implementation of the Miller-Rabin primality test.
 + [`crypto-pbkdf2-hmac`](https://github.com/fabiospampinato/crypto-pbkdf2-hmac) ![][PP] ![][D] ![][ISO] : Isomorphic wrapper for the PBKDF2-HMAC key derivation function.
++ [`crypto-prime-test`](https://github.com/fabiospampinato/crypto-prime-test) ![][PP] ![][D] ![][ISO] : A function that deterministically checks if a number is prime.
 + [`crypto-puzzle`](https://github.com/fabiospampinato/crypto-puzzle) ![][PP] ![][D] ![][ISO] : Basically a proof-of-work generator, this library makes cryptographic puzzles that are arbitrarily expensive to solve.
 + [`crypto-random-bigint`](https://github.com/fabiospampinato/crypto-random-bigint) ![][PP] ![][D] ![][ISO] : Generate a cryptographically-random BigInt with the given number of bits of entropy.
 + [`crypto-random-hexadecimal`](https://github.com/fabiospampinato/crypto-random-hexadecimal) ![][PP] ![][D] ![][ISO] : Generate a cryptographically-random hexadecimal string with the given number of bytes of entropy.
