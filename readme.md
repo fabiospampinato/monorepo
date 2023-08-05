@@ -73,6 +73,7 @@ Repositories listed below are marked with some of the following badges.
 + [`crypto-random-bigint`](https://github.com/fabiospampinato/crypto-random-bigint) ![][PP] ![][D] ![][ISO] : Generate a cryptographically-random BigInt with the given number of bits of entropy.
 + [`crypto-random-hexadecimal`](https://github.com/fabiospampinato/crypto-random-hexadecimal) ![][PP] ![][D] ![][ISO] : Generate a cryptographically-random hexadecimal string with the given number of bytes of entropy.
 + [`crypto-random-in-range`](https://github.com/fabiospampinato/crypto-random-in-range) ![][PP] ![][D] ![][ISO] : Pick a cryptographically-random integer within a range.
++ [`crypto-random-prime`](https://github.com/fabiospampinato/crypto-random-prime) ![][PP] ![][DD] ![][ISO] : Generate a cryptographically-random probable prime number that passes the Miller-Rabin test with the given number of bits of entropy.
 + [`crypto-random-uint8`](https://github.com/fabiospampinato/crypto-random-uint8) ![][PP] ![][D] ![][ISO] : Generate a cryptographically-random Uint8Array with the given number of bytes of entropy.
 + [`crypto-sha`](https://github.com/fabiospampinato/crypto-sha) ![][PP] ![][D] ![][ISO] : Isomorphic wrapper for the SHA family of hash functions.
 + [`crypto-sieve`](https://github.com/fabiospampinato/crypto-sieve) ![][P] ![][D] ![][ISO] : Low memory-usage implementation of a Sieve of Eratosthenes.
