@@ -730,3 +730,6 @@
 [submodule "repositories/crypto-random-prime"]
 	path = repositories/crypto-random-prime
 	url = https://github.com/fabiospampinato/crypto-random-prime.git
+[submodule "repositories/hex-to-uint8"]
+	path = repositories/hex-to-uint8
+	url = https://github.com/fabiospampinato/hex-to-uint8.git

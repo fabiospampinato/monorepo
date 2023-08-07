@@ -112,6 +112,7 @@ Repositories listed below are marked with some of the following badges.
 + [`graphviz-wasm`](https://github.com/fabiospampinato/graphviz-wasm) ![][PPP] ![][D] ![][ISO] : A port of Graphviz to WASM.
 + [`happy-dom-global`](https://github.com/fabiospampinato/happy-dom-global) ![][PPP] ![][D] ![][NODE] : Make Node a browser-like environment, by using Happy DOM.
 + [`hex-encoding`](https://github.com/fabiospampinato/hex-encoding) ![][PP] ![][DDD] ![][ISO] : Hex encoding. An extremely fast and synchronous JS implementation.
++ [`hex-to-uint8`](https://github.com/fabiospampinato/hex-to-uint8) ![][PP] ![][DDD] ![][ISO] : The fastest function to convert a hexadecimal string to a Uint8Array.
 - [`html2markdown`](https://github.com/notable/html2markdown) : A small function for converting HTML to Markdown.
 + [`html-segmentator`](https://github.com/fabiospampinato/html-segmentator) ![][PPP] ![][D] ![][ISO] : A small library for splitting an HTML string into its top-level sections. Based on html5parser.
 + [`huffy`](https://github.com/fabiospampinato/huffy) ![][P] ![][DDD] ![][ISO] ![][TREE] : A tiny compression library based on Huffman coding.
