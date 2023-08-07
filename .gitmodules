@@ -733,3 +733,6 @@
 [submodule "repositories/hex-to-uint8"]
 	path = repositories/hex-to-uint8
 	url = https://github.com/fabiospampinato/hex-to-uint8.git
+[submodule "repositories/int32-encoding"]
+	path = repositories/int32-encoding
+	url = https://github.com/fabiospampinato/int32-encoding.git

@@ -120,6 +120,7 @@ Repositories listed below are marked with some of the following badges.
 + [`import-fool-webpack`](https://github.com/fabiospampinato/import-fool-webpack) ![][P] ![][D] ![][ISO] : Use dynamic import() without webpack finding out.
 + [`infinity-map`](https://github.com/fabiospampinato/infinity-map) ![][P] ![][DDD] ![][ISO] : A Map that doesn't throw if you put more than 16 million items in it. Because that's what the native `Map` object does for some reason.
 + [`infinity-set`](https://github.com/fabiospampinato/infinity-set) ![][P] ![][DDD] ![][ISO] : A Set that doesn't throw if you put more than 16 million items in it. Because that's what the native `Set` object does for some reason.
++ [`int32-encoding`](https://github.com/fabiospampinato/int32-encoding) ![][P] ![][D] ![][ISO] : Int32 encoding, a simple way to convert 32-bit signed integers to Uint8Arrays, and vice versa.
 + [`ionstore`](https://github.com/fabiospampinato/ionstore) ![][P] ![][D] ![][ISO] : A very simple isomorphic key-value store with a Map-like API for persisting session data.
 + [`is`](https://github.com/fabiospampinato/is) ![][P] ![][D] ![][ISO] ![][TREE] : The definitive collection of is* functions for runtime type checking. Lodash-compatible, tree-shakable, with types.
 + [`isostore`](https://github.com/fabiospampinato/isostore) ![][PP] ![][D] ![][ISO] ![][TREE] : A simple isomorphic key-value store with a Map-like API for persisting data.
