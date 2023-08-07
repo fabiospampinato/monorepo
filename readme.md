@@ -77,7 +77,6 @@ Repositories listed below are marked with some of the following badges.
 + [`crypto-random-uint8`](https://github.com/fabiospampinato/crypto-random-uint8) ![][PP] ![][D] ![][ISO] : Generate a cryptographically-random Uint8Array with the given number of bytes of entropy.
 + [`crypto-sha`](https://github.com/fabiospampinato/crypto-sha) ![][PP] ![][D] ![][ISO] : Isomorphic wrapper for the SHA family of hash functions.
 + [`crypto-sieve`](https://github.com/fabiospampinato/crypto-sieve) ![][P] ![][D] ![][ISO] : Low memory-usage implementation of a Sieve of Eratosthenes.
-+ [`crypto-xxhash-64`](https://github.com/fabiospampinato/crypto-xxhash-64) ![][PPP] ![][D] ![][ISO] : Fastest isomorphic xxHash-64 hash function.
 - [`cson2json`](https://github.com/fabiospampinato/cson2json) : A super-lightweight library for converting CSON objects to JSON objects.
 + [`css-eval`](https://github.com/fabiospampinato/css-eval) ![][P] ![][D] ![][BROWSER] : Tiny library for fully evaluating CSS properties and variables on a target element.
 + [`css-flatten`](https://github.com/fabiospampinato/css-flatten) ![][PP] ![][DD] ![][ISO] : Flattens a nested (S)CSS string, "&" placeholders are supported too.
