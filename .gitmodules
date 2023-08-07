@@ -736,3 +736,6 @@
 [submodule "repositories/int32-encoding"]
 	path = repositories/int32-encoding
 	url = https://github.com/fabiospampinato/int32-encoding.git
+[submodule "repositories/tiny-encryptor"]
+	path = repositories/tiny-encryptor
+	url = https://github.com/fabiospampinato/tiny-encryptor.git
