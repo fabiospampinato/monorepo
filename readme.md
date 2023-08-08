@@ -52,6 +52,7 @@ Repositories listed below are marked with some of the following badges.
 + [`base256-archive`](https://github.com/fabiospampinato/base256-archive) ![][PP] ![][D] ![][ISO] : Simple archive format that produces a base256-encoded string.
 + [`base256-encoding`](https://github.com/fabiospampinato/base256-encoding) ![][PP] ![][DDD] ![][ISO] : Base256 encoding, the most memory-efficient encoding possible in JavaScript.
 + [`benchloop`](https://github.com/fabiospampinato/benchloop) ![][PP] ![][D] ![][ISO] : Simple benchmarking library with a pretty output.
++ [`bigint-encoding`](https://github.com/fabiospampinato/bigint-encoding) ![][P] ![][D] ![][ISO] : SBigInt encoding, a simple way to convert Uint8Arrays into BigInts, and vice versa.
 + [`bob-wasm`](https://github.com/fabiospampinato/bob-wasm) ![][PPP] ![][D] ![][ISO] : A port of Svgbob to WASM.
 + [`buffer2uint8`](https://github.com/fabiospampinato/buffer2uint8) ![][P] ![][D] ![][ISO] : A tiny function for casting a Buffer to a Uint8Array.
 - [`bump`](https://github.com/fabiospampinato/bump) : Bump updates the project's version, updates/creates the changelog, makes the bump commit, tags the bump commit and makes the release to GitHub. Opinionated but configurable.

@@ -739,3 +739,6 @@
 [submodule "repositories/tiny-encryptor"]
 	path = repositories/tiny-encryptor
 	url = https://github.com/fabiospampinato/tiny-encryptor.git
+[submodule "repositories/bigint-encoding"]
+	path = repositories/bigint-encoding
+	url = https://github.com/fabiospampinato/bigint-encoding.git
