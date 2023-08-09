@@ -103,6 +103,7 @@ Repositories listed below are marked with some of the following badges.
 + [`file-pollex`](https://github.com/fabiospampinato/file-pollex) ![][P] ![][D] ![][NODE] : A tiny hybrid filesystem watcher for a single file.
 + [`find-up-json`](https://github.com/fabiospampinato/find-up-json) ![][P] ![][D] ![][NODE] : Find, read and parse the first matching file found walking the filesystem upwards.
 + [`flimsy`](https://github.com/fabiospampinato/flimsy) ![][P] ![][D] ![][ISO] : A single-file <1kb min+gzip simplified implementation of the reactive core of Solid, optimized for clean code.
++ [`function-once`](https://github.com/fabiospampinato/function-once) ![][P] ![][D] ![][ISO] : Wraps a function so that it's only ever executed once.
 + [`get-current-package`](https://github.com/fabiospampinato/get-current-package) ![][PP] ![][D] ![][NODE] : Get the package.json of the currently executing bin.
 + [`get-current-version`](https://github.com/fabiospampinato/get-current-version) ![][PP] ![][D] ![][NODE] : Get the version of the currently executing bin.
 + [`get-unused-path`](https://github.com/fabiospampinato/get-unused-path) ![][PP] ![][D] ![][NODE] : Reliably get an unused path you can write to.
@@ -147,7 +148,6 @@ Repositories listed below are marked with some of the following badges.
 + [`noop-tag`](https://github.com/fabiospampinato/noop-tag) ![][P] ![][D] ![][ISO] : A noop template literal tag, useful for syntax highlighting hints.
 + [`noren`](https://github.com/fabiospampinato/noren) ![][PP] ![][D] ![][NODE] : A minimal HTTP server with good developer-experience and performance, for Node and beyond.
 - [`oby`](https://github.com/vobyjs/oby) : A tiny Observable implementation, the brilliant primitive you need to build a powerful reactive system.
-+ [`once`](https://github.com/fabiospampinato/once) ![][P] ![][D] ![][ISO] : Wraps a function so that it's only ever executed once.
 + [`paketo`](https://github.com/fabiospampinato/paketo) ![][PP] ![][D] ![][ISO] : A tiny library for importing your package.json, with proper types!
 + [`path-prop`](https://github.com/fabiospampinato/path-prop) ![][PP] ![][D] ![][ISO] ![][TREE] : Fast library for manipulating plain objects using paths.
 + [`performance-interval`](https://github.com/fabiospampinato/performance-interval) ![][PP] ![][D] ![][ISO] : A precise implementation of setInterval that supports sub-millisecond intervals.

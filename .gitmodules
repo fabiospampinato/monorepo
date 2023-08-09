@@ -742,3 +742,6 @@
 [submodule "repositories/bigint-encoding"]
 	path = repositories/bigint-encoding
 	url = https://github.com/fabiospampinato/bigint-encoding.git
+[submodule "repositories/function-once"]
+	path = repositories/function-once
+	url = https://github.com/fabiospampinato/function-once.git
