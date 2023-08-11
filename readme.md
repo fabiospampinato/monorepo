@@ -165,7 +165,6 @@ Repositories listed below are marked with some of the following badges.
 + [`promise-concurrency-limiter`](https://github.com/fabiospampinato/promise-concurrency-limiter) ![][P] ![][D] ![][ISO] : Tiny scheduler for functions returning promises that can limit their concurrency.
 + [`promise-make-naked`](https://github.com/fabiospampinato/promise-make-naked) ![][P] ![][D] ![][ISO] : A simple function that makes a promise that can be resolved or rejected from the outside.
 + [`promise-resolve-timeout`](https://github.com/fabiospampinato/promise-resolve-timeout) ![][P] ![][D] ![][ISO] : Create a Promise which will resolve with the provided value after a timeout.
-+ [`prompts-helpers`](https://github.com/fabiospampinato/prompts-helpers) ![][PPP] ![][DDD] ![][NODE] : Collection of convenience helpers for Prompts.
 + [`qunit-ava-spec`](https://github.com/fabiospampinato/qunit-ava-spec) ![][P] ![][DDD] ![][BROWSER] : Helper functions for using QUnit as if it was ava/ava-spec.
 + [`radix64-encoding`](https://github.com/fabiospampinato/radix64-encoding) ![][PP] ![][DDD] ![][ISO] : Radix64 encoding, a.k.a. Base64 encoding. An extremely fast and synchronous JS implementation.
 + [`radix64url-encoding`](https://github.com/fabiospampinato/radix64url-encoding) ![][PP] ![][DDD] ![][ISO] : Radix64url encoding, a.k.a. Base64url encoding. An extremely fast and synchronous JS implementation.
