@@ -745,3 +745,6 @@
 [submodule "repositories/function-once"]
 	path = repositories/function-once
 	url = https://github.com/fabiospampinato/function-once.git
+[submodule "repositories/prask"]
+	path = repositories/prask
+	url = https://github.com/fabiospampinato/prask.git
