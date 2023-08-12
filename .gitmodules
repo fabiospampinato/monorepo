@@ -748,3 +748,6 @@
 [submodule "repositories/prask"]
 	path = repositories/prask
 	url = https://github.com/fabiospampinato/prask.git
+[submodule "repositories/crypto-timing-safe-equals"]
+	path = repositories/crypto-timing-safe-equals
+	url = https://github.com/fabiospampinato/crypto-timing-safe-equals.git
