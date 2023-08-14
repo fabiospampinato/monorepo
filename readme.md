@@ -91,7 +91,7 @@ Repositories listed below are marked with some of the following badges.
 + [`dettle-batch`](https://github.com/fabiospampinato/dettle-batch) ![][PP] ![][D] ![][ISO] : A batched debouncing and throttling solution, for performance.
 + [`domino-global`](https://github.com/fabiospampinato/domino-global) ![][PPP] ![][D] ![][ISO] : Make Node a browser-like environment, by using Domino.
 + [`dotenv-jsonc`](https://github.com/fabiospampinato/dotenv-jsonc) ![][PP] ![][D] ![][NODE] : Simple library for loading your .env.json file containing JSONC.
-- [`dumper`](https://github.com/notable/dumper) : Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
++ [`dumper`](https://github.com/notable/dumper) ![][PPP] ![][DDD] ![][NODE] : Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
 + [`duper`](https://github.com/fabiospampinato/duper) ![][P] ![][DD] ![][ISO] ![][TREE] : Standalone functions for creating shallow clones or deep clones.
 + [`entities-decode`](https://github.com/fabiospampinato/entities-decode) ![][P] ![][D] ![][ISO] : Fast function for decoding HTML entities, based on the "entities" package.
 + [`entities-dom-decode`](https://github.com/fabiospampinato/entities-dom-decode) ![][P] ![][DDD] ![][ISO] : A ~200 bytes function with no dependencies for decoding HTML entities, it only works in the browser.
