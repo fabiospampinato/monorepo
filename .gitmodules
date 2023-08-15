@@ -751,3 +751,6 @@
 [submodule "repositories/crypto-timing-safe-equals"]
 	path = repositories/crypto-timing-safe-equals
 	url = https://github.com/fabiospampinato/crypto-timing-safe-equals.git
+[submodule "repositories/csv-simple-parser"]
+	path = repositories/csv-simple-parser
+	url = https://github.com/fabiospampinato/csv-simple-parser.git
