@@ -754,3 +754,6 @@
 [submodule "repositories/csv-simple-parser"]
 	path = repositories/csv-simple-parser
 	url = https://github.com/fabiospampinato/csv-simple-parser.git
+[submodule "repositories/sqlite-binaries"]
+	path = repositories/sqlite-binaries
+	url = https://github.com/fabiospampinato/sqlite-binaries.git

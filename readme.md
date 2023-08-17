@@ -180,6 +180,7 @@ Repositories listed below are marked with some of the following badges.
 + [`shosho`](https://github.com/fabiospampinato/shosho) ![][P] ![][DDD] ![][BROWSER] : A modern and powerful shortcuts management library.
 + [`special-tlds`](https://github.com/fabiospampinato/special-tlds) ![][P] ![][D] ![][ISO] : List of special-use ICANN TLDs.
 + [`specialist`](https://github.com/fabiospampinato/specialist) ![][PP] ![][D] ![][NODE] ![][TREE] : A library that helps you write tiny, fast, bundled and beautiful CLI apps that can automatically check for updates.
++ [`sqlite-binaries`](https://github.com/fabiospampinato/sqlite-binaries) ![][PPP] ![][D] ![][NODE] : Prebuild SQLite binaries.
 + [`stdin-blocker`](https://github.com/fabiospampinato/stdin-blocker) ![][P] ![][D] ![][NODE] : A tiny library for blocking stdin keypresses, except for ctrl+c. Useful while displaying animations.
 + [`strid`](https://github.com/fabiospampinato/strid) ![][PP] ![][D] ![][ISO] : Get a unique string identifier for any input value.
 + [`string-escape-regex`](https://github.com/fabiospampinato/string-escape-regex) ![][P] ![][D] ![][ISO] : A tiny function for escaping a string to be used as the source in a regex.
