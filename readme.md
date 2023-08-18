@@ -180,7 +180,6 @@ Repositories listed below are marked with some of the following badges.
 + [`shosho`](https://github.com/fabiospampinato/shosho) ![][P] ![][DDD] ![][BROWSER] : A modern and powerful shortcuts management library.
 + [`special-tlds`](https://github.com/fabiospampinato/special-tlds) ![][P] ![][D] ![][ISO] : List of special-use ICANN TLDs.
 + [`specialist`](https://github.com/fabiospampinato/specialist) ![][PP] ![][D] ![][NODE] ![][TREE] : A library that helps you write tiny, fast, bundled and beautiful CLI apps that can automatically check for updates.
-+ [`sqlite-binaries`](https://github.com/fabiospampinato/sqlite-binaries) ![][PPP] ![][D] ![][NODE] : Prebuild SQLite binaries.
 + [`stdin-blocker`](https://github.com/fabiospampinato/stdin-blocker) ![][P] ![][D] ![][NODE] : A tiny library for blocking stdin keypresses, except for ctrl+c. Useful while displaying animations.
 + [`strid`](https://github.com/fabiospampinato/strid) ![][PP] ![][D] ![][ISO] : Get a unique string identifier for any input value.
 + [`string-escape-regex`](https://github.com/fabiospampinato/string-escape-regex) ![][P] ![][D] ![][ISO] : A tiny function for escaping a string to be used as the source in a regex.
@@ -295,6 +294,7 @@ Repositories listed below are marked with some of the following badges.
 - [`ama`](https://github.com/fabiospampinato/ama): Ask me anything!
 - [`monorepo`](https://github.com/fabiospampinato/monorepo): The homepage for all my repositories.
 - [`phoenix`](https://github.com/fabiospampinato/phoenix): My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
+- [`sqlite3-binaries`](https://github.com/fabiospampinato/sqlite3-binaries) : Prebuild SQLite binaries.
 - [`termux-env`](https://github.com/fabiospampinato/termux-env): My super-quick-to-setup Termux environment.
 - [`vscode-beggar`](https://github.com/fabiospampinato/vscode-beggar) : A little utility for asking for money in a VSCode extension.
 - [`vscode-beggar-banners`](https://github.com/fabiospampinato/vscode-beggar-banners) : The little banners that I'm using in combination with vscode-beggar.
