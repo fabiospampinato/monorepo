@@ -148,6 +148,7 @@ Repositories listed below are marked with some of the following badges.
 + [`move-unused-path`](https://github.com/fabiospampinato/move-unused-path) ![][PP] ![][D] ![][NODE] : Reliably move to an unused path.
 + [`nanopath`](https://github.com/fabiospampinato/nanopath) ![][P] ![][DD] ![][ISO] ![][TREE] : A tiny isomorphic port of Node@17.8.0 path module.
 + [`node-buffer-encoding`](https://github.com/fabiospampinato/node-buffer-encoding) ![][P] ![][D] ![][NODE] : A little wrapper around Node's Buffer that provides encoding/decoding for all supported encodings.
++ [`node-deno-sqlite`](https://github.com/fabiospampinato/node-deno-sqlite/tree/node) ![][PPP] ![][D] ![][NODE] : Node's port of Deno's SQLite module.
 + [`noop-tag`](https://github.com/fabiospampinato/noop-tag) ![][P] ![][D] ![][ISO] : A noop template literal tag, useful for syntax highlighting hints.
 + [`noren`](https://github.com/fabiospampinato/noren) ![][PP] ![][D] ![][NODE] : A minimal HTTP server with good developer-experience and performance, for Node and beyond.
 - [`oby`](https://github.com/vobyjs/oby) : A tiny Observable implementation, the brilliant primitive you need to build a powerful reactive system.

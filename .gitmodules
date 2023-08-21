@@ -760,3 +760,6 @@
 [submodule "repositories/dotlocker"]
 	path = repositories/dotlocker
 	url = https://github.com/fabiospampinato/dotlocker.git
+[submodule "repositories/node-deno-sqlite"]
+	path = repositories/node-deno-sqlite
+	url = https://github.com/fabiospampinato/node-deno-sqlite.git
