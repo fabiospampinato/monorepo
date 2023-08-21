@@ -91,6 +91,7 @@ Repositories listed below are marked with some of the following badges.
 + [`dettle`](https://github.com/fabiospampinato/dettle) ![][P] ![][D] ![][ISO] : A tiny fully-featured debounce and throttle implementation.
 + [`dettle-batch`](https://github.com/fabiospampinato/dettle-batch) ![][PP] ![][D] ![][ISO] : A batched debouncing and throttling solution, for performance.
 + [`domino-global`](https://github.com/fabiospampinato/domino-global) ![][PPP] ![][D] ![][ISO] : Make Node a browser-like environment, by using Domino.
++ [`dotlocker`](https://github.com/fabiospampinato/dotlocker) ![][PP] ![][D] ![][NODE] : A filesystem exclusionary lock implementation based on .lock files.
 + [`dotenv-jsonc`](https://github.com/fabiospampinato/dotenv-jsonc) ![][PP] ![][D] ![][NODE] : Simple library for loading your .env.json file containing JSONC.
 + [`dumper`](https://github.com/notable/dumper) ![][PPP] ![][DDD] ![][NODE] : Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
 + [`duper`](https://github.com/fabiospampinato/duper) ![][P] ![][DD] ![][ISO] ![][TREE] : Standalone functions for creating shallow clones or deep clones.

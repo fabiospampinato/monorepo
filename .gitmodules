@@ -757,3 +757,6 @@
 [submodule "repositories/sqlite-binaries"]
 	path = repositories/sqlite-binaries
 	url = https://github.com/fabiospampinato/sqlite-binaries.git
+[submodule "repositories/dotlocker"]
+	path = repositories/dotlocker
+	url = https://github.com/fabiospampinato/dotlocker.git
