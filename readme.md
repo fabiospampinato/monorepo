@@ -148,7 +148,6 @@ Repositories listed below are marked with some of the following badges.
 + [`move-unused-path`](https://github.com/fabiospampinato/move-unused-path) ![][PP] ![][D] ![][NODE] : Reliably move to an unused path.
 + [`nanopath`](https://github.com/fabiospampinato/nanopath) ![][P] ![][DD] ![][ISO] ![][TREE] : A tiny isomorphic port of Node@17.8.0 path module.
 + [`node-buffer-encoding`](https://github.com/fabiospampinato/node-buffer-encoding) ![][P] ![][D] ![][NODE] : A little wrapper around Node's Buffer that provides encoding/decoding for all supported encodings.
-+ [`node-deno-sqlite`](https://github.com/fabiospampinato/node-deno-sqlite/tree/node) ![][PPP] ![][D] ![][NODE] : Node's port of Deno's SQLite module.
 + [`noop-tag`](https://github.com/fabiospampinato/noop-tag) ![][P] ![][D] ![][ISO] : A noop template literal tag, useful for syntax highlighting hints.
 + [`noren`](https://github.com/fabiospampinato/noren) ![][PP] ![][D] ![][NODE] : A minimal HTTP server with good developer-experience and performance, for Node and beyond.
 - [`oby`](https://github.com/vobyjs/oby) : A tiny Observable implementation, the brilliant primitive you need to build a powerful reactive system.
@@ -296,7 +295,6 @@ Repositories listed below are marked with some of the following badges.
 - [`ama`](https://github.com/fabiospampinato/ama): Ask me anything!
 - [`monorepo`](https://github.com/fabiospampinato/monorepo): The homepage for all my repositories.
 - [`phoenix`](https://github.com/fabiospampinato/phoenix): My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
-- [`sqlite3-binaries`](https://github.com/fabiospampinato/sqlite3-binaries) : Prebuild SQLite binaries.
 - [`termux-env`](https://github.com/fabiospampinato/termux-env): My super-quick-to-setup Termux environment.
 - [`vscode-beggar`](https://github.com/fabiospampinato/vscode-beggar) : A little utility for asking for money in a VSCode extension.
 - [`vscode-beggar-banners`](https://github.com/fabiospampinato/vscode-beggar-banners) : The little banners that I'm using in combination with vscode-beggar.
