@@ -763,3 +763,6 @@
 [submodule "repositories/node-deno-sqlite"]
 	path = repositories/node-deno-sqlite
 	url = https://github.com/fabiospampinato/node-deno-sqlite.git
+[submodule "repositories/siar"]
+	path = repositories/siar
+	url = https://github.com/fabiospampinato/siar.git

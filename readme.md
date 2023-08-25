@@ -179,6 +179,7 @@ Repositories listed below are marked with some of the following badges.
 + [`shortcuts`](https://github.com/fabiospampinato/shortcuts) ![][PP] ![][DDD] ![][BROWSER] : Super performant and feature rich shortcuts management library.
 + [`shortcuts-font`](https://github.com/fabiospampinato/shortcuts-font) ![][P] ![][DDD] ![][NODE] : A minimal font designed to beutifully render characters used for representing shortcuts.
 + [`shosho`](https://github.com/fabiospampinato/shosho) ![][P] ![][DDD] ![][BROWSER] : A modern and powerful shortcuts management library.
++ [`siar`](https://github.com/fabiospampinato/siar) ![][PP] ![][D] ![][ISO] : A simple random-access archive format.
 + [`special-tlds`](https://github.com/fabiospampinato/special-tlds) ![][P] ![][D] ![][ISO] : List of special-use ICANN TLDs.
 + [`specialist`](https://github.com/fabiospampinato/specialist) ![][PP] ![][D] ![][NODE] ![][TREE] : A library that helps you write tiny, fast, bundled and beautiful CLI apps that can automatically check for updates.
 + [`stdin-blocker`](https://github.com/fabiospampinato/stdin-blocker) ![][P] ![][D] ![][NODE] : A tiny library for blocking stdin keypresses, except for ctrl+c. Useful while displaying animations.
