@@ -231,6 +231,7 @@ Repositories listed below are marked with some of the following badges.
 + [`worktank-esbuild-plugin`](https://github.com/fabiospampinato/worktank-esbuild-plugin) ![][PP] ![][D] ![][NODE] : Esbuild plugin for WorkTank which enables you to execute whole files in a worker pool, transparently.
 + [`worktank-vite-plugin`](https://github.com/fabiospampinato/worktank-vite-plugin) ![][PP] ![][DDD] ![][NODE] : Vite plugin for WorkTank which enables you to execute whole files in a worker pool, transparently.
 + [`write-unused-path`](https://github.com/fabiospampinato/write-unused-path) ![][PP] ![][D] ![][NODE] : Reliably write to an unused path.
++ [`xml-simple-parser`](https://github.com/fabiospampinato/xml-simple-parser) ![][PP] ![][D] ![][ISO] : A simple and tiny XML parser and stringifier.
 + [`zeptoid`](https://github.com/fabiospampinato/zeptoid) ![][PP] ![][D] ![][ISO] ![][TREE] : A tiny isomorphic fast function for generating a cryptographically random hex string.
 + [`zeptomatch`](https://github.com/fabiospampinato/zeptomatch) ![][PP] ![][D] ![][ISO] : An absurdly small glob matcher that packs a punch.
 + [`zstandard-wasm`](https://github.com/fabiospampinato/zstandard-wasm) ![][PP] ![][D] ![][ISO] ![][TREE] : A fast and small port of Zstandard to WASM. (Decompress-only for now).
