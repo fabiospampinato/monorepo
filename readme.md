@@ -121,6 +121,7 @@ Repositories listed below are marked with some of the following badges.
 + [`html-segmentator`](https://github.com/fabiospampinato/html-segmentator) ![][PPP] ![][D] ![][ISO] : A small library for splitting an HTML string into its top-level sections. Based on html5parser.
 + [`huffy`](https://github.com/fabiospampinato/huffy) ![][P] ![][DDD] ![][ISO] ![][TREE] : A tiny compression library based on Huffman coding.
 + [`icon-font-buildr`](https://github.com/fabiospampinato/icon-font-buildr) ![][PPP] ![][DDD] ![][NODE] ![][CLI] : Build custom icon fonts, it supports remote and local icons sources.
++ [`ifont`](https://github.com/fabiospampinato/ifont) ![][PPP] ![][D] ![][ISO] ![][CLI] : An isomorphic icon font generator with support for ligatures.
 + [`immediato`](https://github.com/fabiospampinato/immediato) ![][P] ![][D] ![][ISO] : An isomorphic setImmediate implementation that doesn't prevent the process from exiting naturally.
 + [`import-fool-webpack`](https://github.com/fabiospampinato/import-fool-webpack) ![][P] ![][D] ![][ISO] : Use dynamic import() without webpack finding out.
 + [`infinity-map`](https://github.com/fabiospampinato/infinity-map) ![][P] ![][DDD] ![][ISO] : A Map that doesn't throw if you put more than 16 million items in it. Because that's what the native `Map` object does for some reason.

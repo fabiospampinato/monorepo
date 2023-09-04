@@ -769,3 +769,6 @@
 [submodule "repositories/xml-simple-parser"]
 	path = repositories/xml-simple-parser
 	url = https://github.com/fabiospampinato/xml-simple-parser.git
+[submodule "repositories/ifont"]
+	path = repositories/ifont
+	url = https://github.com/fabiospampinato/ifont.git
