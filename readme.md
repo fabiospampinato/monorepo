@@ -84,7 +84,7 @@ Repositories listed below are marked with some of the following badges.
 + [`css-flatten`](https://github.com/fabiospampinato/css-flatten) ![][PP] ![][DD] ![][ISO] : Flattens a nested (S)CSS string, "&" placeholders are supported too.
 + [`css-simple-minifier`](https://github.com/fabiospampinato/css-simple-minifier) ![][P] ![][D] ![][ISO] : A CSS minifier that's tiny and very fast.
 + [`css-simple-parser`](https://github.com/fabiospampinato/css-simple-parser) ![][PP] ![][DD] ![][ISO] : A (S)CSS parser that's tiny, blazing fast and (too) simple.
-+ [`csv-simple-parser`](https://github.com/fabiospampinato/csv-simple-parser) ![][P] ![][D] ![][ISO] : A simple, fast and configurable CSV parser.
++ [`csv-simple-parser`](https://github.com/fabiospampinato/csv-simple-parser) ![][PP] ![][D] ![][ISO] : A simple, fast and configurable CSV parser.
 + [`decode-base64`](https://github.com/fabiospampinato/decode-base64) ![][PP] ![][DD] ![][ISO] : A tiny function for decoding base64 strings into ArrayBuffer objects, useful for bundling and loading WASM modules.
 + [`depsman`](https://github.com/fabiospampinato/depsman) ![][PP] ![][D] ![][NODE] ![][CLI] : Extract and report metadata about dependencies of the current package.
 + [`detect-eol`](https://github.com/fabiospampinato/detect-eol) ![][P] ![][D] ![][ISO] : Quickly detect the EOL used in a string.
