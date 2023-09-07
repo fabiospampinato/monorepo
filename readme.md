@@ -55,6 +55,7 @@ Repositories listed below are marked with some of the following badges.
 + [`bigint-encoding`](https://github.com/fabiospampinato/bigint-encoding) ![][P] ![][D] ![][ISO] : BigInt encoding, a simple way to convert Uint8Arrays into BigInts, and vice versa.
 + [`bob-wasm`](https://github.com/fabiospampinato/bob-wasm) ![][PPP] ![][D] ![][ISO] : A port of Svgbob to WASM.
 + [`buffer2uint8`](https://github.com/fabiospampinato/buffer2uint8) ![][P] ![][D] ![][ISO] : A tiny function for casting a Buffer to a Uint8Array.
++ [`bustore`](https://github.com/fabiospampinato/bustore) ![][PPP] ![][D] ![][ISO] : An isomorphic asynchronous Map-inspired key-value store for persisting blobs.
 + [`bump`](https://github.com/fabiospampinato/bump) ![][P] ![][D] ![][NODE] ![][CLI] : Bump updates the project's version, updates/creates the changelog, makes the bump commit, tags the bump commit and makes the release to GitHub. Opinionated but configurable.
 + [`call-chainer`](https://github.com/fabiospampinato/call-chainer) ![][P] ![][D] ![][ISO] : Combine a regular function and a class so that methods of the class become chainable properties of the function that get called automatically.
 + [`call-hooks`](https://github.com/fabiospampinato/call-hooks) ![][P] ![][D] ![][ISO] : Function for adding before/after/call/arguments/result hooks to another function.

@@ -772,3 +772,6 @@
 [submodule "repositories/ifont"]
 	path = repositories/ifont
 	url = https://github.com/fabiospampinato/ifont.git
+[submodule "repositories/bustore"]
+	path = repositories/bustore
+	url = https://github.com/fabiospampinato/bustore.git
