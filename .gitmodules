@@ -775,3 +775,6 @@
 [submodule "repositories/bustore"]
 	path = repositories/bustore
 	url = https://github.com/fabiospampinato/bustore.git
+[submodule "repositories/regexp-ranged-exec"]
+	path = repositories/regexp-ranged-exec
+	url = https://github.com/fabiospampinato/regexp-ranged-exec.git

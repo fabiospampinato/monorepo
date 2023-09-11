@@ -172,6 +172,7 @@ Repositories listed below are marked with some of the following badges.
 + [`qunit-ava-spec`](https://github.com/fabiospampinato/qunit-ava-spec) ![][P] ![][DDD] ![][BROWSER] : Helper functions for using QUnit as if it was ava/ava-spec.
 + [`radix64-encoding`](https://github.com/fabiospampinato/radix64-encoding) ![][PP] ![][DDD] ![][ISO] : Radix64 encoding, a.k.a. Base64 encoding. An extremely fast and synchronous JS implementation.
 + [`radix64url-encoding`](https://github.com/fabiospampinato/radix64url-encoding) ![][PP] ![][DDD] ![][ISO] : Radix64url encoding, a.k.a. Base64url encoding. An extremely fast and synchronous JS implementation.
++ [`regexp-ranged-exec`](https://github.com/fabiospampinato/regexp-ranged-exec): ![PPP] ![][D] ![][ISO] : Generate an enhanced exec function, with provides information about the range of text that the regex paid attention to.
 + [`safex`](https://github.com/fabiospampinato/safex): ![PP] ![][D] ![][ISO] : A language for writing safe expressions, in a tiny subset of JavaScript.
 + [`sanitize-basename`](https://github.com/fabiospampinato/sanitize-basename) ![][P] ![][D] ![][ISO] : Sanitize a file name for cross-platform validity.
 + [`scex`](https://github.com/fabiospampinato/scex) ![][PP] ![][D] ![][NODE] ![][CLI] : A simple runner for npm scripts that can execute multiple scripts, in serial or in parallel.
