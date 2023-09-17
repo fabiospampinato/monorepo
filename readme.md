@@ -135,6 +135,7 @@ Repositories listed below are marked with some of the following badges.
 + [`json-clone-deep`](https://github.com/fabiospampinato/json-clone-deep) ![][P] ![][D] ![][ISO] : Deep cloning based on JSON.
 + [`json-sorted-stringify`](https://github.com/fabiospampinato/json-sorted-stringify) ![][P] ![][D] ![][ISO] : Alternative JSON.stringify function with sorted keys, so the output is stable.
 - [`jsonc-simple-parser`](https://github.com/fabiospampinato/jsonc-simple-parser) : A simple JSON parser that supports comments and optional trailing commas.
++ [`kasi`](https://github.com/fabiospampinato/kasi) ![][P] ![][D] ![][ISO] ![][TREE] : A collection of functions for working with different casings.
 + [`khroma`](https://github.com/fabiospampinato/khroma) ![][P] ![][D] ![][ISO] ![][TREE] : A collection of functions for manipulating CSS colors, inspired by SASS.
 + [`lande`](https://github.com/fabiospampinato/lande) ![][PP] ![][DDD] ![][ISO] : A tiny neural network for natural language detection.
 + [`linkedom-global`](https://github.com/fabiospampinato/linkedom-global) ![][PPP] ![][DDD] ![][ISO] : Make Node a browser-like environment, by using LinkeDOM.
