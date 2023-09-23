@@ -177,7 +177,7 @@ Repositories listed below are marked with some of the following badges.
 + [`safex`](https://github.com/fabiospampinato/safex): ![PP] ![][D] ![][ISO] : A language for writing safe expressions, in a tiny subset of JavaScript.
 + [`sanitize-basename`](https://github.com/fabiospampinato/sanitize-basename) ![][P] ![][D] ![][ISO] : Sanitize a file name for cross-platform validity.
 + [`scex`](https://github.com/fabiospampinato/scex) ![][PP] ![][D] ![][NODE] ![][CLI] : A simple runner for npm scripts that can execute multiple scripts, in serial or in parallel.
-+ [`skex`](https://github.com/fabiospampinato/skex) ![][PP] ![][D] ![][ISO] : A modern schema validation and filtration library with great TypeScript support.
++ [`skex`](https://github.com/fabiospampinato/skex) ![][PP] ![][D] ![][ISO] ![][TREE] : A modern schema validation and filtration library with great TypeScript support.
 + [`secret`](https://github.com/fabiospampinato/secret) ![][PP] ![][D] ![][NODE] ![][CLI] : The simplest command to encrypt/decrypt a file, useful for committing encrypted ".env" files to version control, among other things.
 + [`shortcuts`](https://github.com/fabiospampinato/shortcuts) ![][PP] ![][DDD] ![][BROWSER] : Super performant and feature rich shortcuts management library.
 + [`shortcuts-font`](https://github.com/fabiospampinato/shortcuts-font) ![][P] ![][DDD] ![][NODE] : A minimal font designed to beutifully render characters used for representing shortcuts.
