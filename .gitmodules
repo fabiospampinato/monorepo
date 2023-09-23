@@ -781,3 +781,6 @@
 [submodule "repositories/kasi"]
 	path = repositories/kasi
 	url = https://github.com/fabiospampinato/kasi.git
+[submodule "repositories/json-oneline-stringify"]
+	path = repositories/json-oneline-stringify
+	url = https://github.com/fabiospampinato/json-oneline-stringify.git
