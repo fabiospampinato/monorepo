@@ -784,3 +784,6 @@
 [submodule "repositories/json-oneline-stringify"]
 	path = repositories/json-oneline-stringify
 	url = https://github.com/fabiospampinato/json-oneline-stringify.git
+[submodule "repositories/highmate"]
+	path = repositories/highmate
+	url = https://github.com/fabiospampinato/highmate.git
