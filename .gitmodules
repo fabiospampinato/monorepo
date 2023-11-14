@@ -787,3 +787,6 @@
 [submodule "repositories/highmate"]
 	path = repositories/highmate
 	url = https://github.com/fabiospampinato/highmate.git
+[submodule "repositories/ini-simple-parser"]
+	path = repositories/ini-simple-parser
+	url = https://github.com/fabiospampinato/ini-simple-parser.git
