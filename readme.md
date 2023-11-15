@@ -205,6 +205,7 @@ Repositories listed below are marked with some of the following badges.
 + [`tiny-cursor`](https://github.com/fabiospampinato/tiny-cursor) ![][PP] ![][D] ![][NODE] : A tiny library for hiding and showing the cursor in the terminal.
 + [`tiny-dirname`](https://github.com/fabiospampinato/tiny-dirname) ![][P] ![][D] ![][ISO] : A tiny isomorphic ESM alternative to Node's "__dirname" global.
 + [`tiny-divider`](https://github.com/fabiospampinato/tiny-divider) ![][PP] ![][D] ![][ISO] : A tiny simple terminal divider that spans the entire width of the terminal.
++ [`tiny-editorconfig`](https://github.com/fabiospampinato/tiny-editorconfig) ![][PP] ![][D] ![][ISO] : A tiny isomorphic parser and resolver for EditorConfig.
 + [`tiny-encryptor`](https://github.com/fabiospampinato/tiny-encryptor) ![][PP] ![][D] ![][ISO] : A tiny opinionated isomorphic library for encrypting and decrypting with ease.
 + [`tiny-filename`](https://github.com/fabiospampinato/tiny-filename) ![][P] ![][D] ![][ISO] : A tiny isomorphic ESM alternative to Node's "__filename" global.
 + [`tiny-jsonc`](https://github.com/fabiospampinato/tiny-jsonc) ![][P] ![][DD] ![][ISO] : An absurdly small JSONC parser.

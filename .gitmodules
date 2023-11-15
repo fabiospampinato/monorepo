@@ -790,3 +790,6 @@
 [submodule "repositories/ini-simple-parser"]
 	path = repositories/ini-simple-parser
 	url = https://github.com/fabiospampinato/ini-simple-parser.git
+[submodule "repositories/tiny-editorconfig"]
+	path = repositories/tiny-editorconfig
+	url = https://github.com/fabiospampinato/tiny-editorconfig.git
