@@ -793,3 +793,6 @@
 [submodule "repositories/tiny-editorconfig"]
 	path = repositories/tiny-editorconfig
 	url = https://github.com/fabiospampinato/tiny-editorconfig.git
+[submodule "repositories/tiny-readdir-glob"]
+	path = repositories/tiny-readdir-glob
+	url = https://github.com/fabiospampinato/tiny-readdir-glob.git
