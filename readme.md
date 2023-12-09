@@ -101,6 +101,7 @@ Repositories listed below are marked with some of the following badges.
 + [`entities-standard`](https://github.com/fabiospampinato/entities-standard) ![][P] ![][D] ![][ISO] : An object mapping ~2000 standard HTML entities to their value.
 + [`event-loop-yielder`](https://github.com/fabiospampinato/event-loop-yielder) ![][PP] ![][D] ![][ISO] ![][TREE] : A collection of strategies for yielding to the event loop, to avoid blocking for too long.
 + [`ext2mime`](https://github.com/fabiospampinato/ext2mime) ![][PP] ![][D] ![][ISO] : Convert a file extension to a mime type. It works only with popular file extensions and it's super lightweight.
++ [`fast-ignore`](https://github.com/fabiospampinato/fast-ignore) ![][PP] ![][D] ![][ISO] : A fast parser and processor for .gitignore files.
 + [`fast-mod-exp`](https://github.com/fabiospampinato/fast-mod-exp) ![][P] ![][D] ![][ISO] : Fast modular exponentiation function, for numbers and bigints.
 + [`fava`](https://github.com/fabiospampinato/fava) ![][PP] ![][D] ![][ISO] ![][CLI] : A wannabe tiny largely-drop-in replacement for ava that works in the browser too.
 + [`fetch-shim`](https://github.com/fabiospampinato/fetch-shim) ![][PPP] ![][D] ![][ISO] : A tiny isomoprhic Fetch function, it just gives you the native one if available, or the one from undici.

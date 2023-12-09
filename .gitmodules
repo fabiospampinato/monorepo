@@ -796,3 +796,6 @@
 [submodule "repositories/tiny-readdir-glob"]
 	path = repositories/tiny-readdir-glob
 	url = https://github.com/fabiospampinato/tiny-readdir-glob.git
+[submodule "repositories/fast-ignore"]
+	path = repositories/fast-ignore
+	url = https://github.com/fabiospampinato/fast-ignore.git
