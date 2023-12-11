@@ -799,3 +799,6 @@
 [submodule "repositories/fast-ignore"]
 	path = repositories/fast-ignore
 	url = https://github.com/fabiospampinato/fast-ignore.git
+[submodule "repositories/fileurl2path"]
+	path = repositories/fileurl2path
+	url = https://github.com/fabiospampinato/fileurl2path.git
