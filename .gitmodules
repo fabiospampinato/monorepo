@@ -802,3 +802,6 @@
 [submodule "repositories/fileurl2path"]
 	path = repositories/fileurl2path
 	url = https://github.com/fabiospampinato/fileurl2path.git
+[submodule "repositories/known-symbols"]
+	path = repositories/known-symbols
+	url = https://github.com/fabiospampinato/known-symbols.git
