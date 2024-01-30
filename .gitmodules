@@ -805,3 +805,9 @@
 [submodule "repositories/known-symbols"]
 	path = repositories/known-symbols
 	url = https://github.com/fabiospampinato/known-symbols.git
+[submodule "repositories/siero"]
+	path = repositories/siero
+	url = https://github.com/fabiospampinato/siero.git
+[submodule "repositories/siero-worker"]
+	path = repositories/siero-worker
+	url = https://github.com/fabiospampinato/siero-worker.git
