@@ -184,7 +184,7 @@ Repositories listed below are marked with some of the following badges.
 + [`sanitize-basename`](https://github.com/fabiospampinato/sanitize-basename) ![][P] ![][D] ![][ISO] : Sanitize a file name for cross-platform validity.
 + [`scex`](https://github.com/fabiospampinato/scex) ![][PP] ![][D] ![][NODE] ![][CLI] : A simple runner for npm scripts that can execute multiple scripts, in serial or in parallel.
 + [`siero`](https://github.com/fabiospampinato/siero) ![][PP] ![][D] ![][ISO] : A serialization library that can handle functions, promises and symbols too.
-+ [`siero-worker`](https://github.com/fabiospampinato/siero-worker) ![][PP] ![][D] ![][ISO] : A managed worker that can be interacted with via Siero.
++ [`siero-worker`](https://github.com/fabiospampinato/siero-worker) ![][PP] ![][DD] ![][ISO] : A managed worker that can be interacted with via Siero.
 + [`skex`](https://github.com/fabiospampinato/skex) ![][PP] ![][D] ![][ISO] ![][TREE] : A modern schema validation and filtration library with great TypeScript support.
 + [`secret`](https://github.com/fabiospampinato/secret) ![][PP] ![][D] ![][NODE] ![][CLI] : The simplest command to encrypt/decrypt a file, useful for committing encrypted ".env" files to version control, among other things.
 + [`shortcuts`](https://github.com/fabiospampinato/shortcuts) ![][PP] ![][DDD] ![][BROWSER] : Super performant and feature rich shortcuts management library.
