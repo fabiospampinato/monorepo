@@ -814,3 +814,6 @@
 [submodule "repositories/tokens-highlighter"]
 	path = repositories/tokens-highlighter
 	url = https://github.com/fabiospampinato/tokens-highlighter.git
+[submodule "repositories/textmate-highlighter"]
+	path = repositories/textmate-highlighter
+	url = https://github.com/fabiospampinato/textmate-highlighter.git

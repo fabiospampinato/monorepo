@@ -120,7 +120,6 @@ Repositories listed below are marked with some of the following badges.
 + [`happy-dom-global`](https://github.com/fabiospampinato/happy-dom-global) ![][PPP] ![][D] ![][NODE] : Make Node a browser-like environment, by using Happy DOM.
 + [`hex-encoding`](https://github.com/fabiospampinato/hex-encoding) ![][PP] ![][DDD] ![][ISO] : Hex encoding. An extremely fast and synchronous JS implementation.
 + [`hex-to-uint8`](https://github.com/fabiospampinato/hex-to-uint8) ![][PP] ![][DDD] ![][ISO] : The fastest function to convert a hexadecimal string to a Uint8Array.
-+ [`highmate`](https://github.com/fabiospampinato/highmate) ![][PPP] ![][DDD] ![][ISO] : An isomorphic syntax highlighter using TextMate grammars and VSCode themes.
 + [`html2markdown`](https://github.com/notable/html2markdown) ![][PPP] ![][DDD] ![][ISO] : A small function for converting HTML to Markdown.
 + [`html-segmentator`](https://github.com/fabiospampinato/html-segmentator) ![][PPP] ![][D] ![][ISO] : A small library for splitting an HTML string into its top-level sections. Based on html5parser.
 + [`huffy`](https://github.com/fabiospampinato/huffy) ![][P] ![][DDD] ![][ISO] ![][TREE] : A tiny compression library based on Huffman coding.
@@ -203,6 +202,7 @@ Repositories listed below are marked with some of the following badges.
 + [`stubborn-fs`](https://github.com/fabiospampinato/stubborn-fs) ![][P] ![][DD] ![][NODE] : Stubborn versions of Node's fs functions that try really hard to do their job.
 + [`template`](https://github.com/fabiospampinato/template) ![][PPP] ![][DDD] ![][NODE] ![][CLI] : A super-simple way to create new projects based on templates.
 + [`test-diff`](https://github.com/fabiospampinato/test-diff) ![][PP] ![][D] ![][NODE] : Library for writing tests that diff the excepted output with the actual output.
++ [`textmate-highlighter`](https://github.com/fabiospampinato/textmate-highlighter) ![][PPP] ![][DDD] ![][ISO] : An isomorphic syntax highlighter using TextMate grammars and VSCode themes.
 + [`tiny-bin`](https://github.com/fabiospampinato/tiny-bin) ![][PP] ![][D] ![][NODE] : A library for building tiny and beautiful command line apps.
 + [`tiny-buffer`](https://github.com/fabiospampinato/tiny-buffer) ![][PP] ![][DDD] ![][ISO] : A tiny isomorphic implementation of a large subset of Node's Buffer.
 + [`tiny-colors`](https://github.com/fabiospampinato/tiny-colors) ![][P] ![][D] ![][ISO] : A tiny library providing the basic ANSI colors for the terminal.
