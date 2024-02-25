@@ -817,3 +817,6 @@
 [submodule "repositories/textmate-highlighter"]
 	path = repositories/textmate-highlighter
 	url = https://github.com/fabiospampinato/textmate-highlighter.git
+[submodule "repositories/fast-string-width"]
+	path = repositories/fast-string-width
+	url = https://github.com/fabiospampinato/fast-string-width.git
