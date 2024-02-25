@@ -43,7 +43,7 @@ Repositories listed below are marked with some of the following badges.
 + [`aborter`](https://github.com/fabiospampinato/aborter) ![][P] ![][D] ![][ISO] : A minimal reimplementation of AbortController and AbortSignal.
 + [`amuchina`](https://github.com/fabiospampinato/amuchina) ![][P] ![][DDD] ![][ISO] : A work-in-progress HTML sanitizer that strives for: performance like window.Sanitizer, readiness like DOMPurify, and ability to run in a WebWorker like neither of those.
 + [`ansi-purge`](https://github.com/fabiospampinato/ansi-purge) ![][P] ![][DD] ![][ISO] : A tiny function for deleting ANSI escape sequences from a string.
-+ [`ansi-truncate`](https://github.com/fabiospampinato/ansi-truncate) ![][P] ![][DD] ![][ISO] : A tiny function for truncating a string that may contain ANSI escape sequences.
++ [`ansi-truncate`](https://github.com/fabiospampinato/ansi-truncate) ![][PP] ![][DD] ![][ISO] : A tiny function for truncating a string that may contain ANSI escape sequences.
 + [`are-deeply-equal`](https://github.com/fabiospampinato/are-deeply-equal) ![][P] ![][D] ![][ISO] : Check if two values are deeply equal to each other.
 + [`are-shallow-equal`](https://github.com/fabiospampinato/are-shallow-equal) ![][P] ![][D] ![][ISO] : Check if two values are shallowly equal to each other.
 + [`atomically`](https://github.com/fabiospampinato/atomically) ![][PP] ![][DDD] ![][NODE] : Write files atomically and reliably.
