@@ -820,3 +820,6 @@
 [submodule "repositories/fast-string-width"]
 	path = repositories/fast-string-width
 	url = https://github.com/fabiospampinato/fast-string-width.git
+[submodule "repositories/fast-string-truncated-width"]
+	path = repositories/fast-string-truncated-width
+	url = https://github.com/fabiospampinato/fast-string-truncated-width.git
