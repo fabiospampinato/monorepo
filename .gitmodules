@@ -823,3 +823,6 @@
 [submodule "repositories/fast-string-truncated-width"]
 	path = repositories/fast-string-truncated-width
 	url = https://github.com/fabiospampinato/fast-string-truncated-width.git
+[submodule "repositories/ansi-pad"]
+	path = repositories/ansi-pad
+	url = https://github.com/fabiospampinato/ansi-pad.git
