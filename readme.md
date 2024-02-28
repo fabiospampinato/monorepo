@@ -118,6 +118,7 @@ Repositories listed below are marked with some of the following badges.
 + [`get-unused-path`](https://github.com/fabiospampinato/get-unused-path) ![][PP] ![][D] ![][NODE] : Reliably get an unused path you can write to.
 + [`github-logger`](https://github.com/fabiospampinato/github-logger) ![][PP] ![][D] ![][ISO] ![][TREE] : A simple logger for GitHub repositories, with various backends.
 + [`gitman`](https://github.com/fabiospampinato/gitman) ![][PP] ![][D] ![][NODE] ![][CLI] : A simple yet powerful opinionated tool for managing GitHub repositories.
++ [`glow-highlighter`](https://github.com/fabiospampinato/glow-highlighter) ![][PPP] ![][DDD] ![][ISO] : An isomorphic syntax highlighter for Glow.
 + [`grammex`](https://github.com/fabiospampinato/grammex) ![][P] ![][D] ![][ISO] ![][TREE] : A tiny PEG-like system for building language grammars with regexes.
 + [`graphviz-wasm`](https://github.com/fabiospampinato/graphviz-wasm) ![][PPP] ![][D] ![][ISO] : A port of Graphviz to WASM.
 + [`happy-dom-global`](https://github.com/fabiospampinato/happy-dom-global) ![][PPP] ![][D] ![][NODE] : Make Node a browser-like environment, by using Happy DOM.

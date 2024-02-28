@@ -826,3 +826,6 @@
 [submodule "repositories/ansi-pad"]
 	path = repositories/ansi-pad
 	url = https://github.com/fabiospampinato/ansi-pad.git
+[submodule "repositories/glow-highlighter"]
+	path = repositories/glow-highlighter
+	url = https://github.com/fabiospampinato/glow-highlighter.git
