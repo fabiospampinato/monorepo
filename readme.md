@@ -227,7 +227,7 @@ Repositories listed below are marked with some of the following badges.
 + [`tiny-truncate`](https://github.com/fabiospampinato/tiny-truncate) ![][PP] ![][DD] ![][ISO] : A tiny function for truncating a string which may containg ANSI escapes, with automatic terminal width detection.
 + [`tiny-updater`](https://github.com/fabiospampinato/tiny-updater) ![][PP] ![][D] ![][ISO] : The smallest update notifier for NPM packages, useful for CLI apps.
 + [`tiny-webcrypto`](https://github.com/fabiospampinato/tiny-webcrypto) ![][P] ![][D] ![][ISO] : A tiny isomorphic WebCrypto object, it just gives you the native one the current platform provides.
-+ [`tokens-highlighter`](https://github.com/fabiospampinato/tokens-highlighter) ![][PP] ![][D] ![][ISO] : A general syntax highlighter that can render syntax highlighting tokens.
++ [`tokens-highlighter`](https://github.com/fabiospampinato/tokens-highlighter) ![][PP] ![][DDD] ![][ISO] : A general syntax highlighter that can render syntax highlighting tokens.
 + [`toygrad`](https://github.com/fabiospampinato/toygrad) ![][P] ![][DDD] ![][ISO] ![][TREE] : A toy library for building simple neural networks which can be serialized to compact JSON.
 + [`tryloop`](https://github.com/fabiospampinato/tryloop) ![][P] ![][D] ![][ISO] : Simple library for retrying operations, it supports multiple backoff strategies.
 + [`tsex`](https://github.com/fabiospampinato/tsex) ![][PP] ![][D] ![][NODE] ![][CLI] : A little CLI for making TypeScript packages, cleanly and effortlessly.
