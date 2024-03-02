@@ -829,3 +829,6 @@
 [submodule "repositories/glow-highlighter"]
 	path = repositories/glow-highlighter
 	url = https://github.com/fabiospampinato/glow-highlighter.git
+[submodule "repositories/vscode-open-devtools"]
+	path = repositories/vscode-open-devtools
+	url = https://github.com/fabiospampinato/vscode-open-devtools.git
