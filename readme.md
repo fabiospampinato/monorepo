@@ -110,7 +110,7 @@ Repositories listed below are marked with some of the following badges.
 + [`fetch-shim`](https://github.com/fabiospampinato/fetch-shim) ![][PPP] ![][D] ![][ISO] : A tiny isomoprhic Fetch function, it just gives you the native one if available, or the one from undici.
 + [`fileurl2path`](https://github.com/fabiospampinato/fileurl2path) ![][P] ![][D] ![][ISO] : A tiny function for converting a file URL to a file path.
 + [`file-pollex`](https://github.com/fabiospampinato/file-pollex) ![][P] ![][D] ![][NODE] : A tiny hybrid filesystem watcher for a single file.
-+ [`find-up-json`](https://github.com/fabiospampinato/find-up-json) ![][P] ![][D] ![][NODE] : Find, read and parse the first matching file found walking the filesystem upwards.
++ [`find-up-json`](https://github.com/fabiospampinato/find-up-json) ![][PP] ![][D] ![][NODE] : Find, read and parse the first matching file found walking the filesystem upwards.
 + [`find-up-path`](https://github.com/fabiospampinato/find-up-path) ![][P] ![][D] ![][NODE] : Find the path of the first file matching a given name, walking the filesystem upwards.
 + [`flimsy`](https://github.com/fabiospampinato/flimsy) ![][P] ![][D] ![][ISO] : A single-file <1kb min+gzip simplified implementation of the reactive core of Solid, optimized for clean code.
 + [`function-once`](https://github.com/fabiospampinato/function-once) ![][P] ![][D] ![][ISO] : Wraps a function so that it's only ever executed once.
