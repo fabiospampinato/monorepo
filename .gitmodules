@@ -832,3 +832,6 @@
 [submodule "repositories/vscode-open-devtools"]
 	path = repositories/vscode-open-devtools
 	url = https://github.com/fabiospampinato/vscode-open-devtools.git
+[submodule "repositories/find-up-path"]
+	path = repositories/find-up-path
+	url = https://github.com/fabiospampinato/find-up-path.git
