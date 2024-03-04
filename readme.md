@@ -243,6 +243,7 @@ Repositories listed below are marked with some of the following badges.
 + [`utf16le-encoding`](https://github.com/fabiospampinato/utf16le-encoding) ![][PP] ![][DDD] ![][ISO] : UTF16-le encoding, a.k.a. UCS2 encoding, an encoding you probably should never use.
 - [`voby`](https://github.com/vobyjs/voby) : A high-performance framework with fine-grained observable-based reactivity for building rich applications.
 + [`voby-simple-router`](https://github.com/fabiospampinato/voby-simple-router) ![][PP] ![][DD] ![ISO] : A simple isomorphic router for Voby.
++ [`vscode-extras`](https://github.com/fabiospampinato/vscode-extras) ![][PP] ![][D] ![NODE] : A collection of utilities for development vscode extensions.
 + [`watcher`](https://github.com/fabiospampinato/watcher) ![][PP] ![][D] ![][NODE] : The file system watcher that strives for perfection, with no native dependencies and optional rename detection support.
 + [`webworker-shim`](https://github.com/fabiospampinato/webworker-shim) ![][P] ![][D] ![][ISO] : A tiny shim for WebWorker (data URI only) that works in Node.
 + [`when-exit`](https://github.com/fabiospampinato/when-exit) ![][P] ![][D] ![][ISO] : Execute a function right before the process, or the browser's tab, is about to exit.

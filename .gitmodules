@@ -835,3 +835,6 @@
 [submodule "repositories/find-up-path"]
 	path = repositories/find-up-path
 	url = https://github.com/fabiospampinato/find-up-path.git
+[submodule "repositories/vscode-extras"]
+	path = repositories/vscode-extras
+	url = https://github.com/fabiospampinato/vscode-extras.git
