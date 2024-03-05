@@ -287,7 +287,7 @@ Repositories listed below are marked with some of the following badges.
 - [`vscode-open-in-browsers`](https://github.com/fabiospampinato/vscode-open-in-browsers) : Adds some commands for opening the current file or project in any browser you like, even all of them simultaneously.
 - [`vscode-open-in-code`](https://github.com/fabiospampinato/vscode-open-in-code) : Switch between Code and Code Insiders with ease.
 - [`vscode-open-in-finder`](https://github.com/fabiospampinato/vscode-open-in-finder) : Adds a few commands for opening the current file or project in Finder.
-- [`vscode-open-in-github`](https://github.com/fabiospampinato/vscode-open-in-github) : Open the current project or file in github.com.
+- [`vscode-open-in-github`](https://github.com/fabiospampinato/vscode-open-in-github) ![][PP] ![][DDD] : Open the current project or file in github.com.
 - [`vscode-open-in-gittower`](https://github.com/fabiospampinato/vscode-open-in-gittower) : Adds a command for opening the current project in GitTower.
 - [`vscode-open-in-marketplace`](https://github.com/fabiospampinato/vscode-open-in-marketplace) : Adds a command for opening the current project in the Marketplace.
 - [`vscode-open-in-node-modules`](https://github.com/fabiospampinato/vscode-open-in-node-modules) : Open the current selection or arbitrary string in node_modules.
