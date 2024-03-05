@@ -291,7 +291,7 @@ Repositories listed below are marked with some of the following badges.
 - [`vscode-open-in-gittower`](https://github.com/fabiospampinato/vscode-open-in-gittower) ![][PPP] ![][DDD] : Adds a command for opening the current project in GitTower.
 - [`vscode-open-in-marketplace`](https://github.com/fabiospampinato/vscode-open-in-marketplace) ![][PP] ![][DDD] : Adds a command for opening the current project in the Marketplace.
 - [`vscode-open-in-node-modules`](https://github.com/fabiospampinato/vscode-open-in-node-modules) : Open the current selection or arbitrary string in node_modules.
-- [`vscode-open-in-npm`](https://github.com/fabiospampinato/vscode-open-in-npm) : Open the current selection, project, or arbitrary string, in npmjs.com.
+- [`vscode-open-in-npm`](https://github.com/fabiospampinato/vscode-open-in-npm) ![][PP] ![][DDD] : Open the current selection, project, or arbitrary string, in npmjs.com.
 - [`vscode-open-in-ship`](https://github.com/fabiospampinato/vscode-open-in-ship) : Adds a command for opening the current project in Ship.
 - [`vscode-open-in-terminal`](https://github.com/fabiospampinato/vscode-open-in-terminal) : Adds a few commands for opening the current project in Terminal.
 - [`vscode-open-in-transmit`](https://github.com/fabiospampinato/vscode-open-in-transmit) : Adds a few commands for opening the current file or project in Transmit.
