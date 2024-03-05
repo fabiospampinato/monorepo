@@ -293,7 +293,7 @@ Repositories listed below are marked with some of the following badges.
 - [`vscode-open-in-node-modules`](https://github.com/fabiospampinato/vscode-open-in-node-modules) : Open the current selection or arbitrary string in node_modules.
 + [`vscode-open-in-npm`](https://github.com/fabiospampinato/vscode-open-in-npm) ![][PP] ![][DDD] : Open the current selection, project, or arbitrary string, in npmjs.com.
 - [`vscode-open-in-terminal`](https://github.com/fabiospampinato/vscode-open-in-terminal) : Adds a few commands for opening the current project in Terminal.
-- [`vscode-open-in-transmit`](https://github.com/fabiospampinato/vscode-open-in-transmit) : Adds a few commands for opening the current file or project in Transmit.
++ [`vscode-open-in-transmit`](https://github.com/fabiospampinato/vscode-open-in-transmit) ![][PP] ![][DDD] : Adds a few commands for opening the current file or project in Transmit.
 - [`vscode-open-multiple-files`](https://github.com/fabiospampinato/vscode-open-multiple-files) : Open all files in a folder at once, optionally filtering by a glob.
 - [`vscode-optimize-images`](https://github.com/fabiospampinato/vscode-optimize-images) : Optimize one or all the images in your project using your favorite app.
 - [`vscode-projects-plus-todo-plus`](https://github.com/fabiospampinato/vscode-projects-plus-todo-plus) : Bird's-eye view over your projects, view all your todo files aggregated into one.
