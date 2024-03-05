@@ -289,7 +289,7 @@ Repositories listed below are marked with some of the following badges.
 - [`vscode-open-in-finder`](https://github.com/fabiospampinato/vscode-open-in-finder) ![][PP] ![][DDD] : Adds a few commands for opening the current file or project in Finder.
 - [`vscode-open-in-github`](https://github.com/fabiospampinato/vscode-open-in-github) ![][PP] ![][DDD] : Open the current project or file in github.com.
 - [`vscode-open-in-gittower`](https://github.com/fabiospampinato/vscode-open-in-gittower) ![][PPP] ![][DDD] : Adds a command for opening the current project in GitTower.
-- [`vscode-open-in-marketplace`](https://github.com/fabiospampinato/vscode-open-in-marketplace) : Adds a command for opening the current project in the Marketplace.
+- [`vscode-open-in-marketplace`](https://github.com/fabiospampinato/vscode-open-in-marketplace) ![][PP] ![][DDD] : Adds a command for opening the current project in the Marketplace.
 - [`vscode-open-in-node-modules`](https://github.com/fabiospampinato/vscode-open-in-node-modules) : Open the current selection or arbitrary string in node_modules.
 - [`vscode-open-in-npm`](https://github.com/fabiospampinato/vscode-open-in-npm) : Open the current selection, project, or arbitrary string, in npmjs.com.
 - [`vscode-open-in-ship`](https://github.com/fabiospampinato/vscode-open-in-ship) : Adds a command for opening the current project in Ship.
