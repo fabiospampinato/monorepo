@@ -282,17 +282,16 @@ Repositories listed below are marked with some of the following badges.
 - [`vscode-highlight`](https://github.com/fabiospampinato/vscode-highlight) : Advanced text highlighter based on regexes. Useful for todos, annotations etc.
 - [`vscode-markdown-todo`](https://github.com/fabiospampinato/vscode-markdown-todo) : Manage todo lists inside markdown files with ease.
 - [`vscode-monokai-night`](https://github.com/fabiospampinato/vscode-monokai-night) : A complete, dark and minimalistic Monokai-inspired theme.
-- [`vscode-open-devtools`](https://github.com/fabiospampinato/vscode-open-devtools) ![][PPP] ![][DDD] : A simple extension for opening DevTools windows listed under chrome://inspect.
++ [`vscode-open-devtools`](https://github.com/fabiospampinato/vscode-open-devtools) ![][PPP] ![][DDD] : A simple extension for opening DevTools windows listed under chrome://inspect.
 - [`vscode-open-in-application`](https://github.com/fabiospampinato/vscode-open-in-application) : Open an arbitrary file in its default app, or the app you want.
 - [`vscode-open-in-browsers`](https://github.com/fabiospampinato/vscode-open-in-browsers) : Adds some commands for opening the current file or project in any browser you like, even all of them simultaneously.
 - [`vscode-open-in-code`](https://github.com/fabiospampinato/vscode-open-in-code) : Switch between Code and Code Insiders with ease.
-- [`vscode-open-in-finder`](https://github.com/fabiospampinato/vscode-open-in-finder) ![][PP] ![][DDD] : Adds a few commands for opening the current file or project in Finder.
-- [`vscode-open-in-github`](https://github.com/fabiospampinato/vscode-open-in-github) ![][PP] ![][DDD] : Open the current project or file in github.com.
-- [`vscode-open-in-gittower`](https://github.com/fabiospampinato/vscode-open-in-gittower) ![][PPP] ![][DDD] : Adds a command for opening the current project in GitTower.
-- [`vscode-open-in-marketplace`](https://github.com/fabiospampinato/vscode-open-in-marketplace) ![][PP] ![][DDD] : Adds a command for opening the current project in the Marketplace.
++ [`vscode-open-in-finder`](https://github.com/fabiospampinato/vscode-open-in-finder) ![][PP] ![][DDD] : Adds a few commands for opening the current file or project in Finder.
++ [`vscode-open-in-github`](https://github.com/fabiospampinato/vscode-open-in-github) ![][PP] ![][DDD] : Open the current project or file in github.com.
++ [`vscode-open-in-gittower`](https://github.com/fabiospampinato/vscode-open-in-gittower) ![][PPP] ![][DDD] : Adds a command for opening the current project in GitTower.
++ [`vscode-open-in-marketplace`](https://github.com/fabiospampinato/vscode-open-in-marketplace) ![][PP] ![][DDD] : Adds a command for opening the current project in the Marketplace.
 - [`vscode-open-in-node-modules`](https://github.com/fabiospampinato/vscode-open-in-node-modules) : Open the current selection or arbitrary string in node_modules.
-- [`vscode-open-in-npm`](https://github.com/fabiospampinato/vscode-open-in-npm) ![][PP] ![][DDD] : Open the current selection, project, or arbitrary string, in npmjs.com.
-- [`vscode-open-in-ship`](https://github.com/fabiospampinato/vscode-open-in-ship) : Adds a command for opening the current project in Ship.
++ [`vscode-open-in-npm`](https://github.com/fabiospampinato/vscode-open-in-npm) ![][PP] ![][DDD] : Open the current selection, project, or arbitrary string, in npmjs.com.
 - [`vscode-open-in-terminal`](https://github.com/fabiospampinato/vscode-open-in-terminal) : Adds a few commands for opening the current project in Terminal.
 - [`vscode-open-in-transmit`](https://github.com/fabiospampinato/vscode-open-in-transmit) : Adds a few commands for opening the current file or project in Transmit.
 - [`vscode-open-multiple-files`](https://github.com/fabiospampinato/vscode-open-multiple-files) : Open all files in a folder at once, optionally filtering by a glob.
