@@ -284,7 +284,7 @@ Repositories listed below are marked with some of the following badges.
 - [`vscode-monokai-night`](https://github.com/fabiospampinato/vscode-monokai-night) : A complete, dark and minimalistic Monokai-inspired theme.
 + [`vscode-open-devtools`](https://github.com/fabiospampinato/vscode-open-devtools) ![][PPP] ![][DDD] : A simple extension for opening DevTools windows listed under chrome://inspect.
 + [`vscode-open-in-application`](https://github.com/fabiospampinato/vscode-open-in-application) ![][PPP] ![][DDD] : Open an arbitrary file in its default app, or the app you want.
-- [`vscode-open-in-browsers`](https://github.com/fabiospampinato/vscode-open-in-browsers) : Adds some commands for opening the current file or project in any browser you like, even all of them simultaneously.
++ [`vscode-open-in-browsers`](https://github.com/fabiospampinato/vscode-open-in-browsers) ![][PPP] ![][DDD] : Adds some commands for opening the current file or project in any browser you like, even all of them simultaneously.
 - [`vscode-open-in-code`](https://github.com/fabiospampinato/vscode-open-in-code) : Switch between Code and Code Insiders with ease.
 + [`vscode-open-in-finder`](https://github.com/fabiospampinato/vscode-open-in-finder) ![][PP] ![][DDD] : Adds a few commands for opening the current file or project in Finder.
 + [`vscode-open-in-github`](https://github.com/fabiospampinato/vscode-open-in-github) ![][PP] ![][DDD] : Open the current project or file in github.com.
