@@ -272,7 +272,7 @@ Repositories listed below are marked with some of the following badges.
 
 ### VSCode Extensions
 
-- [`vscode-browser-refresh`](https://github.com/fabiospampinato/vscode-browser-refresh) : Refresh the browser with a ⌘R, right from Code. No need to switch focus to it.
++ [`vscode-browser-refresh`](https://github.com/fabiospampinato/vscode-browser-refresh) ![][PP] ![][DDD] : Refresh the browser with a ⌘R, right from Code. No need to switch focus to it.
 - [`vscode-bump`](https://github.com/fabiospampinato/vscode-bump) : Bump your project's version and update the changelog. Opinionated but configurable.
 - [`vscode-commands`](https://github.com/fabiospampinato/vscode-commands) : Trigger arbitrary commands from the statusbar. Supports passing arguments!
 - [`vscode-debug-launcher`](https://github.com/fabiospampinato/vscode-debug-launcher) : Start debugging, without having to define any tasks or launch configurations, even from the terminal.
