@@ -838,3 +838,6 @@
 [submodule "repositories/vscode-extras"]
 	path = repositories/vscode-extras
 	url = https://github.com/fabiospampinato/vscode-extras.git
+[submodule "repositories/tiny-browser-open"]
+	path = repositories/tiny-browser-open
+	url = https://github.com/fabiospampinato/tiny-browser-open.git

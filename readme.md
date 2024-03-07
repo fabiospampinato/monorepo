@@ -209,6 +209,7 @@ Repositories listed below are marked with some of the following badges.
 + [`test-diff`](https://github.com/fabiospampinato/test-diff) ![][PP] ![][D] ![][NODE] : Library for writing tests that diff the excepted output with the actual output.
 + [`textmate-highlighter`](https://github.com/fabiospampinato/textmate-highlighter) ![][PPP] ![][DDD] ![][ISO] : An isomorphic syntax highlighter using TextMate grammars and VSCode themes.
 + [`tiny-bin`](https://github.com/fabiospampinato/tiny-bin) ![][PP] ![][D] ![][NODE] : A library for building tiny and beautiful command line apps.
++ [`tiny-browser-open`](https://github.com/fabiospampinato/tiny-browser-open) ![][PP] ![][D] ![][NODE] : A tiny utility for opening a file or a URL inside a browser of your choosing.
 + [`tiny-buffer`](https://github.com/fabiospampinato/tiny-buffer) ![][PP] ![][DDD] ![][ISO] : A tiny isomorphic implementation of a large subset of Node's Buffer.
 + [`tiny-colors`](https://github.com/fabiospampinato/tiny-colors) ![][P] ![][D] ![][ISO] : A tiny library providing the basic ANSI colors for the terminal.
 + [`tiny-compressor`](https://github.com/fabiospampinato/tiny-compressor) ![][PP] ![][D] ![][ISO] : A tiny isomorphic compression library that leverages CompressionStream and DecompressionStream.
