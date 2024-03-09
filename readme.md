@@ -299,7 +299,7 @@ Repositories listed below are marked with some of the following badges.
 - [`vscode-optimize-images`](https://github.com/fabiospampinato/vscode-optimize-images) : Optimize one or all the images in your project using your favorite app.
 - [`vscode-projects-plus-todo-plus`](https://github.com/fabiospampinato/vscode-projects-plus-todo-plus) : Bird's-eye view over your projects, view all your todo files aggregated into one.
 - [`vscode-projects-plus`](https://github.com/fabiospampinato/vscode-projects-plus) : An extension for managing projects. Feature rich, customizable, automatically finds your projects.
-- [`vscode-search-open-all-results`](https://github.com/fabiospampinato/vscode-search-open-all-results) : Open all search results at once with a single command.
++ [`vscode-search-open-all-results`](https://github.com/fabiospampinato/vscode-search-open-all-results) ![][PP] ![][DDD] : Open all search results at once with a single command.
 - [`vscode-statusbar-debugger`](https://github.com/fabiospampinato/vscode-statusbar-debugger) : Adds a debugger to the statusbar, less intrusive than the default floating one.
 - [`vscode-terminals`](https://github.com/fabiospampinato/vscode-terminals) : An extension for setting-up multiple terminals at once, or just running some commands.
 - [`vscode-todo-plus`](https://github.com/fabiospampinato/vscode-todo-plus) : Manage todo lists with ease. Powerful, easy to use and customizable.
