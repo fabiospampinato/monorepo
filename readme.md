@@ -275,7 +275,6 @@ Repositories listed below are marked with some of the following badges.
 + [`vscode-browser-refresh`](https://github.com/fabiospampinato/vscode-browser-refresh) ![][PP] ![][DDD] : Refresh the browser with a ⌘R, right from Code. No need to switch focus to it.
 - [`vscode-bump`](https://github.com/fabiospampinato/vscode-bump) : Bump your project's version and update the changelog. Opinionated but configurable.
 - [`vscode-commands`](https://github.com/fabiospampinato/vscode-commands) : Trigger arbitrary commands from the statusbar. Supports passing arguments!
-- [`vscode-debug-launcher`](https://github.com/fabiospampinato/vscode-debug-launcher) : Start debugging, without having to define any tasks or launch configurations, even from the terminal.
 - [`vscode-diff`](https://github.com/fabiospampinato/vscode-diff) : Diff 2 opened files with ease. Because running `code --diff path1 path2` is too slow.
 - [`vscode-git-history`](https://github.com/fabiospampinato/vscode-git-history) : View or diff against previous versions of the current file.
 + [`vscode-github-notifications-bell`](https://github.com/fabiospampinato/vscode-github-notifications-bell) ![][PP] ![][DDD] : A secure, customizable, statusbar bell that notifies you about notifications on github.
