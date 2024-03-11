@@ -218,6 +218,7 @@ Repositories listed below are marked with some of the following badges.
 + [`tiny-divider`](https://github.com/fabiospampinato/tiny-divider) ![][PP] ![][D] ![][ISO] : A tiny simple terminal divider that spans the entire width of the terminal.
 + [`tiny-editorconfig`](https://github.com/fabiospampinato/tiny-editorconfig) ![][PP] ![][D] ![][ISO] : A tiny isomorphic parser and resolver for EditorConfig.
 + [`tiny-encryptor`](https://github.com/fabiospampinato/tiny-encryptor) ![][PP] ![][D] ![][ISO] : A tiny opinionated isomorphic library for encrypting and decrypting with ease.
++ [`tiny-exec`](https://github.com/fabiospampinato/tiny-exec) ![][P] ![][D] ![][NODE]: A tiny wrapper around \"spawn\" for executing a command efficiently and conveniently.
 + [`tiny-filename`](https://github.com/fabiospampinato/tiny-filename) ![][PP] ![][D] ![][ISO] : A tiny isomorphic ESM alternative to Node's "__filename" global.
 + [`tiny-jsonc`](https://github.com/fabiospampinato/tiny-jsonc) ![][P] ![][DD] ![][ISO] : An absurdly small JSONC parser.
 + [`tiny-levenshtein`](https://github.com/fabiospampinato/tiny-levenshtein) ![][P] ![][D] ![][ISO] : A tiny implementation of the Levenshtein edit distance algorithm.

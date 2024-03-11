@@ -841,3 +841,6 @@
 [submodule "repositories/tiny-browser-open"]
 	path = repositories/tiny-browser-open
 	url = https://github.com/fabiospampinato/tiny-browser-open.git
+[submodule "repositories/tiny-exec"]
+	path = repositories/tiny-exec
+	url = https://github.com/fabiospampinato/tiny-exec.git
