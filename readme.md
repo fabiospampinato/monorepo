@@ -276,7 +276,7 @@ Repositories listed below are marked with some of the following badges.
 + [`vscode-browser-refresh`](https://github.com/fabiospampinato/vscode-browser-refresh) ![][PP] ![][DDD] : Refresh the browser with a ⌘R, right from Code. No need to switch focus to it.
 - [`vscode-commands`](https://github.com/fabiospampinato/vscode-commands) : Trigger arbitrary commands from the statusbar. Supports passing arguments!
 - [`vscode-diff`](https://github.com/fabiospampinato/vscode-diff) : Diff 2 opened files with ease. Because running `code --diff path1 path2` is too slow.
-- [`vscode-git-history`](https://github.com/fabiospampinato/vscode-git-history) : View or diff against previous versions of the current file.
++ [`vscode-git-history`](https://github.com/fabiospampinato/vscode-git-history) ![][PP] ![][DDD] : View or diff against previous versions of the current file.
 + [`vscode-github-notifications-bell`](https://github.com/fabiospampinato/vscode-github-notifications-bell) ![][PP] ![][DDD] : A secure, customizable, statusbar bell that notifies you about notifications on github.
 + [`vscode-gitman`](https://github.com/fabiospampinato/vscode-gitman) ![][PP] ![][DDD] : Frontend for GitMan for switching quickly to other repositories.
 - [`vscode-highlight`](https://github.com/fabiospampinato/vscode-highlight) : Advanced text highlighter based on regexes. Useful for todos, annotations etc.
