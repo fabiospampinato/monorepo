@@ -302,7 +302,7 @@ Repositories listed below are marked with some of the following badges.
 + [`vscode-statusbar-debugger`](https://github.com/fabiospampinato/vscode-statusbar-debugger) ![][PP] ![][DDD] : Adds a debugger to the statusbar, less intrusive than the default floating one.
 - [`vscode-terminals`](https://github.com/fabiospampinato/vscode-terminals) : An extension for setting-up multiple terminals at once, or just running some commands.
 - [`vscode-todo-plus`](https://github.com/fabiospampinato/vscode-todo-plus) : Manage todo lists with ease. Powerful, easy to use and customizable.
-- [`vscode-transmit`](https://github.com/fabiospampinato/vscode-transmit) : Adds a few commands for interacting with Transmit.
++ [`vscode-transmit`](https://github.com/fabiospampinato/vscode-transmit) ![][PP] ![][DDD] : Adds a few commands for interacting with Transmit.
 
 ### Templates
 
