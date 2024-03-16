@@ -844,3 +844,6 @@
 [submodule "repositories/tiny-exec"]
 	path = repositories/tiny-exec
 	url = https://github.com/fabiospampinato/tiny-exec.git
+[submodule "repositories/vscode-js-beautify"]
+	path = repositories/vscode-js-beautify
+	url = https://github.com/fabiospampinato/vscode-js-beautify.git
