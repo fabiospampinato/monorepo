@@ -850,3 +850,6 @@
 [submodule "repositories/vscode-open-in-npm-graph"]
 	path = repositories/vscode-open-in-npm-graph
 	url = https://github.com/fabiospampinato/vscode-open-in-npm-graph.git
+[submodule "repositories/vscode-kasi"]
+	path = repositories/vscode-kasi
+	url = https://github.com/fabiospampinato/vscode-kasi.git
