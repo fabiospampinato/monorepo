@@ -293,6 +293,7 @@ Repositories listed below are marked with some of the following badges.
 + [`vscode-open-in-marketplace`](https://github.com/fabiospampinato/vscode-open-in-marketplace) ![][PP] ![][DDD] : Adds a command for opening the current project in the Marketplace.
 + [`vscode-open-in-node-modules`](https://github.com/fabiospampinato/vscode-open-in-node-modules) ![][PPP] ![][DDD] : Open the current selection or arbitrary string in node_modules.
 + [`vscode-open-in-npm`](https://github.com/fabiospampinato/vscode-open-in-npm) ![][PP] ![][DDD] : Open the current selection, project, or arbitrary string, in npmjs.com.
++ [`vscode-open-in-npm-graph`](https://github.com/fabiospampinato/vscode-open-in-npm-graph) ![][PP] ![][DDD] : Open the current package, or arbitrary string, in npmgraph.js.org.
 + [`vscode-open-in-terminal`](https://github.com/fabiospampinato/vscode-open-in-terminal) ![][PP] ![][DDD] : Adds a few commands for opening the current project in Terminal.
 + [`vscode-open-in-transmit`](https://github.com/fabiospampinato/vscode-open-in-transmit) ![][PP] ![][DDD] : Adds a few commands for opening the current file or project in Transmit.
 + [`vscode-open-multiple-files`](https://github.com/fabiospampinato/vscode-open-multiple-files) ![][PP] ![][DDD] : Open all files in a folder at once, optionally filtering by a glob.

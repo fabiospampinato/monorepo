@@ -847,3 +847,6 @@
 [submodule "repositories/vscode-js-beautify"]
 	path = repositories/vscode-js-beautify
 	url = https://github.com/fabiospampinato/vscode-js-beautify.git
+[submodule "repositories/vscode-open-in-npm-graph"]
+	path = repositories/vscode-open-in-npm-graph
+	url = https://github.com/fabiospampinato/vscode-open-in-npm-graph.git
