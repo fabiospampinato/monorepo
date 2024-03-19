@@ -284,7 +284,7 @@ Repositories listed below are marked with some of the following badges.
 + [`vscode-js-beautify`](https://github.com/fabiospampinato/vscode-js-beautify) ![][PPP] ![][DDD] : A little wrapper around "js-beautify" for conveniently beautifying CSS/HTML/JS files.
 + [`vscode-kasi`](https://github.com/fabiospampinato/vscode-kasi) ![][PP] ![][DDD] : A little wrapper over the "kasi" package for changing the casing of selections.
 + [`vscode-markdown-todo`](https://github.com/fabiospampinato/vscode-markdown-todo) ![][PPP] ![][DDD] : Manage todo lists inside markdown files with ease.
-- [`vscode-monokai-night`](https://github.com/fabiospampinato/vscode-monokai-night) : A complete, dark and minimalistic Monokai-inspired theme.
++ [`vscode-monokai-night`](https://github.com/fabiospampinato/vscode-monokai-night) ![][P] ![][D] : A complete, dark and minimalistic Monokai-inspired theme.
 + [`vscode-open-devtools`](https://github.com/fabiospampinato/vscode-open-devtools) ![][PP] ![][DDD] : A simple extension for opening DevTools windows listed under chrome://inspect.
 + [`vscode-open-in-application`](https://github.com/fabiospampinato/vscode-open-in-application) ![][PP] ![][DDD] : Open an arbitrary file in its default app, or the app you want.
 + [`vscode-open-in-browsers`](https://github.com/fabiospampinato/vscode-open-in-browsers) ![][PP] ![][DDD] : Adds some commands for opening the current file or project in any browser you like, even all of them simultaneously.
