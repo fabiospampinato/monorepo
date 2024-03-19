@@ -853,3 +853,6 @@
 [submodule "repositories/vscode-kasi"]
 	path = repositories/vscode-kasi
 	url = https://github.com/fabiospampinato/vscode-kasi.git
+[submodule "repositories/tiny-readdir-glob-gitignore"]
+	path = repositories/tiny-readdir-glob-gitignore
+	url = https://github.com/fabiospampinato/tiny-readdir-glob-gitignore.git

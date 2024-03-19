@@ -226,6 +226,7 @@ Repositories listed below are marked with some of the following badges.
 + [`tiny-parse-argv`](https://github.com/fabiospampinato/tiny-parse-argv) ![][P] ![][D] ![][ISO] : A tiny function for parsing process.argv, a modern rewrite of a sensible subset of minimist.
 + [`tiny-readdir`](https://github.com/fabiospampinato/tiny-readdir) ![][PP] ![][D] ![][NODE] : A simple promisified recursive readdir function.
 + [`tiny-readdir-glob`](https://github.com/fabiospampinato/tiny-readdir-glob) ![][PP] ![][D] ![][NODE] : A simple promisified recursive readdir function, with support for globs.
++ [`tiny-readdir-glob-gitignore`](https://github.com/fabiospampinato/tiny-readdir-glob-gitignore) ![][PP] ![][D] ![][NODE] : A simple promisified recursive readdir function, with support for globs and .gitignore files.
 + [`tiny-spinner`](https://github.com/fabiospampinato/tiny-spinner) ![][PP] ![][D] ![][NODE] : A simple, yet beautiful, CLI spinner.
 + [`tiny-sqlite3`](https://github.com/fabiospampinato/tiny-sqlite3) ![][PPP] ![][DDD] ![][NODE] : A tiny cross-platform client for SQLite3, with precompiled binaries as the only third-party dependencies.
 + [`tiny-truncate`](https://github.com/fabiospampinato/tiny-truncate) ![][PP] ![][DD] ![][ISO] : A tiny function for truncating a string which may containg ANSI escapes, with automatic terminal width detection.
