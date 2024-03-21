@@ -856,3 +856,6 @@
 [submodule "repositories/tiny-readdir-glob-gitignore"]
 	path = repositories/tiny-readdir-glob-gitignore
 	url = https://github.com/fabiospampinato/tiny-readdir-glob-gitignore.git
+[submodule "repositories/vscode-outdated"]
+	path = repositories/vscode-outdated
+	url = https://github.com/fabiospampinato/vscode-outdated.git

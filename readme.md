@@ -300,6 +300,7 @@ Repositories listed below are marked with some of the following badges.
 + [`vscode-open-in-transmit`](https://github.com/fabiospampinato/vscode-open-in-transmit) ![][PP] ![][DDD] : Adds a few commands for opening the current file or project in Transmit.
 + [`vscode-open-multiple-files`](https://github.com/fabiospampinato/vscode-open-multiple-files) ![][PP] ![][DDD] : Open all files in a folder at once, optionally filtering by a glob.
 - [`vscode-optimize-images`](https://github.com/fabiospampinato/vscode-optimize-images) : Optimize one or all the images in your project using your favorite app.
++ [`vscode-outdated`](https://github.com/fabiospampinato/vscode-outdated) ![][PP] ![][DDD] : A super quick way to update npm dependencies, via a code lens.
 - [`vscode-projects-plus-todo-plus`](https://github.com/fabiospampinato/vscode-projects-plus-todo-plus) : Bird's-eye view over your projects, view all your todo files aggregated into one.
 - [`vscode-projects-plus`](https://github.com/fabiospampinato/vscode-projects-plus) : An extension for managing projects. Feature rich, customizable, automatically finds your projects.
 + [`vscode-search-open-all-results`](https://github.com/fabiospampinato/vscode-search-open-all-results) ![][PP] ![][DDD] : Open all search results at once with a single command.
