@@ -859,3 +859,6 @@
 [submodule "repositories/vscode-outdated"]
 	path = repositories/vscode-outdated
 	url = https://github.com/fabiospampinato/vscode-outdated.git
+[submodule "repositories/zeptomatch-escape"]
+	path = repositories/zeptomatch-escape
+	url = https://github.com/fabiospampinato/zeptomatch-escape.git

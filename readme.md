@@ -257,6 +257,7 @@ Repositories listed below are marked with some of the following badges.
 + [`xml-simple-parser`](https://github.com/fabiospampinato/xml-simple-parser) ![][PP] ![][D] ![][ISO] : A simple and tiny XML parser and stringifier.
 + [`zeptoid`](https://github.com/fabiospampinato/zeptoid) ![][PP] ![][D] ![][ISO] ![][TREE] : A tiny isomorphic fast function for generating a cryptographically random hex string.
 + [`zeptomatch`](https://github.com/fabiospampinato/zeptomatch) ![][PP] ![][D] ![][ISO] : An absurdly small glob matcher that packs a punch.
++ [`zeptomatch-escape`](https://github.com/fabiospampinato/zeptomatch-escape) ![][P] ![][DD] ![][ISO] : A little utility for escaping globs before passing them to zeptomatch.
 + [`zstandard-wasm`](https://github.com/fabiospampinato/zstandard-wasm) ![][PP] ![][D] ![][ISO] ![][TREE] : A fast and small port of Zstandard to WASM. (Decompress-only for now).
 
 ### Alfred Extensions
