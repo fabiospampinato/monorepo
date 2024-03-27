@@ -258,7 +258,7 @@ Repositories listed below are marked with some of the following badges.
 + [`zeptoid`](https://github.com/fabiospampinato/zeptoid) ![][PP] ![][D] ![][ISO] ![][TREE] : A tiny isomorphic fast function for generating a cryptographically random hex string.
 + [`zeptomatch`](https://github.com/fabiospampinato/zeptomatch) ![][PP] ![][D] ![][ISO] : An absurdly small glob matcher that packs a punch.
 + [`zeptomatch-escape`](https://github.com/fabiospampinato/zeptomatch-escape) ![][P] ![][DD] ![][ISO] : A little utility for escaping globs before passing them to zeptomatch.
-+ [`zeptomatch-explode`](https://github.com/fabiospampinato/zeptomatch-explode) ![][P] ![][DD] ![][ISO] : A little utility for exploding a zeptomatch-flavored glob into its dynamic and static parts.
++ [`zeptomatch-explode`](https://github.com/fabiospampinato/zeptomatch-explode) ![][P] ![][D] ![][ISO] : A little utility for exploding a zeptomatch-flavored glob into its dynamic and static parts.
 + [`zstandard-wasm`](https://github.com/fabiospampinato/zstandard-wasm) ![][PP] ![][D] ![][ISO] ![][TREE] : A fast and small port of Zstandard to WASM. (Decompress-only for now).
 
 ### Alfred Extensions
