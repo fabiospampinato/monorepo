@@ -862,3 +862,6 @@
 [submodule "repositories/zeptomatch-escape"]
 	path = repositories/zeptomatch-escape
 	url = https://github.com/fabiospampinato/zeptomatch-escape.git
+[submodule "repositories/zeptomatch-explode"]
+	path = repositories/zeptomatch-explode
+	url = https://github.com/fabiospampinato/zeptomatch-explode.git
