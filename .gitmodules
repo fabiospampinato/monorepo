@@ -865,3 +865,9 @@
 [submodule "repositories/zeptomatch-explode"]
 	path = repositories/zeptomatch-explode
 	url = https://github.com/fabiospampinato/zeptomatch-explode.git
+[submodule "repositories/zeptomatch-is-static"]
+	path = repositories/zeptomatch-is-static
+	url = https://github.com/fabiospampinato/zeptomatch-is-static.git
+[submodule "repositories/zeptomatch-unescape"]
+	path = repositories/zeptomatch-unescape
+	url = https://github.com/fabiospampinato/zeptomatch-unescape.git
