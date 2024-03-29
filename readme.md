@@ -261,7 +261,6 @@ Repositories listed below are marked with some of the following badges.
 + [`zeptomatch-explode`](https://github.com/fabiospampinato/zeptomatch-explode) ![][P] ![][D] ![][ISO] : A little utility for exploding a zeptomatch-flavored glob into its dynamic and static parts.
 + [`zeptomatch-is-static`](https://github.com/fabiospampinato/zeptomatch-is-static) ![][P] ![][D] ![][ISO] : A little utility for checking if a glob is fully static.
 + [`zeptomatch-unescape`](https://github.com/fabiospampinato/zeptomatch-unescape) ![][P] ![][D] ![][ISO] : A little utility for removing escape sequences from a glob.
-
 + [`zstandard-wasm`](https://github.com/fabiospampinato/zstandard-wasm) ![][PP] ![][D] ![][ISO] ![][TREE] : A fast and small port of Zstandard to WASM. (Decompress-only for now).
 
 ### Alfred Extensions
