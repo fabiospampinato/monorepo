@@ -871,3 +871,6 @@
 [submodule "repositories/zeptomatch-unescape"]
 	path = repositories/zeptomatch-unescape
 	url = https://github.com/fabiospampinato/zeptomatch-unescape.git
+[submodule "repositories/vscode-banal"]
+	path = repositories/vscode-banal
+	url = https://github.com/fabiospampinato/vscode-banal.git

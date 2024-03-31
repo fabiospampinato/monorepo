@@ -278,6 +278,7 @@ Repositories listed below are marked with some of the following badges.
 
 ### VSCode Extensions
 
++ [`vscode-banal`](https://github.com/fabiospampinato/vscode-banal) ![][PP] ![][DDD] : A super quick way to inspect the bundle size of npm dependencies, via a code lens.
 + [`vscode-browser-refresh`](https://github.com/fabiospampinato/vscode-browser-refresh) ![][PP] ![][DDD] : Refresh the browser with a ⌘R, right from Code. No need to switch focus to it.
 + [`vscode-commands`](https://github.com/fabiospampinato/vscode-commands) ![][PP] ![][DDD] : Trigger arbitrary commands from the statusbar. Supports passing arguments!
 + [`vscode-diff`](https://github.com/fabiospampinato/vscode-diff) ![][PPP] ![][DDD] : Diff 2 opened files with ease. Because running `code --diff path1 path2` is too slow.
