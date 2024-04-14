@@ -874,3 +874,6 @@
 [submodule "repositories/vscode-banal"]
 	path = repositories/vscode-banal
 	url = https://github.com/fabiospampinato/vscode-banal.git
+[submodule "repositories/lomemo"]
+	path = repositories/lomemo
+	url = https://github.com/fabiospampinato/lomemo.git

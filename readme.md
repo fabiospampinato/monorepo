@@ -150,6 +150,7 @@ Repositories listed below are marked with some of the following badges.
 + [`lande`](https://github.com/fabiospampinato/lande) ![][PP] ![][DDD] ![][ISO] : A tiny neural network for natural language detection.
 + [`linkedom-global`](https://github.com/fabiospampinato/linkedom-global) ![][PPP] ![][DDD] ![][ISO] : Make Node a browser-like environment, by using LinkeDOM.
 + [`linkify-it-tlds`](https://github.com/fabiospampinato/linkify-it-tlds) ![][P] ![][D] ![][ISO] : Comprehensive list of TLDs, sourced from ICANN, for linkify-it.
++ [`lomemo`](https://github.com/fabiospampinato/lomemo) ![][P] ![][D] ![][ISO] : Lodash's memoize function, but in a much smaller package than lodash.memoize's.
 + [`memoization-registry`](https://github.com/fabiospampinato/memoization-registry) ![][PP] ![][D] ![][ISO] : A generalized multi-key memoization solution that does not leak memory.
 + [`mild-map`](https://github.com/fabiospampinato/mild-map) ![][PP] ![][D] ![][ISO] : A WeakMap that supports any value, it holds strong references to primitives, and weak references to objects.
 + [`mild-set`](https://github.com/fabiospampinato/mild-set) ![][PP] ![][D] ![][ISO] : A WeakSet that supports any value, it holds strong references to primitives, and weak references to objects.
