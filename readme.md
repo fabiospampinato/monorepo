@@ -264,12 +264,6 @@ Repositories listed below are marked with some of the following badges.
 + [`zeptomatch-unescape`](https://github.com/fabiospampinato/zeptomatch-unescape) ![][P] ![][D] ![][ISO] : A little utility for removing escape sequences from a glob.
 + [`zstandard-wasm`](https://github.com/fabiospampinato/zstandard-wasm) ![][PP] ![][D] ![][ISO] ![][TREE] : A fast and small port of Zstandard to WASM. (Decompress-only for now).
 
-### Alfred Extensions
-
-- [`alfred-brush-workflow`](https://github.com/fabiospampinato/alfred-brush-workflow) : Alfred workflow for reminding you to brush your teeth.
-- [`alfred-eject-workflow`](https://github.com/fabiospampinato/alfred-eject-workflow) : Alfred workflow for ejecting mounted drives.
-- [`alfred-spaces-workflow`](https://github.com/fabiospampinato/alfred-spaces-workflow) : Alfred workflow that, used in conjunction with my Phoenix setup, gives you a spaces switcher.
-
 ### Chrome Extensions
 
 - [`chrome-blank`](https://github.com/fabiospampinato/chrome-blank) : Just a blank new tab page.
@@ -317,19 +311,18 @@ Repositories listed below are marked with some of the following badges.
 
 ### Templates
 
-- [`awesome-template`](https://github.com/fabiospampinato/awesome-template) : Curated list of templates for Template.
-- [`template-template`](https://github.com/fabiospampinato/template-template) : A template for creating new templates quickly.
-- [`template-typescript-cli-package`](https://github.com/fabiospampinato/template-typescript-cli-package) : A template for creating a new TypeScript CLI package quickly.
-- [`template-typescript-package`](https://github.com/fabiospampinato/template-typescript-package) : A template for creating a new TypeScript package quickly.
-- [`template-vscode-extension`](https://github.com/fabiospampinato/template-vscode-extension) : A template for starting a new vscode extension quickly.
++ [`awesome-template`](https://github.com/fabiospampinato/awesome-template) : Curated list of templates for Template.
++ [`template-template`](https://github.com/fabiospampinato/template-template) : A template for creating new templates quickly.
++ [`template-typescript-cli-package`](https://github.com/fabiospampinato/template-typescript-cli-package) : A template for creating a new TypeScript CLI package quickly.
++ [`template-typescript-package`](https://github.com/fabiospampinato/template-typescript-package) : A template for creating a new TypeScript package quickly.
++ [`template-vscode-extension`](https://github.com/fabiospampinato/template-vscode-extension) : A template for starting a new vscode extension quickly.
 
 ### Others
 
-- [`.github`](https://github.com/fabiospampinato/.github): Account-level .github directory.
-- [`ama`](https://github.com/fabiospampinato/ama): Ask me anything!
-- [`monorepo`](https://github.com/fabiospampinato/monorepo): The homepage for all my repositories.
++ [`.github`](https://github.com/fabiospampinato/.github): Account-level .github directory.
++ [`ama`](https://github.com/fabiospampinato/ama): Ask me anything!
++ [`monorepo`](https://github.com/fabiospampinato/monorepo): The homepage for all my repositories.
 - [`phoenix`](https://github.com/fabiospampinato/phoenix): My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
-- [`termux-env`](https://github.com/fabiospampinato/termux-env): My super-quick-to-setup Termux environment.
 - [`website`](https://github.com/fabiospampinato/website): My personal website.
 - [`yinyang-clock`](https://github.com/fabiospampinato/yinyang-clock): A clock that keeps track of time spent yinning vs time spent yanging.
 
