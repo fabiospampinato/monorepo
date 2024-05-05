@@ -63,6 +63,7 @@ Repositories listed below are marked with some of the following badges.
 + [`call-spy`](https://github.com/fabiospampinato/call-spy) ![][P] ![][D] ![][ISO] : Tiny wrapper for spying on function calls.
 + [`calls-batch`](https://github.com/fabiospampinato/calls-batch) ![][PP] ![][D] ![][ISO] : Execute calls in debounced batches, with pre/postflush hooks, useful for performance.
 + [`cash`](https://github.com/fabiospampinato/cash) ![][P] ![][DDD] ![][BROWSER] : An absurdly small jQuery alternative for modern browsers.
++ [`chrome-extension-livereload`](https://github.com/fabiospampinato/chrome-extension-livereload) ![][P] ![][DDD] ![][CHROME] : A tiny and basic livereload solution for chrome extensions.
 + [`classattr`](https://github.com/fabiospampinato/classattr) ![][P] ![][D] ![][ISO] : A classList-like API that's purely based on reading/writing the class attribute.
 + [`conf-merge`](https://github.com/fabiospampinato/conf-merge) ![][PP] ![][D] ![][ISO] : Deep merges objects, concatenating arrays.
 + [`configuration`](https://github.com/fabiospampinato/configuration) ![][PP] ![][DDD] ![][ISO] ![][TREE] : Performant and feature rich library for managing configurations/settings.
@@ -340,6 +341,7 @@ All archived, no longer maintained, repositories are listed [here](https://githu
 [DDD]: /resources/badges/ddd.svg
 [BROWSER]: /resources/badges/browser.svg
 [NODE]: /resources/badges/node.svg
+[CHROME]: /resources/badges/chrome.svg
 [ISO]: /resources/badges/iso.svg
 [BUNDLE]: /resources/badges/bundle.svg
 [TREE]: /resources/badges/tree.svg

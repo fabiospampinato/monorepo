@@ -877,3 +877,6 @@
 [submodule "repositories/lomemo"]
 	path = repositories/lomemo
 	url = https://github.com/fabiospampinato/lomemo.git
+[submodule "repositories/chrome-extension-livereload"]
+	path = repositories/chrome-extension-livereload
+	url = https://github.com/fabiospampinato/chrome-extension-livereload.git
