@@ -880,3 +880,6 @@
 [submodule "repositories/chrome-extension-livereload"]
 	path = repositories/chrome-extension-livereload
 	url = https://github.com/fabiospampinato/chrome-extension-livereload.git
+[submodule "repositories/template-chrome-extension"]
+	path = repositories/template-chrome-extension
+	url = https://github.com/fabiospampinato/template-chrome-extension.git
