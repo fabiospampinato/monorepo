@@ -883,3 +883,6 @@
 [submodule "repositories/template-chrome-extension"]
 	path = repositories/template-chrome-extension
 	url = https://github.com/fabiospampinato/template-chrome-extension.git
+[submodule "repositories/isoenv"]
+	path = repositories/isoenv
+	url = https://github.com/fabiospampinato/isoenv.git
