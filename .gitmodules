@@ -886,3 +886,6 @@
 [submodule "repositories/isoenv"]
 	path = repositories/isoenv
 	url = https://github.com/fabiospampinato/isoenv.git
+[submodule "repositories/promise-make-counter"]
+	path = repositories/promise-make-counter
+	url = https://github.com/fabiospampinato/promise-make-counter.git

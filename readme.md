@@ -181,6 +181,7 @@ Repositories listed below are marked with some of the following badges.
 + [`pollex`](https://github.com/fabiospampinato/pollex) ![][PP] ![][D] ![][NODE] : A tiny polling-based filesystem watcher that tries to be efficient.
 + [`prask`](https://github.com/fabiospampinato/prask) ![][PP] ![][D] ![][NODE] ![][TREE] : Lightweight prompting library for terminal apps.
 + [`promise-concurrency-limiter`](https://github.com/fabiospampinato/promise-concurrency-limiter) ![][P] ![][D] ![][ISO] : Tiny scheduler for functions returning promises that can limit their concurrency.
++ [`promise-make-counter`](https://github.com/fabiospampinato/promise-make-counter) ![][PP] ![][DD] ![][ISO] : A simple function that makes a counter-based promise, which can be incremented and decremented, and it resolves once its counter reaches zero.
 + [`promise-make-naked`](https://github.com/fabiospampinato/promise-make-naked) ![][P] ![][D] ![][ISO] : A simple function that makes a promise that can be resolved or rejected from the outside.
 + [`promise-resolve-timeout`](https://github.com/fabiospampinato/promise-resolve-timeout) ![][P] ![][D] ![][ISO] : Create a Promise which will resolve with the provided value after a timeout.
 + [`qunit-ava-spec`](https://github.com/fabiospampinato/qunit-ava-spec) ![][P] ![][DDD] ![][BROWSER] : Helper functions for using QUnit as if it was ava/ava-spec.
