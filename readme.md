@@ -139,7 +139,7 @@ Repositories listed below are marked with some of the following badges.
 + [`int32-encoding`](https://github.com/fabiospampinato/int32-encoding) ![][P] ![][D] ![][ISO] : Int32 encoding, a simple way to convert 32-bit signed integers to Uint8Arrays, and vice versa.
 + [`ionstore`](https://github.com/fabiospampinato/ionstore) ![][P] ![][D] ![][ISO] : A very simple isomorphic key-value store with a Map-like API for persisting session data.
 + [`is`](https://github.com/fabiospampinato/is) ![][P] ![][D] ![][ISO] ![][TREE] : The definitive collection of is* functions for runtime type checking. Lodash-compatible, tree-shakable, with types.
-+ [`isoenv`](https://github.com/fabiospampinato/isoenv) ![][P] ![][D] ![][ISO] : A cross-platform Map-like interface for reading and writing environment variables.
++ [`isoenv`](https://github.com/fabiospampinato/isoenv) ![][P] ![][DD] ![][ISO] : A cross-platform Map-like interface for reading and writing environment variables.
 + [`isostore`](https://github.com/fabiospampinato/isostore) ![][PP] ![][D] ![][ISO] ![][TREE] : A simple isomorphic key-value store with a Map-like API for persisting data.
 + [`js-simple-mangler`](https://github.com/fabiospampinato/js-simple-mangler) ![][PP] ![][D] ![][NODE] ![][CLI] : A simple JavaScript mangler that works across multiple files.
 + [`json-archive`](https://github.com/fabiospampinato/json-archive) ![][PP] ![][D] ![][ISO] ![][TREE] : Simple archive format based on JSON.
