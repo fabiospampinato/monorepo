@@ -892,3 +892,6 @@
 [submodule "repositories/grepgrep"]
 	path = repositories/grepgrep
 	url = https://github.com/fabiospampinato/grepgrep.git
+[submodule "repositories/lomemo-once"]
+	path = repositories/lomemo-once
+	url = https://github.com/fabiospampinato/lomemo-once.git
