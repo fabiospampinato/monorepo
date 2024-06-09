@@ -895,3 +895,6 @@
 [submodule "repositories/lomemo-once"]
 	path = repositories/lomemo-once
 	url = https://github.com/fabiospampinato/lomemo-once.git
+[submodule "repositories/lomemo-one"]
+	path = repositories/lomemo-one
+	url = https://github.com/fabiospampinato/lomemo-one.git
