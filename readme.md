@@ -123,6 +123,7 @@ Repositories listed below are marked with some of the following badges.
 + [`glow-highlighter`](https://github.com/fabiospampinato/glow-highlighter) ![][PPP] ![][DDD] ![][ISO] : An isomorphic syntax highlighter for Glow.
 + [`grammex`](https://github.com/fabiospampinato/grammex) ![][P] ![][D] ![][ISO] ![][TREE] : A tiny PEG-like system for building language grammars with regexes.
 + [`graphviz-wasm`](https://github.com/fabiospampinato/graphviz-wasm) ![][PPP] ![][D] ![][ISO] : A port of Graphviz to WASM.
++ [`grepgrep`](https://github.com/fabiospampinato/grepgrep) ![][PP] ![][DD] ![][NODE] ![][CLI] : A grep-like command that uses JavaScript-flavored regular expressions.
 + [`happy-dom-global`](https://github.com/fabiospampinato/happy-dom-global) ![][PPP] ![][D] ![][NODE] : Make Node a browser-like environment, by using Happy DOM.
 + [`hex-encoding`](https://github.com/fabiospampinato/hex-encoding) ![][PP] ![][DDD] ![][ISO] : Hex encoding. An extremely fast and synchronous JS implementation.
 + [`hex-to-uint8`](https://github.com/fabiospampinato/hex-to-uint8) ![][PP] ![][DDD] ![][ISO] : The fastest function to convert a hexadecimal string to a Uint8Array.
@@ -180,7 +181,7 @@ Repositories listed below are marked with some of the following badges.
 + [`plain-object-merge`](https://github.com/fabiospampinato/plain-object-merge) ![][PP] ![][D] ![][ISO] : Extremely fast function optimized for deep merging json-serializable plain objects.
 + [`pollex`](https://github.com/fabiospampinato/pollex) ![][PP] ![][D] ![][NODE] : A tiny polling-based filesystem watcher that tries to be efficient.
 + [`prask`](https://github.com/fabiospampinato/prask) ![][PP] ![][D] ![][NODE] ![][TREE] : Lightweight prompting library for terminal apps.
-+ [`promise-concurrency-limiter`](https://github.com/fabiospampinato/promise-concurrency-limiter) ![][P] ![][D] ![][ISO] : Tiny scheduler for functions returning promises that can limit their concurrency.
++ [`promise-concurrency-limiter`](https://github.com/fabiospampinato/[promise]-concurrency-limiter) ![][P] ![][D] ![][ISO] : Tiny scheduler for functions returning promises that can limit their concurrency.
 + [`promise-make-counter`](https://github.com/fabiospampinato/promise-make-counter) ![][PP] ![][DD] ![][ISO] : A simple function that makes a counter-based promise, which can be incremented and decremented, and it resolves once its counter reaches zero.
 + [`promise-make-naked`](https://github.com/fabiospampinato/promise-make-naked) ![][P] ![][D] ![][ISO] : A simple function that makes a promise that can be resolved or rejected from the outside.
 + [`promise-resolve-timeout`](https://github.com/fabiospampinato/promise-resolve-timeout) ![][P] ![][D] ![][ISO] : Create a Promise which will resolve with the provided value after a timeout.
