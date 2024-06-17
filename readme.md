@@ -163,6 +163,7 @@ Repositories listed below are marked with some of the following badges.
 + [`minipacco`](https://github.com/fabiospampinato/minipacco) ![][PP] ![][D] ![][NODE] ![][CLI] : A little bundler for resolving dependencies graphs into a single concatenated file.
 + [`monex`](https://github.com/fabiospampinato/monex) ![][PPP] ![][DDD] ![][NODE] ![][CLI] : Execute a script and restart it whenever it crashes or a watched file changes.
 + [`move-unused-path`](https://github.com/fabiospampinato/move-unused-path) ![][PP] ![][D] ![][NODE] : Reliably move to an unused path.
++ [`nanoexec`](https://github.com/fabiospampinato/nanoexec) ![][P] ![][D] ![][NODE]: A tiny wrapper around \"spawn\" for executing a command efficiently and conveniently.
 + [`nanopath`](https://github.com/fabiospampinato/nanopath) ![][P] ![][DD] ![][ISO] ![][TREE] : A tiny isomorphic port of Node@17.8.0 path module.
 + [`node-buffer-encoding`](https://github.com/fabiospampinato/node-buffer-encoding) ![][P] ![][D] ![][NODE] : A little wrapper around Node's Buffer that provides encoding/decoding for all supported encodings.
 + [`noop-tag`](https://github.com/fabiospampinato/noop-tag) ![][P] ![][D] ![][ISO] : A noop template literal tag, useful for syntax highlighting hints.
@@ -224,7 +225,6 @@ Repositories listed below are marked with some of the following badges.
 + [`tiny-divider`](https://github.com/fabiospampinato/tiny-divider) ![][PP] ![][D] ![][ISO] : A tiny simple terminal divider that spans the entire width of the terminal.
 + [`tiny-editorconfig`](https://github.com/fabiospampinato/tiny-editorconfig) ![][PP] ![][D] ![][ISO] : A tiny isomorphic parser and resolver for EditorConfig.
 + [`tiny-encryptor`](https://github.com/fabiospampinato/tiny-encryptor) ![][PP] ![][D] ![][ISO] : A tiny opinionated isomorphic library for encrypting and decrypting with ease.
-+ [`tiny-exec`](https://github.com/fabiospampinato/tiny-exec) ![][P] ![][D] ![][NODE]: A tiny wrapper around \"spawn\" for executing a command efficiently and conveniently.
 + [`tiny-filename`](https://github.com/fabiospampinato/tiny-filename) ![][PP] ![][D] ![][ISO] : A tiny isomorphic ESM alternative to Node's "__filename" global.
 + [`tiny-jsonc`](https://github.com/fabiospampinato/tiny-jsonc) ![][P] ![][DD] ![][ISO] : An absurdly small JSONC parser.
 + [`tiny-levenshtein`](https://github.com/fabiospampinato/tiny-levenshtein) ![][P] ![][D] ![][ISO] : A tiny implementation of the Levenshtein edit distance algorithm.

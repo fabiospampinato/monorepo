@@ -898,3 +898,6 @@
 [submodule "repositories/lomemo-one"]
 	path = repositories/lomemo-one
 	url = https://github.com/fabiospampinato/lomemo-one.git
+[submodule "repositories/nanoexec"]
+	path = repositories/nanoexec
+	url = https://github.com/fabiospampinato/nanoexec.git
