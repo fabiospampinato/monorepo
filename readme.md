@@ -108,7 +108,6 @@ Repositories listed below are marked with some of the following badges.
 + [`fast-string-truncated-width`](https://github.com/fabiospampinato/fast-string-truncated-width) ![][P] ![][D] ![][ISO] : A fast function for calculating where a string should be truncated, given an optional width limit and an ellipsis string.
 + [`fast-string-width`](https://github.com/fabiospampinato/fast-string-width) ![][PP] ![][D] ![][ISO] : A fast function for calculating the visual width of a string once printed to the terminal.
 + [`fava`](https://github.com/fabiospampinato/fava) ![][PP] ![][D] ![][ISO] ![][CLI] : A wannabe tiny largely-drop-in replacement for ava that works in the browser too.
-+ [`fetch-shim`](https://github.com/fabiospampinato/fetch-shim) ![][PPP] ![][D] ![][ISO] : A tiny isomoprhic Fetch function, it just gives you the native one if available, or the one from undici.
 + [`fileurl2path`](https://github.com/fabiospampinato/fileurl2path) ![][P] ![][D] ![][ISO] : A tiny function for converting a file URL to a file path.
 + [`file-pollex`](https://github.com/fabiospampinato/file-pollex) ![][P] ![][D] ![][NODE] : A tiny hybrid filesystem watcher for a single file.
 + [`find-up-json`](https://github.com/fabiospampinato/find-up-json) ![][PP] ![][D] ![][NODE] : Find, read and parse the first matching file found walking the filesystem upwards.
