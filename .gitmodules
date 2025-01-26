@@ -901,3 +901,6 @@
 [submodule "repositories/nanoexec"]
 	path = repositories/nanoexec
 	url = https://github.com/fabiospampinato/nanoexec.git
+[submodule "repositories/isotimer"]
+	path = repositories/isotimer
+	url = https://github.com/fabiospampinato/isotimer.git
