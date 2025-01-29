@@ -230,6 +230,7 @@ Repositories listed below are marked with some of the following badges.
 + [`tiny-jsonc`](https://github.com/fabiospampinato/tiny-jsonc) ![][P] ![][DD] ![][ISO] : An absurdly small JSONC parser.
 + [`tiny-levenshtein`](https://github.com/fabiospampinato/tiny-levenshtein) ![][P] ![][D] ![][ISO] : A tiny implementation of the Levenshtein edit distance algorithm.
 + [`tiny-livereload`](https://github.com/fabiospampinato/tiny-livereload) ![][PP] ![][D] ![][ISO] : A tiny and basic livereload solution.
++ [`tiny-open`](https://github.com/fabiospampinato/tiny-open) ![][P] ![][D] ![][NODE] : A tiny utility for opening a file or a URL with its default application, or a custom one.
 + [`tiny-parse-argv`](https://github.com/fabiospampinato/tiny-parse-argv) ![][P] ![][D] ![][ISO] : A tiny function for parsing process.argv, a modern rewrite of minimist.
 + [`tiny-readdir`](https://github.com/fabiospampinato/tiny-readdir) ![][PP] ![][D] ![][NODE] : A simple promisified recursive readdir function.
 + [`tiny-readdir-glob`](https://github.com/fabiospampinato/tiny-readdir-glob) ![][PP] ![][D] ![][NODE] : A simple promisified recursive readdir function, with support for globs.

@@ -907,3 +907,6 @@
 [submodule "repositories/isoplatform"]
 	path = repositories/isoplatform
 	url = https://github.com/fabiospampinato/isoplatform.git
+[submodule "repositories/tiny-open"]
+	path = repositories/tiny-open
+	url = https://github.com/fabiospampinato/tiny-open.git
