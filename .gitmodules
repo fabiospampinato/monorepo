@@ -904,3 +904,6 @@
 [submodule "repositories/isotimer"]
 	path = repositories/isotimer
 	url = https://github.com/fabiospampinato/isotimer.git
+[submodule "repositories/isoplatform"]
+	path = repositories/isoplatform
+	url = https://github.com/fabiospampinato/isoplatform.git
