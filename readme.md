@@ -146,6 +146,7 @@ Repositories listed below are marked with some of the following badges.
 + [`json-archive`](https://github.com/fabiospampinato/json-archive) ![][PP] ![][D] ![][ISO] ![][TREE] : Simple archive format based on JSON.
 + [`json-clone-deep`](https://github.com/fabiospampinato/json-clone-deep) ![][P] ![][D] ![][ISO] : Deep cloning based on JSON.
 + [`json-oneline-stringify`](https://github.com/fabiospampinato/json-oneline-stringify) ![][P] ![][D] ![][ISO] : A little function for stringifying into a single line, in a readable form.
++ [`json-simple-parser`](https://github.com/fabiospampinato/json-simple-parser) ![][P] ![][D] ![][ISO] : The fastest pure-JS implementation for JSON I could come up with.
 + [`json-sorted-stringify`](https://github.com/fabiospampinato/json-sorted-stringify) ![][P] ![][D] ![][ISO] : Alternative JSON.stringify function with sorted keys, so the output is stable.
 - [`jsonc-simple-parser`](https://github.com/fabiospampinato/jsonc-simple-parser) : A simple JSON parser that supports comments and optional trailing commas.
 + [`kasi`](https://github.com/fabiospampinato/kasi) ![][P] ![][D] ![][ISO] ![][TREE] : A collection of functions for working with different casings.

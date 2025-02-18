@@ -910,3 +910,6 @@
 [submodule "repositories/tiny-open"]
 	path = repositories/tiny-open
 	url = https://github.com/fabiospampinato/tiny-open.git
+[submodule "repositories/json-simple-parser"]
+	path = repositories/json-simple-parser
+	url = https://github.com/fabiospampinato/json-simple-parser.git
