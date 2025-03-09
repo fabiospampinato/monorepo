@@ -233,6 +233,7 @@ Repositories listed below are marked with some of the following badges.
 + [`tiny-livereload`](https://github.com/fabiospampinato/tiny-livereload) ![][PP] ![][D] ![][ISO] : A tiny and basic livereload solution.
 + [`tiny-open`](https://github.com/fabiospampinato/tiny-open) ![][P] ![][D] ![][NODE] : A tiny utility for opening a file or a URL with its default application, or a custom one.
 + [`tiny-parse-argv`](https://github.com/fabiospampinato/tiny-parse-argv) ![][P] ![][D] ![][ISO] : A tiny function for parsing process.argv, a modern rewrite of minimist.
++ [`tiny-path-parse`](https://github.com/fabiospampinato/tiny-path-parse) ![][P] ![][D] ![][ISO] ![][TREE] : A tiny package for parsing file paths, with the same output as Node@18.19.0's path.parse function.
 + [`tiny-readdir`](https://github.com/fabiospampinato/tiny-readdir) ![][PP] ![][D] ![][NODE] : A simple promisified recursive readdir function.
 + [`tiny-readdir-glob`](https://github.com/fabiospampinato/tiny-readdir-glob) ![][PP] ![][D] ![][NODE] : A simple promisified recursive readdir function, with support for globs.
 + [`tiny-readdir-glob-gitignore`](https://github.com/fabiospampinato/tiny-readdir-glob-gitignore) ![][PP] ![][D] ![][NODE] : A simple promisified recursive readdir function, with support for globs and .gitignore files.
