@@ -153,7 +153,7 @@ Repositories listed below are marked with some of the following badges.
 + [`khroma`](https://github.com/fabiospampinato/khroma) ![][P] ![][D] ![][ISO] ![][TREE] : A collection of functions for manipulating CSS colors, inspired by SASS.
 + [`known-symbols`](https://github.com/fabiospampinato/known-symbols) ![][P] ![][D] ![][ISO] : A little library for working with well-known symbols.
 + [`lande`](https://github.com/fabiospampinato/lande) ![][PP] ![][DDD] ![][ISO] : A tiny neural network for natural language detection.
-+ [`linkedom-global`](https://github.com/fabiospampinato/linkedom-global) ![][PPP] ![][DDD] ![][ISO] : Make Node a browser-like environment, by using LinkeDOM.
++ [`linkedom-global`](https://github.com/fabiospampinato/linkedom-global) ![][PPP] ![][D] ![][ISO] : Make Node a browser-like environment, by using LinkeDOM.
 + [`linkify-it-tlds`](https://github.com/fabiospampinato/linkify-it-tlds) ![][P] ![][D] ![][ISO] : Comprehensive list of TLDs, sourced from ICANN, for linkify-it.
 + [`lomemo`](https://github.com/fabiospampinato/lomemo) ![][P] ![][D] ![][ISO] : Lodash's memoize function, but in a much smaller package than lodash.memoize's.
 + [`lomemo-one`](https://github.com/fabiospampinato/lomemo-one) ![][P] ![][D] ![][ISO] : A variant of lodash's memoize function that remembers only one result, the last one.
