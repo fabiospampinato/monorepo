@@ -916,3 +916,6 @@
 [submodule "repositories/tiny-path-parse"]
 	path = repositories/tiny-path-parse
 	url = https://github.com/fabiospampinato/tiny-path-parse.git
+[submodule "repositories/isoconcurrency"]
+	path = repositories/isoconcurrency
+	url = https://github.com/fabiospampinato/isoconcurrency.git
