@@ -919,3 +919,6 @@
 [submodule "repositories/isoconcurrency"]
 	path = repositories/isoconcurrency
 	url = https://github.com/fabiospampinato/isoconcurrency.git
+[submodule "repositories/chrome-rpc"]
+	path = repositories/chrome-rpc
+	url = https://github.com/fabiospampinato/chrome-rpc.git
