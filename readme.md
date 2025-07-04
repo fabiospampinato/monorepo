@@ -277,10 +277,10 @@ Repositories listed below are marked with some of the following badges.
 
 ### Chrome Extensions
 
-- [`chrome-blank`](https://github.com/fabiospampinato/chrome-blank) : Just a blank new tab page.
-- [`chrome-multi-homepage`](https://github.com/fabiospampinato/chrome-multi-homepage) : Open multiple urls with a single click.
-- [`chrome-night-theme`](https://github.com/fabiospampinato/chrome-night-theme) : A dark and minimalistic theme.
-- [`chrome-window-session`](https://github.com/fabiospampinato/chrome-window-session) : Save each window as a separate session, automatically.
+- [`chrome-blank`](https://github.com/fabiospampinato/chrome-blank) ![][P] ![][DDD] : Just a blank new tab page.
+- [`chrome-multi-homepage`](https://github.com/fabiospampinato/chrome-multi-homepage) ![][P] ![][DDD] : Open multiple URLs with a single click.
+- [`chrome-night-theme`](https://github.com/fabiospampinato/chrome-night-theme) ![][P] ![][D] : A dark and minimalistic theme.
+- [`chrome-window-session`](https://github.com/fabiospampinato/chrome-window-session) ![][PP] ![][DDD] : Save each window as a separate session, automatically.
 
 ### VSCode Extensions
 
