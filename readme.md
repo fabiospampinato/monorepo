@@ -147,6 +147,7 @@ Repositories listed below are marked with some of the following badges.
 + [`js-simple-mangler`](https://github.com/fabiospampinato/js-simple-mangler) ![][PP] ![][D] ![][NODE] ![][CLI] : A simple JavaScript mangler that works across multiple files.
 + [`json-archive`](https://github.com/fabiospampinato/json-archive) ![][PP] ![][D] ![][ISO] ![][TREE] : Simple archive format based on JSON.
 + [`json-clone-deep`](https://github.com/fabiospampinato/json-clone-deep) ![][P] ![][D] ![][ISO] : Deep cloning based on JSON.
++ [`json-is-sorted-equal`](https://github.com/fabiospampinato/json-is-sorted-equal) ![][PP] ![][D] ![][ISO] : Alternative isEqual function based on a stable version of JSON.stringify.
 + [`json-oneline-stringify`](https://github.com/fabiospampinato/json-oneline-stringify) ![][P] ![][D] ![][ISO] : A little function for stringifying into a single line, in a readable form.
 + [`json-simple-parser`](https://github.com/fabiospampinato/json-simple-parser) ![][P] ![][D] ![][ISO] : The fastest pure-JS implementation for JSON I could come up with.
 + [`json-sorted-stringify`](https://github.com/fabiospampinato/json-sorted-stringify) ![][P] ![][D] ![][ISO] : Alternative JSON.stringify function with sorted keys, so the output is stable.

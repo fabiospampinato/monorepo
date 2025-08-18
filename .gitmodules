@@ -922,3 +922,6 @@
 [submodule "repositories/chrome-rpc"]
 	path = repositories/chrome-rpc
 	url = https://github.com/fabiospampinato/chrome-rpc.git
+[submodule "repositories/json-is-sorted-equal"]
+	path = repositories/json-is-sorted-equal
+	url = https://github.com/fabiospampinato/json-is-sorted-equal.git
