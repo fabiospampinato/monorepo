@@ -279,6 +279,7 @@ Repositories listed below are marked with some of the following badges.
 ### Chrome Extensions
 
 - [`chrome-blank`](https://github.com/fabiospampinato/chrome-blank) ![][P] ![][DDD] : Just a blank new tab page.
+- [`chrome-devbox`](https://github.com/fabiospampinato/chrome-devbox) ![][PP] ![][DDD] : A collection of tools for web developers.
 - [`chrome-multi-homepage`](https://github.com/fabiospampinato/chrome-multi-homepage) ![][P] ![][DDD] : Open multiple URLs with a single click.
 - [`chrome-night-theme`](https://github.com/fabiospampinato/chrome-night-theme) ![][P] ![][D] : A dark and minimalistic theme.
 - [`chrome-window-session`](https://github.com/fabiospampinato/chrome-window-session) ![][PP] ![][DDD] : Save each window as a separate session, automatically.

@@ -925,3 +925,6 @@
 [submodule "repositories/json-is-sorted-equal"]
 	path = repositories/json-is-sorted-equal
 	url = https://github.com/fabiospampinato/json-is-sorted-equal.git
+[submodule "repositories/chrome-devbox"]
+	path = repositories/chrome-devbox
+	url = https://github.com/fabiospampinato/chrome-devbox.git
