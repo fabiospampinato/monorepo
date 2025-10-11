@@ -122,6 +122,7 @@ Repositories listed below are marked with some of the following badges.
 + [`gitman`](https://github.com/fabiospampinato/gitman) ![][PP] ![][D] ![][NODE] ![][CLI] : A simple yet powerful opinionated tool for managing GitHub repositories.
 + [`glow-highlighter`](https://github.com/fabiospampinato/glow-highlighter) ![][PPP] ![][DDD] ![][ISO] : An isomorphic syntax highlighter for Glow.
 + [`grammex`](https://github.com/fabiospampinato/grammex) ![][P] ![][D] ![][ISO] ![][TREE] : A tiny PEG-like system for building language grammars with regexes.
++ [`graphmatch`](https://github.com/fabiospampinato/graphmatch) ![][P] ![][D] ![][ISO] : A low-level utility for matching a string against a directed acyclic graph of regexes.
 + [`graphviz-wasm`](https://github.com/fabiospampinato/graphviz-wasm) ![][PPP] ![][D] ![][ISO] : A port of Graphviz to WASM.
 + [`grepgrep`](https://github.com/fabiospampinato/grepgrep) ![][PP] ![][DD] ![][NODE] ![][CLI] : A grep-like command that uses JavaScript-flavored regular expressions.
 + [`happy-dom-global`](https://github.com/fabiospampinato/happy-dom-global) ![][PPP] ![][D] ![][NODE] : Make Node a browser-like environment, by using Happy DOM.
