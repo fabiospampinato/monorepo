@@ -931,3 +931,6 @@
 [submodule "repositories/graphmatch"]
 	path = repositories/graphmatch
 	url = https://github.com/fabiospampinato/graphmatch.git
+[submodule "repositories/stubborn-utils"]
+	path = repositories/stubborn-utils
+	url = https://github.com/fabiospampinato/stubborn-utils.git
