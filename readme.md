@@ -320,7 +320,7 @@ Repositories listed below are marked with some of the following badges.
 - [`vscode-projects-plus`](https://github.com/fabiospampinato/vscode-projects-plus) : An extension for managing projects. Feature rich, customizable, automatically finds your projects.
 + [`vscode-search-open-all-results`](https://github.com/fabiospampinato/vscode-search-open-all-results) ![][PP] ![][DDD] : Open all search results at once with a single command.
 + [`vscode-statusbar-debugger`](https://github.com/fabiospampinato/vscode-statusbar-debugger) ![][PP] ![][DDD] : Adds a debugger to the statusbar, less intrusive than the default floating one.
-- [`vscode-terminals`](https://github.com/fabiospampinato/vscode-terminals) : An extension for setting-up multiple terminals at once, or just running some commands.
++ [`vscode-terminals`](https://github.com/fabiospampinato/vscode-terminals) ![][PP] ![][DDD] : An extension for setting-up multiple terminals at once, or just running some commands.
 - [`vscode-todo-plus`](https://github.com/fabiospampinato/vscode-todo-plus) : Manage todo lists with ease. Powerful, easy to use and customizable.
 + [`vscode-transmit`](https://github.com/fabiospampinato/vscode-transmit) ![][PP] ![][DDD] : Adds a few commands for interacting with Transmit.
 
