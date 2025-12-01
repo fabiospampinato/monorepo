@@ -937,3 +937,6 @@
 [submodule "repositories/regexp-simple-parser"]
 	path = repositories/regexp-simple-parser
 	url = https://github.com/fabiospampinato/regexp-simple-parser.git
+[submodule "repositories/regexp-is-intraline"]
+	path = repositories/regexp-is-intraline
+	url = https://github.com/fabiospampinato/regexp-is-intraline.git

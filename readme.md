@@ -196,6 +196,7 @@ Repositories listed below are marked with some of the following badges.
 + [`qunit-ava-spec`](https://github.com/fabiospampinato/qunit-ava-spec) ![][P] ![][DDD] ![][BROWSER] : Helper functions for using QUnit as if it was ava/ava-spec.
 + [`radix64-encoding`](https://github.com/fabiospampinato/radix64-encoding) ![][PP] ![][DDD] ![][ISO] : Radix64 encoding, a.k.a. Base64 encoding. An extremely fast and synchronous JS implementation.
 + [`radix64url-encoding`](https://github.com/fabiospampinato/radix64url-encoding) ![][PP] ![][DDD] ![][ISO] : Radix64url encoding, a.k.a. Base64url encoding. An extremely fast and synchronous JS implementation.
++ [`regexp-is-intraline`](https://github.com/fabiospampinato/regexp-is-intraline): ![PP] ![][D] ![][ISO] : A function that tells you whether a RegExp is confined to the line it's executed on or not.
 + [`regexp-ranged-exec`](https://github.com/fabiospampinato/regexp-ranged-exec): ![PPP] ![][D] ![][ISO] : Generate an enhanced exec function, with information about the range of text that the regex paid attention to.
 + [`regexp-simple-parser`](https://github.com/fabiospampinato/regexp-simple-parser): ![PP] ![][D] ![][ISO] : A simple and modern RegExp parser.
 + [`safex`](https://github.com/fabiospampinato/safex): ![PP] ![][D] ![][ISO] : A language for writing safe expressions, in a tiny subset of JavaScript.
