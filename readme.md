@@ -297,7 +297,7 @@ Repositories listed below are marked with some of the following badges.
 + [`vscode-git-history`](https://github.com/fabiospampinato/vscode-git-history) ![][PP] ![][DDD] : View or diff against previous versions of the current file.
 + [`vscode-github-notifications-bell`](https://github.com/fabiospampinato/vscode-github-notifications-bell) ![][PP] ![][DDD] : A secure, customizable, statusbar bell that notifies you about notifications on github.
 + [`vscode-gitman`](https://github.com/fabiospampinato/vscode-gitman) ![][PP] ![][DDD] : Frontend for GitMan for switching quickly to other repositories.
-- [`vscode-highlight`](https://github.com/fabiospampinato/vscode-highlight) : Advanced text highlighter based on regexes. Useful for todos, annotations etc.
++ [`vscode-highlight`](https://github.com/fabiospampinato/vscode-highlight) ![][PP] ![][DDD] : Advanced text highlighter based on regexes. Useful for todos, annotations etc.
 + [`vscode-js-beautify`](https://github.com/fabiospampinato/vscode-js-beautify) ![][PPP] ![][DDD] : A little wrapper around "js-beautify" for conveniently beautifying CSS/HTML/JS files.
 + [`vscode-kasi`](https://github.com/fabiospampinato/vscode-kasi) ![][PP] ![][DDD] : A little wrapper over the "kasi" package for changing the casing of selections.
 + [`vscode-markdown-todo`](https://github.com/fabiospampinato/vscode-markdown-todo) ![][PPP] ![][DDD] : Manage todo lists inside markdown files with ease.
