@@ -940,3 +940,6 @@
 [submodule "repositories/regexp-is-intraline"]
 	path = repositories/regexp-is-intraline
 	url = https://github.com/fabiospampinato/regexp-is-intraline.git
+[submodule "repositories/tiny-shosho"]
+	path = repositories/tiny-shosho
+	url = https://github.com/fabiospampinato/tiny-shosho.git
