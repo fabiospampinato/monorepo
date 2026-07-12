@@ -943,3 +943,6 @@
 [submodule "repositories/tiny-shosho"]
 	path = repositories/tiny-shosho
 	url = https://github.com/fabiospampinato/tiny-shosho.git
+[submodule "repositories/regexp-get-prefix"]
+	path = repositories/regexp-get-prefix
+	url = https://github.com/fabiospampinato/regexp-get-prefix.git
