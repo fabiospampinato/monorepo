@@ -36,7 +36,7 @@ Repositories listed below are marked with some of the following badges.
 
 ## Repositories (Active)
 
-> Some repositories don't have badges yet, this list is stil a work in progress <!-- TODO -->
+> Some repositories don't have badges yet, this list is still a work in progress <!-- TODO -->
 
 ### JavaScript Packages
 
@@ -208,7 +208,7 @@ Repositories listed below are marked with some of the following badges.
 + [`skex`](https://github.com/fabiospampinato/skex) ![][PP] ![][D] ![][ISO] ![][TREE] : A modern schema validation and filtration library with great TypeScript support.
 + [`secret`](https://github.com/fabiospampinato/secret) ![][PP] ![][D] ![][NODE] ![][CLI] : The simplest command to encrypt/decrypt a file, useful for committing encrypted ".env" files to version control, among other things.
 + [`shortcuts`](https://github.com/fabiospampinato/shortcuts) ![][PP] ![][DDD] ![][BROWSER] : Super performant and feature rich shortcuts management library.
-+ [`shortcuts-font`](https://github.com/fabiospampinato/shortcuts-font) ![][P] ![][DDD] ![][NODE] : A minimal font designed to beutifully render characters used for representing shortcuts.
++ [`shortcuts-font`](https://github.com/fabiospampinato/shortcuts-font) ![][P] ![][DDD] ![][NODE] : A minimal font designed to beautifully render characters used for representing shortcuts.
 + [`shosho`](https://github.com/fabiospampinato/shosho) ![][P] ![][DDD] ![][BROWSER] : A modern and powerful shortcuts management library.
 + [`siar`](https://github.com/fabiospampinato/siar) ![][PP] ![][D] ![][ISO] : A simple random-access archive format.
 + [`special-tlds`](https://github.com/fabiospampinato/special-tlds) ![][P] ![][D] ![][ISO] : List of special-use ICANN TLDs.
@@ -223,7 +223,7 @@ Repositories listed below are marked with some of the following badges.
 + [`stubborn-fs`](https://github.com/fabiospampinato/stubborn-fs) ![][PP] ![][DD] ![][NODE] : Stubborn versions of Node's fs functions that try really hard to do their job.
 + [`stubborn-utils`](https://github.com/fabiospampinato/stubborn-utils) ![][P] ![][D] ![][ISO] : A small collection of utilities for making functions somewhat resilient against errors.
 + [`template`](https://github.com/fabiospampinato/template) ![][PPP] ![][DDD] ![][NODE] ![][CLI] : A super-simple way to create new projects based on templates.
-+ [`test-diff`](https://github.com/fabiospampinato/test-diff) ![][PP] ![][D] ![][NODE] : Library for writing tests that diff the excepted output with the actual output.
++ [`test-diff`](https://github.com/fabiospampinato/test-diff) ![][PP] ![][D] ![][NODE] : Library for writing tests that diff the expected output with the actual output.
 + [`textmate-highlighter`](https://github.com/fabiospampinato/textmate-highlighter) ![][PPP] ![][DDD] ![][ISO] : An isomorphic syntax highlighter using TextMate grammars and VSCode themes.
 + [`tiny-bin`](https://github.com/fabiospampinato/tiny-bin) ![][PP] ![][D] ![][NODE] : A library for building tiny and beautiful command line apps.
 + [`tiny-browser-open`](https://github.com/fabiospampinato/tiny-browser-open) ![][PP] ![][D] ![][NODE] : A tiny utility for opening a file or a URL inside a browser of your choosing.
@@ -248,7 +248,7 @@ Repositories listed below are marked with some of the following badges.
 + [`tiny-shosho`](https://github.com/fabiospampinato/tiny-shosho) ![][P] ![][D] ![][BROWSER] : A simple shortcuts management library.
 + [`tiny-spinner`](https://github.com/fabiospampinato/tiny-spinner) ![][PP] ![][DD] ![][NODE] : A simple, yet beautiful, CLI spinner.
 + [`tiny-sqlite3`](https://github.com/fabiospampinato/tiny-sqlite3) ![][PPP] ![][DDD] ![][NODE] : A tiny cross-platform client for SQLite3, with precompiled binaries as the only third-party dependencies.
-+ [`tiny-truncate`](https://github.com/fabiospampinato/tiny-truncate) ![][PP] ![][DD] ![][ISO] : A tiny function for truncating a string which may containg ANSI escapes, with automatic terminal width detection.
++ [`tiny-truncate`](https://github.com/fabiospampinato/tiny-truncate) ![][PP] ![][DD] ![][ISO] : A tiny function for truncating a string which may containing ANSI escapes, with automatic terminal width detection.
 + [`tiny-updater`](https://github.com/fabiospampinato/tiny-updater) ![][PP] ![][D] ![][ISO] : The smallest update notifier for NPM packages, useful for CLI apps.
 + [`tiny-webcrypto`](https://github.com/fabiospampinato/tiny-webcrypto) ![][P] ![][D] ![][ISO] : A tiny isomorphic WebCrypto object, it just gives you the native one the current platform provides.
 + [`tokens-highlighter`](https://github.com/fabiospampinato/tokens-highlighter) ![][PP] ![][DDD] ![][ISO] : A general syntax highlighter that can render syntax highlighting tokens.
@@ -256,8 +256,8 @@ Repositories listed below are marked with some of the following badges.
 + [`tryloop`](https://github.com/fabiospampinato/tryloop) ![][P] ![][D] ![][ISO] : Simple library for retrying operations, it supports multiple backoff strategies.
 + [`tsex`](https://github.com/fabiospampinato/tsex) ![][PP] ![][D] ![][NODE] ![][CLI] : A little CLI for making TypeScript packages, cleanly and effortlessly.
 + [`ua2os`](https://github.com/fabiospampinato/ua2os) ![][P] ![][D] ![][ISO] : Detect the OS from a User-Agent string.
-+ [`uint-rng`](https://github.com/fabiospampinato/uint-rng) ![][PP] ![][D] ![][ISO] : A tiny insorphic Random Number Generator for generating 1/8/16/32/64-bits unsigned integers.
-+ [`uint8-concat`](https://github.com/fabiospampinato/uint8-concat) ![][P] ![][D] ![][ISO] : Concatenate mutiple Uint8Arrays super efficiently.
++ [`uint-rng`](https://github.com/fabiospampinato/uint-rng) ![][PP] ![][D] ![][ISO] : A tiny isomorphic Random Number Generator for generating 1/8/16/32/64-bits unsigned integers.
++ [`uint8-concat`](https://github.com/fabiospampinato/uint8-concat) ![][P] ![][D] ![][ISO] : Concatenate multiple Uint8Arrays super efficiently.
 + [`uint8-encoding`](https://github.com/fabiospampinato/uint8-encoding) ![][P] ![][DDD] ![][ISO] : Uint8 encoding, a simple way to convert strings to Uint8Arrays and vice versa.
 + [`uint8-to-hex`](https://github.com/fabiospampinato/uint8-to-hex) ![][PP] ![][DDD] ![][ISO] : The fastest function to convert a Uint8Array to hexadecimal.
 + [`unsanitize-basename`](https://github.com/fabiospampinato/unsanitize-basename) ![][P] ![][D] ![][ISO] : Unsanitize a file name, the inverse of the "sanitize-basename" library.
