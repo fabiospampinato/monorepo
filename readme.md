@@ -223,7 +223,7 @@ Repositories listed below are marked with some of the following badges.
 + [`stubborn-fs`](https://github.com/fabiospampinato/stubborn-fs) ![][PP] ![][DD] ![][NODE] : Stubborn versions of Node's fs functions that try really hard to do their job.
 + [`stubborn-utils`](https://github.com/fabiospampinato/stubborn-utils) ![][P] ![][D] ![][ISO] : A small collection of utilities for making functions somewhat resilient against errors.
 + [`template`](https://github.com/fabiospampinato/template) ![][PPP] ![][DDD] ![][NODE] ![][CLI] : A super-simple way to create new projects based on templates.
-+ [`test-diff`](https://github.com/fabiospampinato/test-diff) ![][PP] ![][D] ![][NODE] : Library for writing tests that diff the excepted output with the actual output.
++ [`test-diff`](https://github.com/fabiospampinato/test-diff) ![][PP] ![][D] ![][NODE] : Library for writing tests that diff the expected output with the actual output.
 + [`textmate-highlighter`](https://github.com/fabiospampinato/textmate-highlighter) ![][PPP] ![][DDD] ![][ISO] : An isomorphic syntax highlighter using TextMate grammars and VSCode themes.
 + [`tiny-bin`](https://github.com/fabiospampinato/tiny-bin) ![][PP] ![][D] ![][NODE] : A library for building tiny and beautiful command line apps.
 + [`tiny-browser-open`](https://github.com/fabiospampinato/tiny-browser-open) ![][PP] ![][D] ![][NODE] : A tiny utility for opening a file or a URL inside a browser of your choosing.
@@ -256,7 +256,7 @@ Repositories listed below are marked with some of the following badges.
 + [`tryloop`](https://github.com/fabiospampinato/tryloop) ![][P] ![][D] ![][ISO] : Simple library for retrying operations, it supports multiple backoff strategies.
 + [`tsex`](https://github.com/fabiospampinato/tsex) ![][PP] ![][D] ![][NODE] ![][CLI] : A little CLI for making TypeScript packages, cleanly and effortlessly.
 + [`ua2os`](https://github.com/fabiospampinato/ua2os) ![][P] ![][D] ![][ISO] : Detect the OS from a User-Agent string.
-+ [`uint-rng`](https://github.com/fabiospampinato/uint-rng) ![][PP] ![][D] ![][ISO] : A tiny insorphic Random Number Generator for generating 1/8/16/32/64-bits unsigned integers.
++ [`uint-rng`](https://github.com/fabiospampinato/uint-rng) ![][PP] ![][D] ![][ISO] : A tiny isomorphic Random Number Generator for generating 1/8/16/32/64-bits unsigned integers.
 + [`uint8-concat`](https://github.com/fabiospampinato/uint8-concat) ![][P] ![][D] ![][ISO] : Concatenate mutiple Uint8Arrays super efficiently.
 + [`uint8-encoding`](https://github.com/fabiospampinato/uint8-encoding) ![][P] ![][DDD] ![][ISO] : Uint8 encoding, a simple way to convert strings to Uint8Arrays and vice versa.
 + [`uint8-to-hex`](https://github.com/fabiospampinato/uint8-to-hex) ![][PP] ![][DDD] ![][ISO] : The fastest function to convert a Uint8Array to hexadecimal.
